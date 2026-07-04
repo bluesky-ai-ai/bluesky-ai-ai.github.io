@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "[속보] 삼성전기, 부산에 15조 투자…패키지 기판·MLCC 마더라인 육성",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305968"
+      "title": "우리銀, 고객 연계정보 1만 7000여건 유출…외부업체 과실",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637942"
     },
     {
-      "title": "우리은행, 리테일영업총괄부 신설…정진완표 영업·내부통제 강화",
-      "url": "https://n.news.naver.com/mnews/article/417/0001150221"
+      "title": "그래서, 홈플러스는 어떻게 된다고요?",
+      "url": "https://n.news.naver.com/mnews/article/005/0001858876"
     },
     {
-      "title": "LH 새 수장 이성훈…공급 확대부터 재무 개선까지 과제 '산적'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009039287"
+      "title": "세계 식량가격 두 달 연속 하락…곡물·유제품·설탕 가격 내려",
+      "url": "https://n.news.naver.com/mnews/article/119/0003107956"
     },
     {
-      "title": "‘회생할 2000억원이 없었다’…30년 홈플러스 파산 수순",
-      "url": "https://n.news.naver.com/mnews/article/011/0004637860"
+      "title": "KB금융, 차기 회장 후보에 양종희·이재근·이창권 등 6명 확정",
+      "url": "https://n.news.naver.com/mnews/article/020/0003731412"
     },
     {
-      "title": "\"더 안전한 하늘\" 민·군 항공기 인증협력 업무협약 체결",
-      "url": "https://n.news.naver.com/mnews/article/079/0004164501"
+      "title": "고유가 피해지원금 신청 마감… 대상자 98%에 6조 1000억여 원 지급",
+      "url": "https://n.news.naver.com/mnews/article/011/0004638104"
     },
     {
-      "title": "한화토탈에너지스, 주요 제품 가격 톤당 최대 20만원 인하",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665449"
+      "title": "한화·현대차·삼성·SK 등 영남권에 312조 투자…AI·반도체·로봇 거점 육성",
+      "url": "https://n.news.naver.com/mnews/article/449/0000351491"
     },
     {
-      "title": "한국판 스타링크 띄운다…2035년 저궤도 위성망 완성",
-      "url": "https://n.news.naver.com/mnews/article/001/0016175247"
+      "title": "대우건설, 美 뉴저지 540가구 주거개발 투자…20년 만에 북미 개발사업 재개",
+      "url": "https://n.news.naver.com/mnews/article/277/0005785090"
     },
     {
-      "title": "앤트로픽, 삼성전자와 AI 칩 협력 논의…2나노 경쟁력 주목",
-      "url": "https://n.news.naver.com/mnews/article/028/0002812516"
+      "title": "셀트리온, 2분기 영업익 4300억원…분기 기준 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535205"
     },
     {
-      "title": "상반기 외국인직접투자 도착액 42.6%↑…제조업 205.2%↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009039086"
+      "title": "우리은행, 리테일영업총괄부 신설…데이터 기반 영업 강화",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257549"
     },
     {
-      "title": "미 캐피털그룹, KT&G 104만주 또 샀다…지분율 8.2%로",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257504"
+      "title": "[속보] 우주청장 \"누리호 활용 2030년 소형 달 착륙선 보낼 것\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305998"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1529.43,
-      "change": -22.38,
-      "change_pct": -1.44
+      "value": 1530.15,
+      "change": -21.66,
+      "change_pct": -1.4
     }
   },
   "gold": {
-    "price_usd": 4194.9,
-    "price_krw": 6415805,
-    "change": 82.2,
-    "change_pct": 2.0
+    "price_usd": 4187.3,
+    "price_krw": 6407196,
+    "change": 74.6,
+    "change_pct": 1.81
   },
-  "updated": "2026-07-03 17:38",
+  "updated": "2026-07-04 16:32",
   "error": null
 }
