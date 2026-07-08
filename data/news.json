@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코스피 4.9% 급락 7,600선으로 밀려…원·달러 환율 1,528원대",
-      "url": "https://n.news.naver.com/mnews/article/056/0012213257"
-    },
-    {
-      "title": "상표권 사용료 적정했나…공정위, 한화 이어 CJ도 내부거래 여부 조사",
-      "url": "https://n.news.naver.com/mnews/article/028/0002813023"
-    },
-    {
-      "title": "국산 항공 엔진의 요람...한화에어로 창원1사업장 가보니[르포]",
-      "url": "https://n.news.naver.com/mnews/article/031/0001040354"
-    },
-    {
-      "title": "관세청, 환전소 47곳 불법행위 적발…허위장부 작성·고액현금거래 미보고",
-      "url": "https://n.news.naver.com/mnews/article/079/0004165695"
-    },
-    {
-      "title": "이천·양주·용인·수원·의정부서 서울 직행버스 늘어난다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006324481"
-    },
-    {
-      "title": "에이비엘바이오 \"위암 치료제, 12월 3상 시작\"",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048700"
-    },
-    {
-      "title": "AI로 투자기업 찾는다…금감원·네이버페이 '모험자본 투자 플랫폼' 출범",
-      "url": "https://n.news.naver.com/mnews/article/374/0000520435"
+      "title": "성능 경쟁 이겼지만 나토 결속에 눈물…韓 잠수함 세계에 알렸다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786417"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002375997"
+      "url": "https://n.news.naver.com/mnews/article/422/0000882180"
     },
     {
-      "title": "\"캐나다 잠수함 수주전, 나토 '상호운용성'이 결정적 차이\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005382511"
+      "title": "수도권 해운기업 러시…흥아해운도 부산 온다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002667016"
     },
     {
-      "title": "“파티 끝나면 개미만 남아, 오징어게임 될 수도”…WSJ가 韓증시에 날린 경고",
-      "url": "https://n.news.naver.com/mnews/article/009/0005703896"
+      "title": "증권사·VC와 벤처기업 잇는다…모험자본 플랫폼 출범",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639041"
+    },
+    {
+      "title": "오후 8시까지 주문하면 2시간 내 배송…SSG닷컴 서비스 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786850"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001510125"
+    },
+    {
+      "title": "홈플러스 운명에 흔들리는 몰 상권…다이소·CJ올리브영·영화관 셈법 복잡",
+      "url": "https://n.news.naver.com/mnews/article/421/0009046415"
+    },
+    {
+      "title": "LG전자, 2개 분기 연속 영업익 1조대…전장·HVAC로 빛났다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639085"
+    },
+    {
+      "title": "반도체가 수출 이끌며…경상수지 흑자 5개월만에 지난해 ‘최대’ 기록 추월",
+      "url": "https://n.news.naver.com/mnews/article/023/0003986400"
+    },
+    {
+      "title": "양도세 피하려 ‘엄마 친구’에게 아파트 허위 매도…10억원 추징",
+      "url": "https://n.news.naver.com/mnews/article/020/0003732168"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7656.31,
-      "change": -395.02,
-      "change_pct": -4.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 831.23,
-      "change": -15.84,
-      "change_pct": -1.87
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26121.16,
-      "change": 288.49,
-      "change_pct": 1.12
+      "value": 25818.69,
+      "change": -302.47,
+      "change_pct": -1.16
     },
     "usdkrw": {
-      "value": 1521.09,
-      "change": -9.91,
-      "change_pct": -0.65
+      "value": 1518.68,
+      "change": -10.08,
+      "change_pct": -0.66
     }
   },
   "gold": {
-    "price_usd": 4139.4,
-    "price_krw": 6296399,
-    "change": -15.7,
-    "change_pct": -0.38
+    "price_usd": 4111.8,
+    "price_krw": 6244508,
+    "change": -43.3,
+    "change_pct": -1.04
   },
-  "updated": "2026-07-07 17:58",
+  "updated": "2026-07-08 09:16",
   "error": null
 }
