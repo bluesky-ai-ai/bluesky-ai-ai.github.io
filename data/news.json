@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'43조 잭팟' SK하이닉스…\"한국서 팔아라\" 이유 알고보니",
-      "url": "https://n.news.naver.com/mnews/article/015/0005307896"
+      "title": "삼성디스플레이, 中 '빌리빌리 월드 2026' 첫 참가…게이밍 브랜드 '오블릭스' 공개",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788330"
     },
     {
-      "title": "KB국민은행, 포스코와 손잡고 K-철강 공급망 상생 지원",
-      "url": "https://n.news.naver.com/mnews/article/008/0005383953"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258170"
     },
     {
-      "title": "‘건설의 날’ 기념행사 개최…“AI·로봇 등 미래를 짓는 K-건설”",
-      "url": "https://n.news.naver.com/mnews/article/119/0003109542"
+      "title": "MBK 면담 앞둔 홈플러스 노조...\"2000억 지원 요구\"",
+      "url": "https://n.news.naver.com/mnews/article/243/0000100277"
     },
     {
-      "title": "LG디스플레이, 게이밍 OLED 모니터 '성능 따라 실력 향상' 입증",
-      "url": "https://n.news.naver.com/mnews/article/421/0009049402"
+      "title": "\"성과급을 지역화폐로?\" 삼전 노조 반발에 놀란 與, 결국 법안 철회",
+      "url": "https://n.news.naver.com/mnews/article/586/0000133519"
     },
     {
-      "title": "'각그랜저' 옆 '신형 그랜저' 나란히…현대차, 40년 쌓은 '고급 세단' 기술 첫 공개[현장]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014056097"
+      "title": "대웅제약, 웨이센 AI 내시경 소프트웨어 판매…디지털 헬스케어 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788116"
     },
     {
-      "title": "서울외곽 강세 지속…동탄·기흥·구리 '막판 매수' 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308248"
+      "title": "코스피·코스닥 매수 사이드카…삼전 7% 급등 반도체株 강세 [마켓시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640278"
     },
     {
-      "title": "'솔리드웍스' SW 판매시장 100% 점유한 8개사 가격 담합…과징금 23.7억",
-      "url": "https://n.news.naver.com/mnews/article/421/0009049882"
+      "title": "SK하닉 ADS 상장  D-1…미국서 비싸면 韓 본주도 오를까",
+      "url": "https://n.news.naver.com/mnews/article/018/0006326130"
     },
     {
-      "title": "영끌·빚투에 가계대출 4개월 연속 증가…당국, 사내대출 자율협조 요청",
-      "url": "https://n.news.naver.com/mnews/article/469/0000941284"
+      "title": "'강릉커피거리' 갈 때 평창·정선도 함께…농식품부, K농촌관광벨트 시범모델 개발",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788197"
     },
     {
-      "title": "호남권 반도체 클러스터 ‘광주 군공항 인근’ 토지거래허가구역 지정",
-      "url": "https://n.news.naver.com/mnews/article/081/0003659885"
+      "title": "이마트, 몽골에 최대 규모 노브랜드 매장…중소기업 수출길 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640320"
     },
     {
-      "title": "하이닉스 '7배 뭉칫돈' 잭팟…최태원, 나스닥 '오프닝 벨' 울린다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005307970"
+      "title": "국토장관 \"모듈러 기술, 고품질 주택 공급 핵심 돌파구\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258325"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7291.91,
-      "change": 45.12,
-      "change_pct": 0.62
+      "value": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52
     },
     "kosdaq": {
-      "value": 794.0,
-      "change": 9.0,
-      "change_pct": 1.15
+      "value": 837.43,
+      "change": 43.43,
+      "change_pct": 5.47
     },
     "nasdaq": {
-      "value": 25870.65,
-      "change": 51.96,
-      "change_pct": 0.2
+      "value": 26206.89,
+      "change": 336.24,
+      "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1512.12,
-      "change": -7.74,
-      "change_pct": -0.51
+      "value": 1505.16,
+      "change": 1.81,
+      "change_pct": 0.12
     }
   },
   "gold": {
-    "price_usd": 4120.1,
-    "price_krw": 6230085,
-    "change": 49.2,
-    "change_pct": 1.21
+    "price_usd": 4109.9,
+    "price_krw": 6186056,
+    "change": -20.7,
+    "change_pct": -0.5
   },
-  "updated": "2026-07-09 17:56",
+  "updated": "2026-07-10 17:52",
   "error": null
 }
