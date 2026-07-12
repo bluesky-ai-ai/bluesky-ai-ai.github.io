@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "코스피 5%대·코스닥 6% 급등세에 양 시장 매수 사이드카",
-      "url": "https://n.news.naver.com/mnews/article/055/0001371427"
+      "title": "\"반값 세일에 30분 대기\"…'청산 위기' 홈플러스 매장 계산 대기줄",
+      "url": "https://n.news.naver.com/mnews/article/003/0014060305"
     },
     {
-      "title": "이마트 노브랜드, 몽골 1호점 낸다…\"소상공인 수출 확대\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006327056"
+      "title": "하루 1조 번 삼성전자...파운드리·성과보상·투자부담 숙제 남았다",
+      "url": "https://n.news.naver.com/mnews/article/243/0000100309"
     },
     {
-      "title": "중앙일보 워크아웃 개시...채권자 75% 이상 동의",
-      "url": "https://n.news.naver.com/mnews/article/052/0002377816"
+      "title": "펩트론·HLB 쇼크에도 바이오 '훈풍'…코스닥 수급 온기 확산[바이오 맥짚기]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328212"
     },
     {
-      "title": "농촌관광 '광역벨트' 시대…체류형 관광모델 11곳 제시",
-      "url": "https://n.news.naver.com/mnews/article/119/0003110043"
+      "title": "[단독]삼성전자, '용인 1호팹' 양산 2년 더 빨리…SK, 미국 신규 투자",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384609"
     },
     {
-      "title": "SK하이닉스, 나스닥 첫날 168달러로 급등마감…공모가대비 13%↑(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016188453"
+      "title": "“화려하다”…SK하이닉스 美 상장에 외신도 주목",
+      "url": "https://n.news.naver.com/mnews/article/029/0003036447"
     },
     {
-      "title": "뉴욕서 오프닝 벨 울린 최태원…“하이닉스, 美 빅테크와 더 밀착”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640446"
+      "title": "3년 6개월 만의 금리인상 유력…'추가 인상' 신호 나오나[한은 미리보기]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006327490"
     },
     {
-      "title": "정부 \"홈플러스 6월 임금 333억원 체불…대지급금 신속 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016187936"
+      "title": "SK하이닉스 美성공 데뷔…기술주 강세에 시장도 활짝[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384514"
     },
     {
-      "title": "합동대응단, 의료기기 코스닥사 압수수색…200억대 부당이득",
-      "url": "https://n.news.naver.com/mnews/article/001/0016187141"
+      "title": "코인이 된 달러 '스테이블코인'…달러 패권 강화할까?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384620"
     },
     {
-      "title": "“성과급, 지역화폐로 주자” 법안 발의…초기업노조 “국회의원부터 해라”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660120"
+      "title": "주담대는 조이고 청년은 푼다?…실수요 지원·집값 '딜레마'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009054093"
     },
     {
-      "title": "호반문화재단 전국청년작가 미술공모전 대상에 황지윤",
-      "url": "https://n.news.naver.com/mnews/article/001/0016187320"
+      "title": "‘실적 부진’ 모나미, 돌연 주가 25% 급등…“상폐 위기였는데” 무슨 일?",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660304"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 837.43,
+      "change": 43.43,
+      "change_pct": 5.47
     },
     "nasdaq": {
       "value": 26281.61,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4128.9,
-    "price_krw": 6188684,
-    "change": -1.7,
-    "change_pct": -0.04
+    "price_usd": 4104.1,
+    "price_krw": 6151512,
+    "change": -26.5,
+    "change_pct": -0.64
   },
-  "updated": "2026-07-11 09:14",
+  "updated": "2026-07-12 09:15",
   "error": null
 }
