@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "\"반값 세일에 30분 대기\"…'청산 위기' 홈플러스 매장 계산 대기줄",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060305"
+      "title": "[단독] 단일종목 레버리지 투자자 77%가 예탁금 5000만 원 이상",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640725"
     },
     {
-      "title": "하루 1조 번 삼성전자...파운드리·성과보상·투자부담 숙제 남았다",
-      "url": "https://n.news.naver.com/mnews/article/243/0000100309"
+      "title": "비트코인의 다양한 분류",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328710"
     },
     {
-      "title": "펩트론·HLB 쇼크에도 바이오 '훈풍'…코스닥 수급 온기 확산[바이오 맥짚기]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006328212"
+      "title": "“이 회사 살려야 한다” 개미들 우르르…상폐 위기에 주가 100% 뛴 뜻밖의 이유",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640846"
     },
     {
-      "title": "[단독]삼성전자, '용인 1호팹' 양산 2년 더 빨리…SK, 미국 신규 투자",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384609"
+      "title": "\"'40조' 구원투수 등판한다\"…\"통화스와프급\" 외환시장 '들썩'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258398"
     },
     {
-      "title": "“화려하다”…SK하이닉스 美 상장에 외신도 주목",
-      "url": "https://n.news.naver.com/mnews/article/029/0003036447"
+      "title": "무협, 인도 시장 분석 돕는다…경제·산업 통계집 첫 발간",
+      "url": "https://n.news.naver.com/mnews/article/003/0014061975"
     },
     {
-      "title": "3년 6개월 만의 금리인상 유력…'추가 인상' 신호 나오나[한은 미리보기]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006327490"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521243"
     },
     {
-      "title": "SK하이닉스 美성공 데뷔…기술주 강세에 시장도 활짝[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384514"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012216560"
     },
     {
-      "title": "코인이 된 달러 '스테이블코인'…달러 패권 강화할까?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384620"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000884257"
     },
     {
-      "title": "주담대는 조이고 청년은 푼다?…실수요 지원·집값 '딜레마'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009054093"
+      "title": "삼성전자 용인 반도체 공장 1~2년 앞당긴다…“2029년 가동”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536990"
     },
     {
-      "title": "‘실적 부진’ 모나미, 돌연 주가 25% 급등…“상폐 위기였는데” 무슨 일?",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660304"
+      "title": "“미국선 이미 252만원”…하이닉스, 13일 250만원 갈까",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142330"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 26281.61,
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1500.58,
+      "change": -5.33,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4092.9,
+    "price_krw": 6141723,
+    "change": -11.2,
+    "change_pct": -0.27
   },
-  "updated": "2026-07-12 09:15",
+  "updated": "2026-07-13 09:14",
   "error": null
 }
