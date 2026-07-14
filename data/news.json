@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[단독] 단일종목 레버리지 투자자 77%가 예탁금 5000만 원 이상",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640725"
+      "title": "\"대출 못 받는다고?\"…내 집 마련 앞둔 실수요자 '발동동'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521238"
     },
     {
-      "title": "비트코인의 다양한 분류",
-      "url": "https://n.news.naver.com/mnews/article/018/0006328710"
+      "title": "현대차 노조, 임협 난항으로 오늘부터 부분 파업",
+      "url": "https://n.news.naver.com/mnews/article/001/0016190042"
     },
     {
-      "title": "“이 회사 살려야 한다” 개미들 우르르…상폐 위기에 주가 100% 뛴 뜻밖의 이유",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640846"
+      "title": "\"역주행 주역\" 도미노피자, 젠지 아이콘 '리센느' 모델 발탁",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328792"
     },
     {
-      "title": "\"'40조' 구원투수 등판한다\"…\"통화스와프급\" 외환시장 '들썩'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258398"
+      "title": "SK하이닉스 15% 급락...ADR-본주 ‘디커플링’ 심해지나",
+      "url": "https://n.news.naver.com/mnews/article/029/0003036817"
     },
     {
-      "title": "무협, 인도 시장 분석 돕는다…경제·산업 통계집 첫 발간",
-      "url": "https://n.news.naver.com/mnews/article/003/0014061975"
+      "title": "내년 800조+α ‘슈퍼 확장재정’…50조 규모 지출구조조정도 병행",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733528"
+    },
+    {
+      "title": "삼성 이재용, 2Q 주식평가액 28조 증가 '독보적 1위'…SK 최태원 '10조 클럽' 첫 가입",
+      "url": "https://n.news.naver.com/mnews/article/003/0014064420"
+    },
+    {
+      "title": "'상장 랠리' 하루 만에 꺾인 SK하이닉스 ADR…나스닥 1.6%↓[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006329500"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521243"
+      "url": "https://n.news.naver.com/mnews/article/056/0012217016"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012216560"
+      "title": "정부, 신규원전·SMR 도입 공식화…“확정 AI·반도체 사업만 30GW 필요”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002813909"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000884257"
-    },
-    {
-      "title": "삼성전자 용인 반도체 공장 1~2년 앞당긴다…“2029년 가동”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003536990"
-    },
-    {
-      "title": "“미국선 이미 252만원”…하이닉스, 13일 250만원 갈까",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142330"
+      "title": "반도체 흐름에 하반기 수출도 53.9% 쑥…'역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006329414"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7475.94,
+      "value": 6806.93,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.43,
+      "value": 799.36,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29
+      "value": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55
     },
     "usdkrw": {
-      "value": 1500.58,
-      "change": -5.33,
-      "change_pct": -0.35
+      "value": 1497.68,
+      "change": -0.8,
+      "change_pct": -0.05
     }
   },
   "gold": {
-    "price_usd": 4092.9,
-    "price_krw": 6141723,
-    "change": -11.2,
-    "change_pct": -0.27
+    "price_usd": 4008.7,
+    "price_krw": 6003749,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-13 09:14",
+  "updated": "2026-07-14 09:09",
   "error": null
 }
