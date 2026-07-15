@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"대출 못 받는다고?\"…내 집 마련 앞둔 실수요자 '발동동'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521238"
+      "title": "공모가 불안하더니 \"2배 간다\"…SK하이닉스에 월가 '들썩'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258743"
     },
     {
-      "title": "현대차 노조, 임협 난항으로 오늘부터 부분 파업",
-      "url": "https://n.news.naver.com/mnews/article/001/0016190042"
+      "title": "2분기 고용률 코로나 이후 6년 만에 감소... 3달 연속 내리막",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987685"
     },
     {
-      "title": "\"역주행 주역\" 도미노피자, 젠지 아이콘 '리센느' 모델 발탁",
-      "url": "https://n.news.naver.com/mnews/article/018/0006328792"
+      "title": "\"변동성 키웠지만 원인은 아냐\"…삼전·하닉 흔든 진짜 이유",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258637"
     },
     {
-      "title": "SK하이닉스 15% 급락...ADR-본주 ‘디커플링’ 심해지나",
-      "url": "https://n.news.naver.com/mnews/article/029/0003036817"
+      "title": "'선크림 SPF 미달 의혹' 다이소 \"식약처 고시 준수…공인기관 재검증 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009058060"
     },
     {
-      "title": "내년 800조+α ‘슈퍼 확장재정’…50조 규모 지출구조조정도 병행",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733528"
+      "title": "'5극3특' 지역주도 성장 지원…수도권 편중 해소 관건",
+      "url": "https://n.news.naver.com/mnews/article/079/0004168158"
     },
     {
-      "title": "삼성 이재용, 2Q 주식평가액 28조 증가 '독보적 1위'…SK 최태원 '10조 클럽' 첫 가입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014064420"
+      "title": "우리은행, 1670조 국민연금 외화금고 재선정… 최장 5년 더 맡는다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003037041"
     },
     {
-      "title": "'상장 랠리' 하루 만에 꺾인 SK하이닉스 ADR…나스닥 1.6%↓[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006329500"
+      "title": "우리은행, 16일부터 월별 주담대 한도 30억→10억 축소",
+      "url": "https://n.news.naver.com/mnews/article/016/0002670237"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012217016"
+      "title": "전세사기 ‘위험신호’ 한 눈에…국토부-민간 플랫폼 MOU 체결",
+      "url": "https://n.news.naver.com/mnews/article/056/0012217659"
     },
     {
-      "title": "정부, 신규원전·SMR 도입 공식화…“확정 AI·반도체 사업만 30GW 필요”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002813909"
+      "title": "정부, 올해 성장률 3.0%로 상향…경상성장률 12.3%로 30년래 최고",
+      "url": "https://n.news.naver.com/mnews/article/448/0000626788"
     },
     {
-      "title": "반도체 흐름에 하반기 수출도 53.9% 쑥…'역대 최대'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006329414"
+      "title": "삼성SDI, 세계 최초 UPS 배터리 대형 화재 테스트 통과",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457946"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6806.93,
+      "value": 6856.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 799.36,
+      "value": 783.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25873.18,
-      "change": -408.43,
-      "change_pct": -1.55
+      "value": 26107.01,
+      "change": 233.83,
+      "change_pct": 0.9
     },
     "usdkrw": {
-      "value": 1497.68,
-      "change": -0.8,
-      "change_pct": -0.05
+      "value": 1487.91,
+      "change": -9.79,
+      "change_pct": -0.65
     }
   },
   "gold": {
-    "price_usd": 4008.7,
-    "price_krw": 6003749,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4060.5,
+    "price_krw": 6041658,
+    "change": 63.5,
+    "change_pct": 1.59
   },
-  "updated": "2026-07-14 09:09",
+  "updated": "2026-07-15 09:05",
   "error": null
 }
