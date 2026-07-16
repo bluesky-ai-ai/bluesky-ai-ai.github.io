@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "공모가 불안하더니 \"2배 간다\"…SK하이닉스에 월가 '들썩'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258743"
+      "title": "양종희 \"데이터 활용이 경쟁력\"…KB금융, 'AI 전환' 드라이브 가속화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005386443"
     },
     {
-      "title": "2분기 고용률 코로나 이후 6년 만에 감소... 3달 연속 내리막",
-      "url": "https://n.news.naver.com/mnews/article/023/0003987685"
+      "title": "MBK, 美서 ‘프로젝트 크루서블’ 소개…고려아연 “황당”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708107"
     },
     {
-      "title": "\"변동성 키웠지만 원인은 아냐\"…삼전·하닉 흔든 진짜 이유",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258637"
+      "title": "'취업자 늘었다는데'…청년 고용률은 26개월 연속 감소세",
+      "url": "https://n.news.naver.com/mnews/article/057/0001958665"
     },
     {
-      "title": "'선크림 SPF 미달 의혹' 다이소 \"식약처 고시 준수…공인기관 재검증 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009058060"
+      "title": "김소희 \"소상공인 최저임금 구분 적용 필요\"...최저임금법 개정안 발의",
+      "url": "https://n.news.naver.com/mnews/article/057/0001958714"
     },
     {
-      "title": "'5극3특' 지역주도 성장 지원…수도권 편중 해소 관건",
-      "url": "https://n.news.naver.com/mnews/article/079/0004168158"
+      "title": "한은 '예고대로' 기준금리 인상할 듯…3년 6개월 만에 긴축 돌입",
+      "url": "https://n.news.naver.com/mnews/article/055/0001372897"
     },
     {
-      "title": "우리은행, 1670조 국민연금 외화금고 재선정… 최장 5년 더 맡는다",
-      "url": "https://n.news.naver.com/mnews/article/029/0003037041"
+      "title": "“지금은 멈춰 설 때 아니다”…현대로템, 노조에 “파업 대신 대화” 호소",
+      "url": "https://n.news.naver.com/mnews/article/016/0002670952"
     },
     {
-      "title": "우리은행, 16일부터 월별 주담대 한도 30억→10억 축소",
-      "url": "https://n.news.naver.com/mnews/article/016/0002670237"
+      "title": "6월 자동차 수출 '역대 최대'…친환경차 첫 10만대 돌파",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330658"
     },
     {
-      "title": "전세사기 ‘위험신호’ 한 눈에…국토부-민간 플랫폼 MOU 체결",
-      "url": "https://n.news.naver.com/mnews/article/056/0012217659"
+      "title": "\"문송합니다\"는 가라… 60년 역사 효성, 첫 '문과생 전용' 신입 공채",
+      "url": "https://n.news.naver.com/mnews/article/469/0000942510"
     },
     {
-      "title": "정부, 올해 성장률 3.0%로 상향…경상성장률 12.3%로 30년래 최고",
-      "url": "https://n.news.naver.com/mnews/article/448/0000626788"
+      "title": "“경제인 한 자리 모여 ‘AI 대전환’ 해법 모색”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003037298"
     },
     {
-      "title": "삼성SDI, 세계 최초 UPS 배터리 대형 화재 테스트 통과",
-      "url": "https://n.news.naver.com/mnews/article/032/0003457946"
+      "title": "류진 한경협 회장 “한국 다음 50년 열려면, 제조업·서비스·에너지 묶어 AI 전환해야”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641954"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6856.83,
+      "value": 7284.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 783.98,
+      "value": 829.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26107.01,
-      "change": 233.83,
-      "change_pct": 0.9
+      "value": 26269.23,
+      "change": 162.22,
+      "change_pct": 0.62
     },
     "usdkrw": {
-      "value": 1487.91,
-      "change": -9.79,
-      "change_pct": -0.65
+      "value": 1484.58,
+      "change": -3.3,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4060.5,
-    "price_krw": 6041658,
-    "change": 63.5,
-    "change_pct": 1.59
+    "price_usd": 4062.9,
+    "price_krw": 6031699,
+    "change": 1.8,
+    "change_pct": 0.04
   },
-  "updated": "2026-07-15 09:05",
+  "updated": "2026-07-16 09:13",
   "error": null
 }
