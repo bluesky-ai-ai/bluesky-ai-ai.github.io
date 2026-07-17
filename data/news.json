@@ -1,51 +1,51 @@
 {
   "news": [
     {
-      "title": "양종희 \"데이터 활용이 경쟁력\"…KB금융, 'AI 전환' 드라이브 가속화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005386443"
+      "title": "[단독] 삼닉 레버리지 예탁금 … 3배 높여 3천만원으로",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708549"
     },
     {
-      "title": "MBK, 美서 ‘프로젝트 크루서블’ 소개…고려아연 “황당”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708107"
+      "title": "메리츠, 홈플러스에 2000억 수혈…회생계획안도 찬성",
+      "url": "https://n.news.naver.com/mnews/article/015/0005310861"
     },
     {
-      "title": "'취업자 늘었다는데'…청년 고용률은 26개월 연속 감소세",
-      "url": "https://n.news.naver.com/mnews/article/057/0001958665"
+      "title": "[속보]기준금리 0.25%p 인상…3년6개월만 긴축 속 코스피 7000선 붕괴",
+      "url": "https://n.news.naver.com/mnews/article/021/0002805093"
     },
     {
-      "title": "김소희 \"소상공인 최저임금 구분 적용 필요\"...최저임금법 개정안 발의",
-      "url": "https://n.news.naver.com/mnews/article/057/0001958714"
+      "title": "\"30억 넘는 아파트가 7배?\"…‘초고가 주택’ 기준 20억? 30억?",
+      "url": "https://n.news.naver.com/mnews/article/022/0004143535"
     },
     {
-      "title": "한은 '예고대로' 기준금리 인상할 듯…3년 6개월 만에 긴축 돌입",
-      "url": "https://n.news.naver.com/mnews/article/055/0001372897"
+      "title": "‘반도체 피크아웃’ 공포에… 삼전닉스 추락·코스피는 다시 7000선 붕괴",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861509"
     },
     {
-      "title": "“지금은 멈춰 설 때 아니다”…현대로템, 노조에 “파업 대신 대화” 호소",
-      "url": "https://n.news.naver.com/mnews/article/016/0002670952"
+      "title": "“종부세, 주택수 아닌 가액으로 개편…세액공제도 거주 기준으로”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012219467"
     },
     {
-      "title": "6월 자동차 수출 '역대 최대'…친환경차 첫 10만대 돌파",
-      "url": "https://n.news.naver.com/mnews/article/018/0006330658"
+      "title": "호남반도체 산단 전기 신장성·신광주 송전선에서 끌어 온다",
+      "url": "https://n.news.naver.com/mnews/article/629/0000516695"
     },
     {
-      "title": "\"문송합니다\"는 가라… 60년 역사 효성, 첫 '문과생 전용' 신입 공채",
-      "url": "https://n.news.naver.com/mnews/article/469/0000942510"
+      "title": "산업부장관 \"반도체 호황=사회 호황 아냐…'흉년' 대비해 투자해야\"",
+      "url": "https://n.news.naver.com/mnews/article/448/0000627313"
     },
     {
-      "title": "“경제인 한 자리 모여 ‘AI 대전환’ 해법 모색”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003037298"
+      "title": "8월 국제선 유류할증료 하락… 뉴욕행 왕복 68만→51만원",
+      "url": "https://n.news.naver.com/mnews/article/081/0003661831"
     },
     {
-      "title": "류진 한경협 회장 “한국 다음 50년 열려면, 제조업·서비스·에너지 묶어 AI 전환해야”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004641954"
+      "title": "우버, 배민 품는다... 23조에 딜리버리히어로 인수",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549345"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7284.41,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
       "value": 829.43,
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26269.23,
-      "change": 162.22,
-      "change_pct": 0.62
+      "value": 25881.95,
+      "change": -387.28,
+      "change_pct": -1.47
     },
     "usdkrw": {
-      "value": 1484.58,
-      "change": -3.3,
-      "change_pct": -0.22
+      "value": 1479.8,
+      "change": -6.4,
+      "change_pct": -0.43
     }
   },
   "gold": {
-    "price_usd": 4062.9,
-    "price_krw": 6031699,
-    "change": 1.8,
-    "change_pct": 0.04
+    "price_usd": 3987.4,
+    "price_krw": 5900554,
+    "change": -56.6,
+    "change_pct": -1.4
   },
-  "updated": "2026-07-16 09:13",
+  "updated": "2026-07-17 09:16",
   "error": null
 }
