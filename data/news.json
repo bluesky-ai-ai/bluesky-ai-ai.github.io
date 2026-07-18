@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[단독] 삼닉 레버리지 예탁금 … 3배 높여 3천만원으로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708549"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001373212"
     },
     {
-      "title": "메리츠, 홈플러스에 2000억 수혈…회생계획안도 찬성",
-      "url": "https://n.news.naver.com/mnews/article/015/0005310861"
+      "title": "‘과학 커뮤니케이터’ 궤도 “AI 시대 기업의 ‘본질’에 입각해 새로운 도전해야” [한경협 제주포럼]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671586"
     },
     {
-      "title": "[속보]기준금리 0.25%p 인상…3년6개월만 긴축 속 코스피 7000선 붕괴",
-      "url": "https://n.news.naver.com/mnews/article/021/0002805093"
+      "title": "하이닉스 주가 급락? 최태원 회장 \"가만히 가지고 계시라\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387347"
     },
     {
-      "title": "\"30억 넘는 아파트가 7배?\"…‘초고가 주택’ 기준 20억? 30억?",
-      "url": "https://n.news.naver.com/mnews/article/022/0004143535"
+      "title": "반도체 주가 아닌 ‘가격’ 보라는 신현송…AI시대 메모리 역설",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538312"
     },
     {
-      "title": "‘반도체 피크아웃’ 공포에… 삼전닉스 추락·코스피는 다시 7000선 붕괴",
-      "url": "https://n.news.naver.com/mnews/article/005/0001861509"
+      "title": "주된 일자리 퇴직 후 연금 받기까지 '소득 절벽' 13년",
+      "url": "https://n.news.naver.com/mnews/article/001/0016200944"
     },
     {
-      "title": "“종부세, 주택수 아닌 가액으로 개편…세액공제도 거주 기준으로”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012219467"
+      "title": "\"장보기도 겁난다\"…햇반·참치캔·케첩까지 '도미노 인상'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387318"
     },
     {
-      "title": "호남반도체 산단 전기 신장성·신광주 송전선에서 끌어 온다",
-      "url": "https://n.news.naver.com/mnews/article/629/0000516695"
+      "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332169"
     },
     {
-      "title": "산업부장관 \"반도체 호황=사회 호황 아냐…'흉년' 대비해 투자해야\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000627313"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000886083"
     },
     {
-      "title": "8월 국제선 유류할증료 하락… 뉴욕행 왕복 68만→51만원",
-      "url": "https://n.news.naver.com/mnews/article/081/0003661831"
+      "title": "안유진 ‘18억 로또 청약설’…“돈 없는 2030, 사실상 청약 배제” 와글",
+      "url": "https://n.news.naver.com/mnews/article/020/0003734640"
     },
     {
-      "title": "우버, 배민 품는다... 23조에 딜리버리히어로 인수",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549345"
+      "title": "‘레버리지 홀릭’에 美 신규 ETF만 210개… 버핏 “투자가 도박됐다” [코주부]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642493"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6820.6,
+      "change": -463.81,
+      "change_pct": -6.37
     },
     "kosdaq": {
-      "value": 829.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 791.84,
+      "change": -37.59,
+      "change_pct": -4.53
     },
     "nasdaq": {
-      "value": 25881.95,
-      "change": -387.28,
-      "change_pct": -1.47
+      "value": 25520.24,
+      "change": -361.71,
+      "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1479.8,
-      "change": -6.4,
-      "change_pct": -0.43
+      "value": 1487.46,
+      "change": 1.26,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3987.4,
-    "price_krw": 5900554,
-    "change": -56.6,
-    "change_pct": -1.4
+    "price_usd": 4023.0,
+    "price_krw": 5984051,
+    "change": 37.4,
+    "change_pct": 0.94
   },
-  "updated": "2026-07-17 09:16",
+  "updated": "2026-07-18 09:12",
   "error": null
 }
