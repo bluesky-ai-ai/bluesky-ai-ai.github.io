@@ -1,44 +1,44 @@
 {
   "news": [
     {
+      "title": "“한화 필리, 트럼프 ‘골든돔’ 가까이” MRIV 쾌거…‘마스가’ 존재감 [배틀라인]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003662250"
+    },
+    {
+      "title": "\"2000억 들어와도 불안\"…홈플러스 직원들 웃지 못하는 까닭 [현장+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005311168"
+    },
+    {
+      "title": "뉴욕증시, 반도체株 매도세에 하락 출발… 美·이란 무력 충돌도 영향",
+      "url": "https://n.news.naver.com/mnews/article/366/0001180012"
+    },
+    {
+      "title": "주유소 기름값 내림세 둔화…미·이란 충돌에 국제유가 다시 들썩",
+      "url": "https://n.news.naver.com/mnews/article/586/0000134012"
+    },
+    {
+      "title": "올해 1인당 GDP 3만9000달러 추산…'4만달러' 돌파 기대감도",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259134"
+    },
+    {
+      "title": "한 달째 조정장에…인버스2X 수익률 상위권 '싹쓸이'[머니플로우]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201010"
+    },
+    {
+      "title": "\"제헌절이 코스피 살렸다\"…美반도체 폭락에 \"월요일도 임시공휴일 해 달라\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549531"
+    },
+    {
+      "title": "공모가마저 무너졌다… 스페이스X, 상장 한달 만에 1500조원 증발",
+      "url": "https://n.news.naver.com/mnews/article/029/0003037477"
+    },
+    {
+      "title": "애플 시총 1위 복귀…엔비디아 1년 만에 밀렸다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549517"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001373212"
-    },
-    {
-      "title": "‘과학 커뮤니케이터’ 궤도 “AI 시대 기업의 ‘본질’에 입각해 새로운 도전해야” [한경협 제주포럼]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671586"
-    },
-    {
-      "title": "하이닉스 주가 급락? 최태원 회장 \"가만히 가지고 계시라\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387347"
-    },
-    {
-      "title": "반도체 주가 아닌 ‘가격’ 보라는 신현송…AI시대 메모리 역설",
-      "url": "https://n.news.naver.com/mnews/article/025/0003538312"
-    },
-    {
-      "title": "주된 일자리 퇴직 후 연금 받기까지 '소득 절벽' 13년",
-      "url": "https://n.news.naver.com/mnews/article/001/0016200944"
-    },
-    {
-      "title": "\"장보기도 겁난다\"…햇반·참치캔·케첩까지 '도미노 인상'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387318"
-    },
-    {
-      "title": "\"AI가 리더 대체, 1년 남았다…기업 AX 선택아닌 필수\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006332169"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000886083"
-    },
-    {
-      "title": "안유진 ‘18억 로또 청약설’…“돈 없는 2030, 사실상 청약 배제” 와글",
-      "url": "https://n.news.naver.com/mnews/article/020/0003734640"
-    },
-    {
-      "title": "‘레버리지 홀릭’에 美 신규 ETF만 210개… 버핏 “투자가 도박됐다” [코주부]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642493"
+      "url": "https://n.news.naver.com/mnews/article/056/0012220629"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4023.0,
-    "price_krw": 5984051,
-    "change": 37.4,
-    "change_pct": 0.94
+    "price_usd": 4012.7,
+    "price_krw": 5968730,
+    "change": 27.1,
+    "change_pct": 0.68
   },
-  "updated": "2026-07-18 09:12",
+  "updated": "2026-07-19 09:13",
   "error": null
 }
