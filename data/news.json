@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "“한화 필리, 트럼프 ‘골든돔’ 가까이” MRIV 쾌거…‘마스가’ 존재감 [배틀라인]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003662250"
-    },
-    {
-      "title": "\"2000억 들어와도 불안\"…홈플러스 직원들 웃지 못하는 까닭 [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311168"
-    },
-    {
-      "title": "뉴욕증시, 반도체株 매도세에 하락 출발… 美·이란 무력 충돌도 영향",
-      "url": "https://n.news.naver.com/mnews/article/366/0001180012"
-    },
-    {
-      "title": "주유소 기름값 내림세 둔화…미·이란 충돌에 국제유가 다시 들썩",
-      "url": "https://n.news.naver.com/mnews/article/586/0000134012"
-    },
-    {
-      "title": "올해 1인당 GDP 3만9000달러 추산…'4만달러' 돌파 기대감도",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259134"
-    },
-    {
-      "title": "한 달째 조정장에…인버스2X 수익률 상위권 '싹쓸이'[머니플로우]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016201010"
-    },
-    {
-      "title": "\"제헌절이 코스피 살렸다\"…美반도체 폭락에 \"월요일도 임시공휴일 해 달라\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549531"
-    },
-    {
-      "title": "공모가마저 무너졌다… 스페이스X, 상장 한달 만에 1500조원 증발",
-      "url": "https://n.news.naver.com/mnews/article/029/0003037477"
-    },
-    {
-      "title": "애플 시총 1위 복귀…엔비디아 1년 만에 밀렸다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549517"
+      "title": "반등 모색하니 싶더니 다시 낙폭 확대…코스피, 매도 사이드카 발동",
+      "url": "https://n.news.naver.com/mnews/article/055/0001373775"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012220629"
+      "url": "https://n.news.naver.com/mnews/article/422/0000886811"
+    },
+    {
+      "title": "롯데면세점, 인천공항점 개점 100일 기념행사",
+      "url": "https://n.news.naver.com/mnews/article/081/0003662404"
+    },
+    {
+      "title": "홈플러스 “회생절차 폐지 취소해달라” 법원에 즉시항고",
+      "url": "https://n.news.naver.com/mnews/article/023/0003988563"
+    },
+    {
+      "title": "농촌도 용도별 개발 시대…2030년까지 시·군마다 '농촌특화지구' 만든다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009068385"
+    },
+    {
+      "title": "현대차, 전북도·전북대와 산학협력…피지컬 AI 인재 육성",
+      "url": "https://n.news.naver.com/mnews/article/417/0001152227"
+    },
+    {
+      "title": "태양광·센서 결합한 ‘스마트 델리네이터’···올해 여성발명왕에 ‘조정숙 스마트에너지 대표’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459168"
+    },
+    {
+      "title": "HD현대-네이버클라우드, 조선업 특화 AI 만든다",
+      "url": "https://n.news.naver.com/mnews/article/092/0002431013"
+    },
+    {
+      "title": "은행권 가계대출 목표 초과…하반기 대출 문턱 더 높아진다",
+      "url": "https://n.news.naver.com/mnews/article/028/0002814698"
+    },
+    {
+      "title": "5년간 그린바이오 시장 10조원으로 키운다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006333288"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.6,
-      "change": -463.81,
-      "change_pct": -6.37
+      "value": 6516.27,
+      "change": -304.33,
+      "change_pct": -4.46
     },
     "kosdaq": {
-      "value": 791.84,
-      "change": -37.59,
-      "change_pct": -4.53
+      "value": 749.64,
+      "change": -42.2,
+      "change_pct": -5.33
     },
     "nasdaq": {
       "value": 25520.24,
@@ -58,17 +58,17 @@
       "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1487.46,
-      "change": 1.26,
-      "change_pct": 0.08
+      "value": 1481.08,
+      "change": 2.23,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 4012.7,
-    "price_krw": 5968730,
-    "change": 27.1,
-    "change_pct": 0.68
+    "price_usd": 4025.0,
+    "price_krw": 5961347,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-19 09:13",
+  "updated": "2026-07-20 17:21",
   "error": null
 }
