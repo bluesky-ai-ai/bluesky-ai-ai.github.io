@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "반등 모색하니 싶더니 다시 낙폭 확대…코스피, 매도 사이드카 발동",
-      "url": "https://n.news.naver.com/mnews/article/055/0001373775"
+      "title": "\"이 돈 없으면 꿈도 못 꾼다\"…서울 '상위 1%' 아파트는 얼마?",
+      "url": "https://n.news.naver.com/mnews/article/031/0001043334"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000886811"
+      "title": "\"대출도 고소득·고신용자만\"...'대출절벽' 내몰리는 흙수저",
+      "url": "https://n.news.naver.com/mnews/article/008/0005387777"
     },
     {
-      "title": "롯데면세점, 인천공항점 개점 100일 기념행사",
-      "url": "https://n.news.naver.com/mnews/article/081/0003662404"
+      "title": "요가·필라테스 표준약관...휴폐업 2주 전 고지 명시",
+      "url": "https://n.news.naver.com/mnews/article/052/0002381824"
     },
     {
-      "title": "홈플러스 “회생절차 폐지 취소해달라” 법원에 즉시항고",
-      "url": "https://n.news.naver.com/mnews/article/023/0003988563"
+      "title": "'황금알' 비만약 품은 삼성바이오 … 생산능력·기술·시장 동시확보",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709743"
     },
     {
-      "title": "농촌도 용도별 개발 시대…2030년까지 시·군마다 '농촌특화지구' 만든다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009068385"
+      "title": "임병택 시장 “AI 전환으로 제조 경쟁력 높인다”…반월·시화산단 AX 혁신 본격화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792163"
     },
     {
-      "title": "현대차, 전북도·전북대와 산학협력…피지컬 AI 인재 육성",
-      "url": "https://n.news.naver.com/mnews/article/417/0001152227"
+      "title": "\"이자 1%인데 3000만원 묶으라고?\"... 개미만 옥죄는 레버리지 대책",
+      "url": "https://n.news.naver.com/mnews/article/469/0000943068"
     },
     {
-      "title": "태양광·센서 결합한 ‘스마트 델리네이터’···올해 여성발명왕에 ‘조정숙 스마트에너지 대표’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459168"
+      "title": "코오롱티슈진 \"골관절염 치료제, 미국 임상 통계적 유의성 미충족\"",
+      "url": "https://n.news.naver.com/mnews/article/417/0001152240"
     },
     {
-      "title": "HD현대-네이버클라우드, 조선업 특화 AI 만든다",
-      "url": "https://n.news.naver.com/mnews/article/092/0002431013"
+      "title": "현대차 노조, 올해 네번째 부분파업…22일까지 4시간 파업",
+      "url": "https://n.news.naver.com/mnews/article/003/0014075594"
     },
     {
-      "title": "은행권 가계대출 목표 초과…하반기 대출 문턱 더 높아진다",
-      "url": "https://n.news.naver.com/mnews/article/028/0002814698"
+      "title": "15년간 핵심기술 키운다…8800억 초장기투자펀드 출범",
+      "url": "https://n.news.naver.com/mnews/article/018/0006333208"
     },
     {
-      "title": "5년간 그린바이오 시장 10조원으로 키운다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006333288"
+      "title": "단일종목 레버리지에 외신도 “한국 증시, 카지노 됐다”",
+      "url": "https://n.news.naver.com/mnews/article/422/0000886920"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6516.27,
-      "change": -304.33,
-      "change_pct": -4.46
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 749.64,
-      "change": -42.2,
-      "change_pct": -5.33
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25520.24,
-      "change": -361.71,
-      "change_pct": -1.4
+      "value": 25508.07,
+      "change": -12.17,
+      "change_pct": -0.05
     },
     "usdkrw": {
-      "value": 1481.08,
-      "change": 2.23,
-      "change_pct": 0.15
+      "value": 1476.77,
+      "change": -10.62,
+      "change_pct": -0.71
     }
   },
   "gold": {
-    "price_usd": 4025.0,
-    "price_krw": 5961347,
+    "price_usd": 4012.4,
+    "price_krw": 5925391,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-20 17:21",
+  "updated": "2026-07-21 09:15",
   "error": null
 }
