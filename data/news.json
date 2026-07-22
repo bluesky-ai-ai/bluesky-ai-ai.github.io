@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"이 돈 없으면 꿈도 못 꾼다\"…서울 '상위 1%' 아파트는 얼마?",
-      "url": "https://n.news.naver.com/mnews/article/031/0001043334"
+      "title": "주담대 금리 상단 7.5% 넘어섰다…  5억 대출 땐 최소 연 125만원 늘어",
+      "url": "https://n.news.naver.com/mnews/article/005/0001862323"
     },
     {
-      "title": "\"대출도 고소득·고신용자만\"...'대출절벽' 내몰리는 흙수저",
-      "url": "https://n.news.naver.com/mnews/article/008/0005387777"
+      "title": "與정무위, '홈플러스 사태' 금융당국 질타…\"손놓고 있던 책임 커\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016206054"
     },
     {
-      "title": "요가·필라테스 표준약관...휴폐업 2주 전 고지 명시",
-      "url": "https://n.news.naver.com/mnews/article/052/0002381824"
+      "title": "코오롱티슈진, TG-C 美 임상 3상 고배에 ‘하한가’…그룹주 동반 급락 [Why 바이오]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004643463"
     },
     {
-      "title": "'황금알' 비만약 품은 삼성바이오 … 생산능력·기술·시장 동시확보",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709743"
+      "title": "블룸버그 \"'키미3'는 훨씬 많은 메모리 요구\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001374067"
     },
     {
-      "title": "임병택 시장 “AI 전환으로 제조 경쟁력 높인다”…반월·시화산단 AX 혁신 본격화",
-      "url": "https://n.news.naver.com/mnews/article/277/0005792163"
+      "title": "현대百·이마트, 상생경영 인정받았다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004643704"
     },
     {
-      "title": "\"이자 1%인데 3000만원 묶으라고?\"... 개미만 옥죄는 레버리지 대책",
-      "url": "https://n.news.naver.com/mnews/article/469/0000943068"
+      "title": "JP모간 韓증시 '비중확대' 유지…씨티는 1년만에 '중립'(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016206773"
     },
     {
-      "title": "코오롱티슈진 \"골관절염 치료제, 미국 임상 통계적 유의성 미충족\"",
-      "url": "https://n.news.naver.com/mnews/article/417/0001152240"
+      "title": "팝업서 입점까지… K패션 해외 진출 돕는다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004144877"
     },
     {
-      "title": "현대차 노조, 올해 네번째 부분파업…22일까지 4시간 파업",
-      "url": "https://n.news.naver.com/mnews/article/003/0014075594"
+      "title": "“고점에 물려 갚지도 못해요”…신용대출 조여도 소용없는 이유 묻자 ‘한숨’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709987"
     },
     {
-      "title": "15년간 핵심기술 키운다…8800억 초장기투자펀드 출범",
-      "url": "https://n.news.naver.com/mnews/article/018/0006333208"
+      "title": "카카오뱅크 노조, 31일 파업…노조원 1000명 중 파업 참석률 주목",
+      "url": "https://n.news.naver.com/mnews/article/008/0005388870"
     },
     {
-      "title": "단일종목 레버리지에 외신도 “한국 증시, 카지노 됐다”",
-      "url": "https://n.news.naver.com/mnews/article/422/0000886920"
+      "title": "'손' 쓰는 휴머노이드 나올까… 대표 직속 사업실 만들고 로봇 띄우는 삼성전자",
+      "url": "https://n.news.naver.com/mnews/article/469/0000943540"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6516.27,
+      "value": 6747.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 749.64,
+      "value": 753.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25508.07,
-      "change": -12.17,
-      "change_pct": -0.05
+      "value": 25837.21,
+      "change": 329.14,
+      "change_pct": 1.29
     },
     "usdkrw": {
-      "value": 1476.77,
-      "change": -10.62,
-      "change_pct": -0.71
+      "value": 1480.59,
+      "change": 5.58,
+      "change_pct": 0.38
     }
   },
   "gold": {
-    "price_usd": 4012.4,
-    "price_krw": 5925391,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4083.9,
+    "price_krw": 6046581,
+    "change": 73.6,
+    "change_pct": 1.84
   },
-  "updated": "2026-07-21 09:15",
+  "updated": "2026-07-22 09:09",
   "error": null
 }
