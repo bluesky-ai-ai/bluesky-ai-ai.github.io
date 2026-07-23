@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "주담대 금리 상단 7.5% 넘어섰다…  5억 대출 땐 최소 연 125만원 늘어",
-      "url": "https://n.news.naver.com/mnews/article/005/0001862323"
+      "title": "코스닥, 올해 14번째 매수 사이드카 발동… 780선 회복",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181289"
     },
     {
-      "title": "與정무위, '홈플러스 사태' 금융당국 질타…\"손놓고 있던 책임 커\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016206054"
+      "title": "반도체 호조에 올해 2분기 성장률 0.6%…전망치 3배↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014082611"
     },
     {
-      "title": "코오롱티슈진, TG-C 美 임상 3상 고배에 ‘하한가’…그룹주 동반 급락 [Why 바이오]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004643463"
+      "title": "국내 첫 시멘트산업 상생협약, 강원특별자치도 멍석 깔았다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002674099"
     },
     {
-      "title": "블룸버그 \"'키미3'는 훨씬 많은 메모리 요구\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001374067"
+      "title": "카카오페이증권, 결혼·출산시 주식 10만원 선물…\"3년 내 투자자 2천만명 시대\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000888052"
     },
     {
-      "title": "현대百·이마트, 상생경영 인정받았다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004643704"
+      "title": "현대차 2분기 역대 최대 매출...영업이익은 21% 감소",
+      "url": "https://n.news.naver.com/mnews/article/052/0002383519"
     },
     {
-      "title": "JP모간 韓증시 '비중확대' 유지…씨티는 1년만에 '중립'(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016206773"
+      "title": "미래에셋그룹, 코빗 인수 마무리…지분 97.15% 확보",
+      "url": "https://n.news.naver.com/mnews/article/030/0003450283"
     },
     {
-      "title": "팝업서 입점까지… K패션 해외 진출 돕는다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004144877"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000888090"
     },
     {
-      "title": "“고점에 물려 갚지도 못해요”…신용대출 조여도 소용없는 이유 묻자 ‘한숨’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709987"
+      "title": "삼성증권, '다올 멀티 엔진 컬렉션' 사모재간접 공모펀드 단독 판매",
+      "url": "https://n.news.naver.com/mnews/article/008/0005389754"
     },
     {
-      "title": "카카오뱅크 노조, 31일 파업…노조원 1000명 중 파업 참석률 주목",
-      "url": "https://n.news.naver.com/mnews/article/008/0005388870"
+      "title": "李 “잔금대출, 정책 바뀌었다고 막으면 황당”…대책 지시",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735973"
     },
     {
-      "title": "'손' 쓰는 휴머노이드 나올까… 대표 직속 사업실 만들고 로봇 띄우는 삼성전자",
-      "url": "https://n.news.naver.com/mnews/article/469/0000943540"
+      "title": "LF 헤지스, 경험형 수주회로 글로벌 브랜드 도약",
+      "url": "https://n.news.naver.com/mnews/article/014/0005551782"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6747.95,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 7080.5,
+      "change": 282.8,
+      "change_pct": 4.16
     },
     "kosdaq": {
-      "value": 753.34,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 789.53,
+      "change": 38.44,
+      "change_pct": 5.12
     },
     "nasdaq": {
-      "value": 25837.21,
-      "change": 329.14,
-      "change_pct": 1.29
+      "value": 25690.9,
+      "change": -146.31,
+      "change_pct": -0.57
     },
     "usdkrw": {
-      "value": 1480.59,
-      "change": 5.58,
-      "change_pct": 0.38
+      "value": 1467.48,
+      "change": -12.24,
+      "change_pct": -0.83
     }
   },
   "gold": {
-    "price_usd": 4083.9,
-    "price_krw": 6046581,
-    "change": 73.6,
-    "change_pct": 1.84
+    "price_usd": 4125.9,
+    "price_krw": 6054675,
+    "change": -21.0,
+    "change_pct": -0.51
   },
-  "updated": "2026-07-22 09:09",
+  "updated": "2026-07-23 15:38",
   "error": null
 }
