@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코스닥, 올해 14번째 매수 사이드카 발동… 780선 회복",
-      "url": "https://n.news.naver.com/mnews/article/366/0001181289"
+      "title": "증시 거래대금 감소 속…배당 매력 돋보이는 NH투자증권",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313344"
     },
     {
-      "title": "반도체 호조에 올해 2분기 성장률 0.6%…전망치 3배↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014082611"
-    },
-    {
-      "title": "국내 첫 시멘트산업 상생협약, 강원특별자치도 멍석 깔았다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002674099"
-    },
-    {
-      "title": "카카오페이증권, 결혼·출산시 주식 10만원 선물…\"3년 내 투자자 2천만명 시대\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000888052"
-    },
-    {
-      "title": "현대차 2분기 역대 최대 매출...영업이익은 21% 감소",
-      "url": "https://n.news.naver.com/mnews/article/052/0002383519"
-    },
-    {
-      "title": "미래에셋그룹, 코빗 인수 마무리…지분 97.15% 확보",
-      "url": "https://n.news.naver.com/mnews/article/030/0003450283"
+      "title": "반도체 수출 끌고 내수 받치고… 5월 전망치보다 3배 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552180"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000888090"
+      "url": "https://n.news.naver.com/mnews/article/055/0001374910"
     },
     {
-      "title": "삼성증권, '다올 멀티 엔진 컬렉션' 사모재간접 공모펀드 단독 판매",
-      "url": "https://n.news.naver.com/mnews/article/008/0005389754"
+      "title": "삼성전기, 빅테크에 AI용 MLCC 3천억 공급",
+      "url": "https://n.news.naver.com/mnews/article/009/0005711483"
     },
     {
-      "title": "李 “잔금대출, 정책 바뀌었다고 막으면 황당”…대책 지시",
-      "url": "https://n.news.naver.com/mnews/article/020/0003735973"
+      "title": "미 상무장관 \"한미 조선협력, 미국 내 선박 건조가 중요\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001374990"
     },
     {
-      "title": "LF 헤지스, 경험형 수주회로 글로벌 브랜드 도약",
-      "url": "https://n.news.naver.com/mnews/article/014/0005551782"
+      "title": "한국투자증권, 네이버페이 ‘연금 상담 서비스’ 개시…최대 2만원 혜택",
+      "url": "https://n.news.naver.com/mnews/article/009/0005711232"
+    },
+    {
+      "title": "강원·시멘트 원하청 상생 협약…노동자 건강권 및 복지 확충(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016211575"
+    },
+    {
+      "title": "KB금융, 상반기 당기순이익 3조8846억원…1년 전보다 13.1%↑",
+      "url": "https://n.news.naver.com/mnews/article/119/0003114261"
+    },
+    {
+      "title": "'수익률 750% 주식 고수' 여경옥도 물렸다…하이닉스 레버리지서 7400만원 손실",
+      "url": "https://n.news.naver.com/mnews/article/277/0005793800"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012224261"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.5,
-      "change": 282.8,
-      "change_pct": 4.16
+      "value": 7096.89,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 789.53,
-      "change": 38.44,
-      "change_pct": 5.12
+      "value": 790.28,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25690.9,
-      "change": -146.31,
-      "change_pct": -0.57
+      "value": 25137.69,
+      "change": -553.21,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1467.48,
-      "change": -12.24,
-      "change_pct": -0.83
+      "value": 1475.63,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4125.9,
-    "price_krw": 6054675,
-    "change": -21.0,
-    "change_pct": -0.51
+    "price_usd": 4049.4,
+    "price_krw": 5975415,
+    "change": -97.5,
+    "change_pct": -2.35
   },
-  "updated": "2026-07-23 15:38",
+  "updated": "2026-07-24 09:14",
   "error": null
 }
