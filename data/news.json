@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "증시 거래대금 감소 속…배당 매력 돋보이는 NH투자증권",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313344"
+      "title": "'돈 쓴 만큼 벌었나' 투심 여전히 냉랭…빅테크 실적·금리에 쏠린 월가",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259921"
     },
     {
-      "title": "반도체 수출 끌고 내수 받치고… 5월 전망치보다 3배 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552180"
+      "title": "이재용 회장 \"AI 시대, 한미 강점 결합하면 더 빠르게 혁신하고 성장\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005794479"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001374910"
+      "title": "정부, 쿠팡 논란 진화 나서…미 정·재계 설득전",
+      "url": "https://n.news.naver.com/mnews/article/057/0001960324"
     },
     {
-      "title": "삼성전기, 빅테크에 AI용 MLCC 3천억 공급",
-      "url": "https://n.news.naver.com/mnews/article/009/0005711483"
+      "title": "하나금융, 2분기 순이익 1조 2061억원…증권 실적 ‘껑충’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003664444"
     },
     {
-      "title": "미 상무장관 \"한미 조선협력, 미국 내 선박 건조가 중요\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001374990"
+      "title": "판매·매출 ‘두 토끼’ 잡은 기아, 수익성은 뒷걸음",
+      "url": "https://n.news.naver.com/mnews/article/243/0000100836"
     },
     {
-      "title": "한국투자증권, 네이버페이 ‘연금 상담 서비스’ 개시…최대 2만원 혜택",
-      "url": "https://n.news.naver.com/mnews/article/009/0005711232"
+      "title": "국내증시 출렁에 국장 이탈?…서학개미 이달 순매수 4배 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375289"
     },
     {
-      "title": "강원·시멘트 원하청 상생 협약…노동자 건강권 및 복지 확충(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016211575"
+      "title": "이재용·정의선·이해진, 엔비디아 본사 방문…젠슨 황 CEO 면담",
+      "url": "https://n.news.naver.com/mnews/article/660/0000113827"
     },
     {
-      "title": "KB금융, 상반기 당기순이익 3조8846억원…1년 전보다 13.1%↑",
-      "url": "https://n.news.naver.com/mnews/article/119/0003114261"
+      "title": "잔금대출 막힌 입주자 호소에…'가계대출 총량규제'서 제외 검토",
+      "url": "https://n.news.naver.com/mnews/article/015/0005313552"
     },
     {
-      "title": "'수익률 750% 주식 고수' 여경옥도 물렸다…하이닉스 레버리지서 7400만원 손실",
-      "url": "https://n.news.naver.com/mnews/article/277/0005793800"
+      "title": "“도박꾼 된 韓 투자자들, 카지노 밖으로 쫓아내기 쉽지 않을 것”…외신 분석 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644695"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012224261"
+      "title": "서울 폐교 부지에 북한 배경 학생 대안학교 들어선다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552439"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7096.89,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 790.28,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25137.69,
-      "change": -553.21,
-      "change_pct": -2.15
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "usdkrw": {
-      "value": 1475.63,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1462.1,
+      "change": -11.94,
+      "change_pct": -0.81
     }
   },
   "gold": {
-    "price_usd": 4049.4,
-    "price_krw": 5975415,
-    "change": -97.5,
-    "change_pct": -2.35
+    "price_usd": 4067.6,
+    "price_krw": 5947238,
+    "change": 21.0,
+    "change_pct": 0.52
   },
-  "updated": "2026-07-24 09:14",
+  "updated": "2026-07-25 15:06",
   "error": null
 }
