@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "'돈 쓴 만큼 벌었나' 투심 여전히 냉랭…빅테크 실적·금리에 쏠린 월가",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259921"
+      "title": "집 가진 청년 10명 중 2명뿐… 9년 만에 최대로 벌어진 '내 집 격차'",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944418"
     },
     {
-      "title": "이재용 회장 \"AI 시대, 한미 강점 결합하면 더 빠르게 혁신하고 성장\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794479"
+      "title": "정의선 \"AI 팩토리·도시 인프라 통합까지\"‥피지컬 AI 비전",
+      "url": "https://n.news.naver.com/mnews/article/214/0001513878"
     },
     {
-      "title": "정부, 쿠팡 논란 진화 나서…미 정·재계 설득전",
-      "url": "https://n.news.naver.com/mnews/article/057/0001960324"
+      "title": "HMM-HD현대삼호, 美 WUT에 크레인 4기 공급계약",
+      "url": "https://n.news.naver.com/mnews/article/018/0006336942"
     },
     {
-      "title": "하나금융, 2분기 순이익 1조 2061억원…증권 실적 ‘껑충’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003664444"
+      "title": "코스피 7000선 회복할까…빅테크·FOMC에 쏠린 눈[주간증시전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006336981"
     },
     {
-      "title": "판매·매출 ‘두 토끼’ 잡은 기아, 수익성은 뒷걸음",
-      "url": "https://n.news.naver.com/mnews/article/243/0000100836"
+      "title": "단일종목 레버리지 대책 일주일…쏠림은 여전[ETF워치]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049192"
     },
     {
-      "title": "국내증시 출렁에 국장 이탈?…서학개미 이달 순매수 4배 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375289"
+      "title": "해외 코인거래소 새 먹거리 '토큰 닉스'…하루 수백억원 거래",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214665"
     },
     {
-      "title": "이재용·정의선·이해진, 엔비디아 본사 방문…젠슨 황 CEO 면담",
-      "url": "https://n.news.naver.com/mnews/article/660/0000113827"
+      "title": "롯데하이마트, 개통 돕는 자체 알뜰폰 요금제 출시",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645175"
     },
     {
-      "title": "잔금대출 막힌 입주자 호소에…'가계대출 총량규제'서 제외 검토",
-      "url": "https://n.news.naver.com/mnews/article/015/0005313552"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000889014"
     },
     {
-      "title": "“도박꾼 된 韓 투자자들, 카지노 밖으로 쫓아내기 쉽지 않을 것”…외신 분석 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004644695"
+      "title": "이재용-샘 올트먼 회동…AI 인프라·AX 협력 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391065"
     },
     {
-      "title": "서울 폐교 부지에 북한 배경 학생 대안학교 들어선다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552439"
+      "title": "현정은 현대그룹 회장 \"배움의 본질, 기술보다 사람에서 시작\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944402"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4067.6,
-    "price_krw": 5947238,
-    "change": 21.0,
-    "change_pct": 0.52
+    "price_usd": 4070.8,
+    "price_krw": 5951916,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-25 15:06",
+  "updated": "2026-07-26 16:15",
   "error": null
 }
