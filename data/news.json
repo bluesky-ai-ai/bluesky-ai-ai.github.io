@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "집 가진 청년 10명 중 2명뿐… 9년 만에 최대로 벌어진 '내 집 격차'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944418"
+      "title": "종부세 공제기준 12억보다 높이고, 초고가 주택 세부담 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736554"
     },
     {
-      "title": "정의선 \"AI 팩토리·도시 인프라 통합까지\"‥피지컬 AI 비전",
-      "url": "https://n.news.naver.com/mnews/article/214/0001513878"
+      "title": "동아에스티, 2분기 매출 2078억원 '역대 최대'…영업익 170%↑",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795167"
     },
     {
-      "title": "HMM-HD현대삼호, 美 WUT에 크레인 4기 공급계약",
-      "url": "https://n.news.naver.com/mnews/article/018/0006336942"
+      "title": "[단독]정부 “원화코인·STO 검증”…디지털자산 시험장 만든다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645247"
     },
     {
-      "title": "코스피 7000선 회복할까…빅테크·FOMC에 쏠린 눈[주간증시전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006336981"
+      "title": "이억원 \"대출규제 엄격 기조 유지…청년·신혼부부 '핀셋' 보완\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014091319"
     },
     {
-      "title": "단일종목 레버리지 대책 일주일…쏠림은 여전[ETF워치]",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049192"
+      "title": "SKC, 화학 사업 개선에 적자폭 축소…매출 6553억·영업손실 144억",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645675"
     },
     {
-      "title": "해외 코인거래소 새 먹거리 '토큰 닉스'…하루 수백억원 거래",
-      "url": "https://n.news.naver.com/mnews/article/001/0016214665"
+      "title": "환치기·가상자산 이용한 수조원대  ‘불법외환거래’ 세관에 덜미",
+      "url": "https://n.news.naver.com/mnews/article/016/0002675643"
     },
     {
-      "title": "롯데하이마트, 개통 돕는 자체 알뜰폰 요금제 출시",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645175"
+      "title": "與 \"단일종목 레버리지, 몰빵 위험 상품…ETF 용어 사용 부적절\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016217565"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889014"
+      "title": "\"한국 개미 자금 쏠렸다\"...키옥시아 레버리지 ETF 상장 임박",
+      "url": "https://n.news.naver.com/mnews/article/052/0002385054"
     },
     {
-      "title": "이재용-샘 올트먼 회동…AI 인프라·AX 협력 강화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391065"
+      "title": "전자BG 날고 에너빌 뛰고…두산, AI 밸류체인 '핵심' 증명",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049244"
     },
     {
-      "title": "현정은 현대그룹 회장 \"배움의 본질, 기술보다 사람에서 시작\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944402"
+      "title": "勞 \"플랫폼 노동자 배제\"…使 \"사장은 월 200만원도 못 벌어\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337670"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6755.75,
+      "change": 65.13,
+      "change_pct": 0.97
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 764.86,
+      "change": 16.64,
+      "change_pct": 2.22
     },
     "nasdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 24975.82,
+      "change": -161.87,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1462.1,
-      "change": -11.94,
-      "change_pct": -0.81
+      "value": 1468.69,
+      "change": -5.35,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 4070.8,
-    "price_krw": 5951916,
+    "price_usd": 4101.5,
+    "price_krw": 6023832,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-26 16:15",
+  "updated": "2026-07-27 19:51",
   "error": null
 }
