@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "종부세 공제기준 12억보다 높이고, 초고가 주택 세부담 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736554"
+      "title": "LG전자 데이터센터 액체냉각 솔루션, 국내 첫 엔비디아 품질 인증 획득",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182096"
     },
     {
-      "title": "동아에스티, 2분기 매출 2078억원 '역대 최대'…영업익 170%↑",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795167"
+      "title": "레버리지 ETF 보완책 앞두고 거래대금 10조 하회",
+      "url": "https://n.news.naver.com/mnews/article/052/0002385238"
     },
     {
-      "title": "[단독]정부 “원화코인·STO 검증”…디지털자산 시험장 만든다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645247"
+      "title": "김윤덕 장관 \"사전청약 약속 지킨다…민간 공급 소극적 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009081741"
     },
     {
-      "title": "이억원 \"대출규제 엄격 기조 유지…청년·신혼부부 '핀셋' 보완\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014091319"
+      "title": "AI 인프라 공급자로 나선 네이버…생활형 서비스 집중하는 카카오",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337780"
     },
     {
-      "title": "SKC, 화학 사업 개선에 적자폭 축소…매출 6553억·영업손실 144억",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645675"
+      "title": "이재용·최태원, 샌프란 이어 시칠리아행...구글캠프 참석",
+      "url": "https://n.news.naver.com/mnews/article/052/0002385246"
     },
     {
-      "title": "환치기·가상자산 이용한 수조원대  ‘불법외환거래’ 세관에 덜미",
-      "url": "https://n.news.naver.com/mnews/article/016/0002675643"
+      "title": "삼성카드, 상반기 당기순익 3105억… 전년 대비 7.5% 줄어",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391510"
     },
     {
-      "title": "與 \"단일종목 레버리지, 몰빵 위험 상품…ETF 용어 사용 부적절\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016217565"
+      "title": "셀트리온, 고마진 바이오시밀러 신제품으로 수익성 레벨업-신한",
+      "url": "https://n.news.naver.com/mnews/article/018/0006337917"
     },
     {
-      "title": "\"한국 개미 자금 쏠렸다\"...키옥시아 레버리지 ETF 상장 임박",
-      "url": "https://n.news.naver.com/mnews/article/052/0002385054"
+      "title": "AI가 바꾼 반도체 공급망…대만 수출 급증·중국 비중 감소",
+      "url": "https://n.news.naver.com/mnews/article/417/0001153184"
     },
     {
-      "title": "전자BG 날고 에너빌 뛰고…두산, AI 밸류체인 '핵심' 증명",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049244"
+      "title": "소상공인聯, 최저임금 1만700원안에 재심의 촉구… 민노총도",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989906"
     },
     {
-      "title": "勞 \"플랫폼 노동자 배제\"…使 \"사장은 월 200만원도 못 벌어\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006337670"
+      "title": "보유세 강화 신호탄…'똘똘한 한 채' 정조준",
+      "url": "https://n.news.naver.com/mnews/article/003/0014091621"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6755.75,
-      "change": 65.13,
-      "change_pct": 0.97
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 764.86,
-      "change": 16.64,
-      "change_pct": 2.22
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24975.82,
-      "change": -161.87,
-      "change_pct": -0.64
+      "value": 24932.08,
+      "change": -43.74,
+      "change_pct": -0.18
     },
     "usdkrw": {
-      "value": 1468.69,
-      "change": -5.35,
-      "change_pct": -0.36
+      "value": 1469.81,
+      "change": 11.8,
+      "change_pct": 0.81
     }
   },
   "gold": {
-    "price_usd": 4101.5,
-    "price_krw": 6023832,
+    "price_usd": 4070.9,
+    "price_krw": 5983449,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 19:51",
+  "updated": "2026-07-28 09:13",
   "error": null
 }
