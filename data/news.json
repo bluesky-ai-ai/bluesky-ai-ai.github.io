@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "우리금융 '전북 우리WON금융타운' 개소…금융중심지 조성 박차",
-      "url": "https://n.news.naver.com/mnews/article/421/0009086353"
+      "title": "한화, 한여름 '김동관·동원·동선 형제' 승진…3세 승계 속도 낸다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009088987"
+    },
+    {
+      "title": "금호타이어, 2분기 영업익 1822억…전년比 4%↑",
+      "url": "https://n.news.naver.com/mnews/article/016/0002677577"
+    },
+    {
+      "title": "대한전선, 2분기 영업이익 608억원 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001183256"
+    },
+    {
+      "title": "구례 3월 체류인구, 등록인구의 15.8배…산수유 관광 효과",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737705"
+    },
+    {
+      "title": "MS·메타, 예상 넘는 매출에도…AI투자 수익화 성과에 희비 갈려",
+      "url": "https://n.news.naver.com/mnews/article/421/0009087069"
+    },
+    {
+      "title": "정부, 단일종목 레버리지 '개인별 투자한도' 설정…모의거래 도입",
+      "url": "https://n.news.naver.com/mnews/article/421/0009086773"
+    },
+    {
+      "title": "삼성전자, 2분기 영업익 89조4924억원… DS 89.2조 흑자, DX 0.8조 적자",
+      "url": "https://n.news.naver.com/mnews/article/366/0001183011"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000524253"
+      "url": "https://n.news.naver.com/mnews/article/374/0000524590"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012227581"
+      "title": "DL이앤씨, 2Q 영업이익 26% 증가…원가율 낮추고 수익성 개선",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796965"
     },
     {
-      "title": "안전·디자인·연비 모두 잡았다…현대차 '디 올 뉴 아반떼' 기술 공개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339275"
-    },
-    {
-      "title": "5월 출생아 증가율 13.6%...넉 달 연속 역대 최고",
-      "url": "https://n.news.naver.com/mnews/article/052/0002386085"
-    },
-    {
-      "title": "저커버그의 'AI 올인'…메타, 매출 28% 증가했지만 주가 6% 급락",
-      "url": "https://n.news.naver.com/mnews/article/469/0000945243"
-    },
-    {
-      "title": "‘레버리지, 청와대 외압 있었나’ 질문에 이억원 즉답 피해…“추가 보완책 검토”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002807867"
-    },
-    {
-      "title": "“부동산 세제, 집값 잡기용 아니다”… 구윤철 부총리, 거래 정상화 강조",
-      "url": "https://n.news.naver.com/mnews/article/022/0004146827"
-    },
-    {
-      "title": "상반기 국내 친환경차 13% 증가…내연기관차는 1% 줄었다",
-      "url": "https://n.news.naver.com/mnews/article/056/0012227902"
-    },
-    {
-      "title": "국민 10명 중 4명은 땅 주인…60대 이상 고령층이 67% 소유",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795881"
+      "title": "현대차그룹 정의선, 브라질 공장 찾아 중장기 성장 전략 점검",
+      "url": "https://n.news.naver.com/mnews/article/448/0000630308"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74
+      "value": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78
     },
     "usdkrw": {
-      "value": 1436.78,
-      "change": -16.38,
-      "change_pct": -1.13
+      "value": 1421.67,
+      "change": -31.49,
+      "change_pct": -2.17
     }
   },
   "gold": {
-    "price_usd": 4138.7,
-    "price_krw": 5946401,
-    "change": 102.4,
-    "change_pct": 2.54
+    "price_usd": 4163.1,
+    "price_krw": 5918554,
+    "change": 128.4,
+    "change_pct": 3.18
   },
-  "updated": "2026-07-30 09:15",
+  "updated": "2026-07-31 07:13",
   "error": null
 }
