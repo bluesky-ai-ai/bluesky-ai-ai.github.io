@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼전닉스 2배 투자, '개인별 20% 한도' 검토한다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338052"
-    },
-    {
-      "title": "'똘똘한 한채' 양도세 부담 늘어난다 … 유예기간 두고 매물 유도",
-      "url": "https://n.news.naver.com/mnews/article/009/0005713458"
-    },
-    {
-      "title": "부산시민사회, “BNK-JB 합병 중단하라”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002676127"
-    },
-    {
-      "title": "유가 급락에 다우 웃고 반도체 울었다…뉴욕증시 혼조 마감 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002676489"
-    },
-    {
-      "title": "美 PX도 뚫었다…무신사 뷰티, 미군 유통채널 AAFES 입점",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314514"
-    },
-    {
-      "title": "BNK금융 상반기 순이익 4118억원…전년比 13.5%↓",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338501"
+      "title": "우리금융 '전북 우리WON금융타운' 개소…금융중심지 조성 박차",
+      "url": "https://n.news.naver.com/mnews/article/421/0009086353"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000524107"
+      "url": "https://n.news.naver.com/mnews/article/374/0000524253"
     },
     {
-      "title": "“10명 중 9명 찾던 고정금리, 이젠 3명뿐”…12년 만에 최저치 찍은 이유는?",
-      "url": "https://n.news.naver.com/mnews/article/009/0005713236"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012227581"
     },
     {
-      "title": "비피엠지, 캐나다 결제 플랫폼과 스테이블코인 송금·정산 개발",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338074"
+      "title": "안전·디자인·연비 모두 잡았다…현대차 '디 올 뉴 아반떼' 기술 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339275"
     },
     {
-      "title": "비트코인, FOMC 금리 인상 우려에 6만4천달러 하회[코인시세]",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889590"
+      "title": "5월 출생아 증가율 13.6%...넉 달 연속 역대 최고",
+      "url": "https://n.news.naver.com/mnews/article/052/0002386085"
+    },
+    {
+      "title": "저커버그의 'AI 올인'…메타, 매출 28% 증가했지만 주가 6% 급락",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945243"
+    },
+    {
+      "title": "‘레버리지, 청와대 외압 있었나’ 질문에 이억원 즉답 피해…“추가 보완책 검토”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807867"
+    },
+    {
+      "title": "“부동산 세제, 집값 잡기용 아니다”… 구윤철 부총리, 거래 정상화 강조",
+      "url": "https://n.news.naver.com/mnews/article/022/0004146827"
+    },
+    {
+      "title": "상반기 국내 친환경차 13% 증가…내연기관차는 1% 줄었다",
+      "url": "https://n.news.naver.com/mnews/article/056/0012227902"
+    },
+    {
+      "title": "국민 10명 중 4명은 땅 주인…60대 이상 고령층이 67% 소유",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795881"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1464.44,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1436.78,
+      "change": -16.38,
+      "change_pct": -1.13
     }
   },
   "gold": {
-    "price_usd": 4019.1,
-    "price_krw": 5885730,
-    "change": -55.4,
-    "change_pct": -1.36
+    "price_usd": 4138.7,
+    "price_krw": 5946401,
+    "change": 102.4,
+    "change_pct": 2.54
   },
-  "updated": "2026-07-29 09:13",
+  "updated": "2026-07-30 09:15",
   "error": null
 }
