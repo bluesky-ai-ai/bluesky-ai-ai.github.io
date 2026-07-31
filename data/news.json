@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화, 한여름 '김동관·동원·동선 형제' 승진…3세 승계 속도 낸다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009088987"
+      "title": "단일종목 레버리지 ETF, 삼전·닉스 급등하자 50%대 동반 폭등",
+      "url": "https://n.news.naver.com/mnews/article/629/0000520849"
     },
     {
-      "title": "금호타이어, 2분기 영업익 1822억…전년比 4%↑",
-      "url": "https://n.news.naver.com/mnews/article/016/0002677577"
+      "title": "법원, 성남 상대원2구역 시공사 교체 제동…DL이앤씨 지위 유지",
+      "url": "https://n.news.naver.com/mnews/article/001/0016227369"
     },
     {
-      "title": "대한전선, 2분기 영업이익 608억원 ‘역대 최대’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001183256"
+      "title": "달러당 163엔→157엔…日기습개입에 美도 '레이트 체크' 공조",
+      "url": "https://n.news.naver.com/mnews/article/421/0009089739"
     },
     {
-      "title": "구례 3월 체류인구, 등록인구의 15.8배…산수유 관광 효과",
-      "url": "https://n.news.naver.com/mnews/article/020/0003737705"
+      "title": "두산, SK실트론 2.3조원에 인수…\"2031년 매출 3조원 목표\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797481"
     },
     {
-      "title": "MS·메타, 예상 넘는 매출에도…AI투자 수익화 성과에 희비 갈려",
-      "url": "https://n.news.naver.com/mnews/article/421/0009087069"
+      "title": "홈플러스 노사, 회생 위해 임금·상여금 지급 조정 합의…영업 정상화 총력",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797190"
     },
     {
-      "title": "정부, 단일종목 레버리지 '개인별 투자한도' 설정…모의거래 도입",
-      "url": "https://n.news.naver.com/mnews/article/421/0009086773"
+      "title": "한화에어로스페이스, 분기 영업이익 1조원 첫 돌파…9조원대 매출도 ‘역대 최고’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666600"
     },
     {
-      "title": "삼성전자, 2분기 영업익 89조4924억원… DS 89.2조 흑자, DX 0.8조 적자",
-      "url": "https://n.news.naver.com/mnews/article/366/0001183011"
+      "title": "최태원 SK하닉 첫 매수, 하루새 ‘13억’ 평가익…하닉 날자 스퀘어 상한가 [종목Pick]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002677795"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000524590"
+      "title": "LG, 성능 3배 커진 ‘K-엑사원 2.0’ 공개",
+      "url": "https://n.news.naver.com/mnews/article/023/0003990693"
     },
     {
-      "title": "DL이앤씨, 2Q 영업이익 26% 증가…원가율 낮추고 수익성 개선",
-      "url": "https://n.news.naver.com/mnews/article/277/0005796965"
+      "title": "금융위, ‘정보유출’ 롯데카드에 1.5개월 업무정지…해킹 제재 첫 사례",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541591"
     },
     {
-      "title": "현대차그룹 정의선, 브라질 공장 찾아 중장기 성장 전략 점검",
-      "url": "https://n.news.naver.com/mnews/article/448/0000630308"
+      "title": "정보 샌 모두의창업… ‘암호키’까지 털렸다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002808367"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5663.24,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 662.68,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25122.18,
-      "change": 679.24,
-      "change_pct": 2.78
+      "value": 25373.85,
+      "change": 251.67,
+      "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1421.67,
-      "change": -31.49,
-      "change_pct": -2.17
+      "value": 1442.07,
+      "change": -0.21,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4163.1,
-    "price_krw": 5918554,
-    "change": 128.4,
-    "change_pct": 3.18
+    "price_usd": 4098.6,
+    "price_krw": 5910468,
+    "change": -1.5,
+    "change_pct": -0.04
   },
-  "updated": "2026-07-31 07:13",
+  "updated": "2026-08-01 07:11",
   "error": null
 }
