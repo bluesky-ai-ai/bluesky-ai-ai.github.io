@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "영풍, 환경오염 회계제재 불복…'친환경' 홍보와 책임 공방 확산",
-      "url": "https://n.news.naver.com/mnews/article/666/0000117391"
+      "title": "‘30평에 1.5억’ 이젠 집도 만드는 삼성·LG…“3개월 만에 완공” 모듈러 주택, 뭐길래",
+      "url": "https://n.news.naver.com/mnews/article/011/0004647719"
     },
     {
-      "title": "기름값 11주 연속 하락…휘발유·경유 1800원대",
-      "url": "https://n.news.naver.com/mnews/article/448/0000630740"
-    },
-    {
-      "title": "‘메모리 갑질’ 하다가 중국제 쓰겠다는 아이폰 [트럼프 스톡커]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004647577"
+      "title": "“젠슨 황, 되레 거품 키운다”…韓증시 ‘투기 실험장’ 비꼰 외신",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541767"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891133"
+      "url": "https://n.news.naver.com/mnews/article/056/0012229602"
     },
     {
-      "title": "뉴욕증시, 아마존 실적 훈풍에 나스닥 1%↑…엔비디아 시총 1위 탈환 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002678124"
+      "title": "빅테크 너도나도 \"AI 투자 증액\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394508"
     },
     {
-      "title": "분양 외 기존주택 잔금은 '대출숨통' 미포함…LTV 완화도 배제",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228550"
+      "title": "공정위, 코레일-SR 기업결합 승인…‘코레일+’ 통합앱 3일 출시",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666725"
     },
     {
-      "title": "'둘 다 역대급 실적이라더니'…삼전엔 있었지만 하닉엔 없었던 것 [B급기자의 B급리포트]",
-      "url": "https://n.news.naver.com/mnews/article/215/0001260782"
+      "title": "여 \"레버리지 점검\" 야 \"경제라인 경질\" 국내 증시 촉각",
+      "url": "https://n.news.naver.com/mnews/article/082/0001392289"
     },
     {
-      "title": "반도체 2개월 연속 400억弗 돌파…수출 1조 클럽 보인다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102730"
+      "title": "LG전자, 제주 히트펌프 보급 사업 박차",
+      "url": "https://n.news.naver.com/mnews/article/032/0003461846"
     },
     {
-      "title": "7월 소비자물가 3% 아래로 떨어졌을까[다음주 경제]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228019"
+      "title": "7월 수출 989억 달러 역대 2위…반도체가 410억 달러",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738193"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229189"
+      "title": "최윤범 \"창립 52주년 고려아연, 글로벌 성공 신화 쓰겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797685"
+    },
+    {
+      "title": "연매출 2000억 소부장에도 빅테크 줄 섰다...삼성·SK 아니어도 장기계약 보편화",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945786"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4049.1,
-    "price_krw": 5816937,
-    "change": -51.0,
-    "change_pct": -1.24
+    "price_usd": 4107.0,
+    "price_krw": 5900116,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-02 07:01",
+  "updated": "2026-08-03 07:01",
   "error": null
 }
