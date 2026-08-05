@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "인천공항, 7조원 규모의 타슈켄트 신공항 개발사업 수주",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148284"
+      "title": "코스피, 3.76% 상승 마감... 대형주 전반 강세",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991478"
     },
     {
-      "title": "혁신기업에 5년간 400억 집중 지원...국가대표 도약기업 3000개 육성",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648520"
+      "title": "삼성전자, 'HBM 8배 성능' 차세대 3D 메모리 공개",
+      "url": "https://n.news.naver.com/mnews/article/052/0002389017"
     },
     {
-      "title": "코스닥 5%대 급등…3거래일째 매수 사이드카 발동",
-      "url": "https://n.news.naver.com/mnews/article/437/0000504437"
+      "title": "HD현대, 미국 최대 방산 조선사와 협력 속도…용접 시스템 전수",
+      "url": "https://n.news.naver.com/mnews/article/001/0016234662"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002388764"
+      "title": "최근 5년 임금불평등 확대…\"저임금노동자 임금상승 둔화 영향\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016236260"
     },
     {
-      "title": "“내 테슬라도 메이드 인 차이나”…중국산 전기차, 독일차 제치고 ‘수입차 1위’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005716510"
+      "title": "'9000억 청구서' 또 날아들 판…역대급 위기에 쿠팡 '초비상'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317826"
     },
     {
-      "title": "삼성전자-SK하닉, 美 FMS서 '포스트 HBM' 주도권 대결",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557170"
+      "title": "'한 달 전으로 시간 돌릴 수 있다면'…빚투 개미들 '피눈물' [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317374"
     },
     {
-      "title": "삼전닉스 레버리지 거래대금 90% 급감…예탁금 상향 직격탄",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738422"
+      "title": "\"K-컬처 타고 온 방한객, 부가가치 높이려면…체류 일수·지출 늘릴 정책 펴야\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799221"
     },
     {
-      "title": "7월 외환보유액, 5.9억달러 증가… 4개월 만에 세계 10위 탈환",
-      "url": "https://n.news.naver.com/mnews/article/366/0001184318"
+      "title": "금감원, SK디앤디 1367억원 유상증자에 정정요구",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557842"
     },
     {
-      "title": "[속보] 7월 소비자물가 상승률 2.8%…석 달 만에 2%대로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005716176"
+      "title": "韓 외환보유액 4279.5억佛....5개월만 10위 복귀 [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648612"
     },
     {
-      "title": "“계열사 숨기면 총수도 과징금”...공정위, 대기업 규제 개편",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648605"
+      "title": "삼성호암상 상금, 부문별 3억→5억 증액",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542570"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6257.45,
+      "value": 6358.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 737.35,
+      "value": 780.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26584.99,
-      "change": 671.09,
-      "change_pct": 2.59
+      "value": 26363.44,
+      "change": -221.55,
+      "change_pct": -0.83
     },
     "usdkrw": {
-      "value": 1429.43,
-      "change": -6.27,
-      "change_pct": -0.44
+      "value": 1421.87,
+      "change": -6.63,
+      "change_pct": -0.46
     }
   },
   "gold": {
-    "price_usd": 4133.8,
-    "price_krw": 5908977,
-    "change": 100.1,
-    "change_pct": 2.48
+    "price_usd": 4306.5,
+    "price_krw": 6123283,
+    "change": 211.1,
+    "change_pct": 5.15
   },
-  "updated": "2026-08-05 07:18",
+  "updated": "2026-08-06 07:16",
   "error": null
 }
