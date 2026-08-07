@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코스피, 3.76% 상승 마감... 대형주 전반 강세",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991478"
+      "title": "\"중국은 밤 12시까지 일해\"...김정관 \"주52시간, 예외 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000504893"
     },
     {
-      "title": "삼성전자, 'HBM 8배 성능' 차세대 3D 메모리 공개",
-      "url": "https://n.news.naver.com/mnews/article/052/0002389017"
+      "title": "이성훈 \"토지 보상 앞당겨 주택공급 속도전\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318171"
     },
     {
-      "title": "HD현대, 미국 최대 방산 조선사와 협력 속도…용접 시스템 전수",
-      "url": "https://n.news.naver.com/mnews/article/001/0016234662"
+      "title": "내년부터 중고차 ‘깜깜이 수수료’ 전면 공개…중대 하자 땐 환불",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542721"
     },
     {
-      "title": "최근 5년 임금불평등 확대…\"저임금노동자 임금상승 둔화 영향\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016236260"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525957"
     },
     {
-      "title": "'9000억 청구서' 또 날아들 판…역대급 위기에 쿠팡 '초비상'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317826"
+      "title": "“베선트에 절이라도 하고 싶네”…한마디로 환율 잡아준 ‘우군’ 됐다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717792"
     },
     {
-      "title": "'한 달 전으로 시간 돌릴 수 있다면'…빚투 개미들 '피눈물' [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317374"
+      "title": "‘지방정부 30% 이상 매칭’ 전기차 보조금 체계 손본다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002680749"
     },
     {
-      "title": "\"K-컬처 타고 온 방한객, 부가가치 높이려면…체류 일수·지출 늘릴 정책 펴야\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799221"
+      "title": "HMM, 초등학생 초청 ‘어린이 상선체험’ 개최",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346646"
     },
     {
-      "title": "금감원, SK디앤디 1367억원 유상증자에 정정요구",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557842"
+      "title": "\"해외이익 확대·NGP 성장\"…KT&G, 2분기 영업익 18.5% 껑충(상보)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009101205"
     },
     {
-      "title": "韓 외환보유액 4279.5억佛....5개월만 10위 복귀 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648612"
+      "title": "BGF리테일, 2분기 영업이익 849억원…파업 여파에도 전년比 22.3%↑",
+      "url": "https://n.news.naver.com/mnews/article/030/0003454938"
     },
     {
-      "title": "삼성호암상 상금, 부문별 3억→5억 증액",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542570"
+      "title": "산업부 장관, 삼성·SK하이닉스 이익 배분론에 \"정부 몫은 세금이 맥시멈\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001047716"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6269.77,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 799.21,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1421.87,
-      "change": -6.63,
-      "change_pct": -0.46
+      "value": 1421.08,
+      "change": -0.08,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4306.5,
-    "price_krw": 6123283,
-    "change": 211.1,
-    "change_pct": 5.15
+    "price_usd": 4292.4,
+    "price_krw": 6099843,
+    "change": 46.6,
+    "change_pct": 1.1
   },
-  "updated": "2026-08-06 07:16",
+  "updated": "2026-08-07 10:01",
   "error": null
 }
