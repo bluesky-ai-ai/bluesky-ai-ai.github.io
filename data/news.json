@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "범여권 \"소비로 홈플러스 지켜달라\" 대국민 홈플러스 소비 캠페인 전개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005558575"
+      "title": "SK하이닉스, 용인·청주 팹에 54조 투자…“수요 선제 대응”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002810002"
     },
     {
-      "title": "구윤철 “최대한 주택공급 빨리…‘핀셋 지원’도 고민해 조만간 대책”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718204"
+      "title": "국내 기름값 12주 연속 하락에도… 휘발유·경유 1800원대 유지",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185028"
     },
     {
-      "title": "'한전기술지주' 출범… 공공 에너지 기술로 유니콘 기업 키운다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000946809"
+      "title": "고용 충격에 금리 인상 부담 덜었다…뉴욕증시 상승 출발",
+      "url": "https://n.news.naver.com/mnews/article/018/0006347437"
     },
     {
-      "title": "대원제약, 상반기 영업익 45%↓…“연구개발·마케팅 비용 증가”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001184971"
+      "title": "'창사 첫 파업' 카카오, 연봉 6.3% 인상 합의",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318624"
     },
     {
-      "title": "진에어, 2분기 매출액 3603억·영업 적자 731억원…“하반기 수익성 개선 총력”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002681022"
+      "title": "中 광물 의존 끊겠다는 美, 4조원 투자 발표… 고려아연 제련소도 언급",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991952"
     },
     {
-      "title": "LG 산업용 엑사원, 구글·알리바바 제치고 AI 모델 성능 평가 1위",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542940"
+      "title": "‘원자재 232조’ 꺼낸 트럼프…K-태양광 수혜 속 반도체 ‘직접 타격 제로’[산업이(異)면]",
+      "url": "https://n.news.naver.com/mnews/article/032/0003462991"
     },
     {
-      "title": "KDB생명 인수에 한투·한화·흥국 '3파전'…삼성·교보 불참",
-      "url": "https://n.news.naver.com/mnews/article/001/0016239734"
+      "title": "5대 시중은행, 정기예금 990조 돌파…일주일 새 6.5조↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014115336"
     },
     {
-      "title": "코스피, 반등 하루 만에 다시 하락…6200선까지 밀려",
-      "url": "https://n.news.naver.com/mnews/article/654/0000194184"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002390604"
     },
     {
-      "title": "‘역대급 폭염’에 치솟는 전력 수요…정부, 수급 현장 긴급 점검",
-      "url": "https://n.news.naver.com/mnews/article/032/0003462922"
+      "title": "포스코홀딩스, 인터·DX 지분 팔아 2.5조 조달",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649694"
     },
     {
-      "title": "‘美프로젝트’ 두고 2차전… 고려아연, 영풍·MBK 고발",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865440"
+      "title": "1980만 조회수 찍은 롯데百 앰배서더…2기 모집 나선다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103780"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6258.77,
+      "change": -37.61,
+      "change_pct": -0.6
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 798.81,
+      "change": -2.86,
+      "change_pct": -0.36
     },
     "nasdaq": {
       "value": 26690.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4401.3,
-    "price_krw": 6194609,
-    "change": 159.3,
-    "change_pct": 3.76
+    "price_usd": 4340.7,
+    "price_krw": 6109318,
+    "change": 98.7,
+    "change_pct": 2.33
   },
-  "updated": "2026-08-08 06:47",
+  "updated": "2026-08-09 06:37",
   "error": null
 }
