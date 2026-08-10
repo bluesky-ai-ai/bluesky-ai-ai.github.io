@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "수도권 ‘5만 가구+α’ 더 나오나… 그린벨트까지 다시  들여다본다",
-      "url": "https://n.news.naver.com/mnews/article/661/0000081308"
+      "title": "집 남아 돌지만 ‘내 집’은 없다…여관서 사는 취약계층, 55만 가구 육박",
+      "url": "https://n.news.naver.com/mnews/article/021/0002810292"
     },
     {
-      "title": "농협, 폭염·가뭄 대응 총력…재해자금 3000억원 긴급 지원",
-      "url": "https://n.news.naver.com/mnews/article/030/0003455386"
+      "title": "\"삼성전자 주주환원 최대 200조\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005719161"
     },
     {
-      "title": "‘공무원 사칭 대리구매’ 등 신종 피싱 지속 발생…FIU, 계좌 차단 강화",
-      "url": "https://n.news.naver.com/mnews/article/056/0012234118"
+      "title": "LS일렉, GS건설과 데이터센터 직류배전 사업 ‘동맹’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650167"
     },
     {
-      "title": "“손주 돌보려고 집 비운건데, 세금 폭탄 맞나요?”…세제개편안에 쏟아진 민원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718433"
+      "title": "SK하이닉스, 中 충칭공장 매각설에 \"다양한 방안 검토…확정된 바 없어\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014118440"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000893914"
+      "title": "코스닥 6.97% 급등, 850선 돌파…이달 들어 3번째 매수 사이드카(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006348960"
     },
     {
-      "title": "美, 中겨냥 폴리실리콘 ‘가격 하한제’·15% 관세… K태양광 반등 청신호",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865868"
+      "title": "코스피 주춤, 코스닥만 날았다…레버리지 규제 이후 수급 개선",
+      "url": "https://n.news.naver.com/mnews/article/001/0016243183"
     },
     {
-      "title": "삼성 테일러팹 가동 전에 인턴 뽑고… TSMC는 초짜 뽑고 월급 줘 가며 교육",
-      "url": "https://n.news.naver.com/mnews/article/081/0003668837"
+      "title": "“은행 뺑뺑이 돌아도 잔금 마련 막막”…대출 규제에 아파트 입주 예정자 ‘비상’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718712"
     },
     {
-      "title": "문 열고 에어컨 ‘펑펑’…수도권 매장 57% 개문 냉방",
-      "url": "https://n.news.naver.com/mnews/article/022/0004149530"
+      "title": "SK바이오사이언스, 2분기 영업손실 157억원…전년比 적자폭 좁혀",
+      "url": "https://n.news.naver.com/mnews/article/029/0003041613"
     },
     {
-      "title": "1000만뷰… 23년 만의 여행에 쏟아진 응원",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865830"
+      "title": "레버리지 규제 7거래일 만에 ‘변동성지수’ VKOSPI 20% 급락",
+      "url": "https://n.news.naver.com/mnews/article/021/0002810434"
     },
     {
-      "title": "1555원까지 올랐다 1400원대로 내린 환율… 변동성, 금융위기 이후 최고",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185090"
+      "title": "7월 서울 민간아파트 3.3㎡당 분양가 8000만원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718796"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6258.77,
-      "change": -37.61,
-      "change_pct": -0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 798.81,
-      "change": -2.86,
-      "change_pct": -0.36
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26690.62,
-      "change": 342.27,
-      "change_pct": 1.3
+      "value": 26605.36,
+      "change": -85.26,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1407.79,
-      "change": -14.51,
-      "change_pct": -1.02
+      "value": 1417.72,
+      "change": -4.58,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4399.7,
-    "price_krw": 6193853,
+    "price_usd": 4448.6,
+    "price_krw": 6306869,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-10 06:39",
+  "updated": "2026-08-11 06:50",
   "error": null
 }
