@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "집 남아 돌지만 ‘내 집’은 없다…여관서 사는 취약계층, 55만 가구 육박",
-      "url": "https://n.news.naver.com/mnews/article/021/0002810292"
+      "title": "백화점 잘 되자 K패션도 살아났다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006349752"
     },
     {
-      "title": "\"삼성전자 주주환원 최대 200조\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005719161"
+      "title": "엔비디아·월가 ‘710조 동맹’… AI 인프라 자금 조달 플랫폼 구축",
+      "url": "https://n.news.naver.com/mnews/article/005/0001866323"
     },
     {
-      "title": "LS일렉, GS건설과 데이터센터 직류배전 사업 ‘동맹’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650167"
+      "title": "아반떼 가격 논란에 노조 추가 파업까지…현대차, 하반기 반등 물거품되나 [biz-플러스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650841"
     },
     {
-      "title": "SK하이닉스, 中 충칭공장 매각설에 \"다양한 방안 검토…확정된 바 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014118440"
+      "title": "SK하이닉스, 키옥시아 최대 주주로 부상",
+      "url": "https://n.news.naver.com/mnews/article/015/0005319819"
     },
     {
-      "title": "코스닥 6.97% 급등, 850선 돌파…이달 들어 3번째 매수 사이드카(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006348960"
+      "title": "김정관 “호남 반도체 팹 2029년 1차 완공 목표”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650591"
     },
     {
-      "title": "코스피 주춤, 코스닥만 날았다…레버리지 규제 이후 수급 개선",
-      "url": "https://n.news.naver.com/mnews/article/001/0016243183"
+      "title": "'시총 1조' 나스닥 상장사도 \"코스닥 갈래요\"…신뢰 회복 신호탄 될까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398499"
     },
     {
-      "title": "“은행 뺑뺑이 돌아도 잔금 마련 막막”…대출 규제에 아파트 입주 예정자 ‘비상’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718712"
+      "title": "삼성SDI, GM과 차세대 각형 배터리 공동 개발…美 단독 공장도 확보",
+      "url": "https://n.news.naver.com/mnews/article/421/0009107856"
     },
     {
-      "title": "SK바이오사이언스, 2분기 영업손실 157억원…전년比 적자폭 좁혀",
-      "url": "https://n.news.naver.com/mnews/article/029/0003041613"
+      "title": "코스맥스, K뷰티 호황에 2분기 최대 실적…美 법인 첫 흑자",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185611"
     },
     {
-      "title": "레버리지 규제 7거래일 만에 ‘변동성지수’ VKOSPI 20% 급락",
-      "url": "https://n.news.naver.com/mnews/article/021/0002810434"
+      "title": "하나금융·국가보훈부, 보훈문화 확산 MOU 체결",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398242"
     },
     {
-      "title": "7월 서울 민간아파트 3.3㎡당 분양가 8000만원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718796"
+      "title": "뉴욕증시, 미·이란 협상 의구심에 약보합 마감…다우 0.1%↓",
+      "url": "https://n.news.naver.com/mnews/article/056/0012235149"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6258.77,
+      "value": 6299.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 798.81,
+      "value": 854.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26605.36,
-      "change": -85.26,
-      "change_pct": -0.32
+      "value": 26445.45,
+      "change": -159.91,
+      "change_pct": -0.6
     },
     "usdkrw": {
-      "value": 1417.72,
-      "change": -4.58,
-      "change_pct": -0.32
+      "value": 1412.33,
+      "change": 5.33,
+      "change_pct": 0.38
     }
   },
   "gold": {
-    "price_usd": 4448.6,
-    "price_krw": 6306869,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4427.8,
+    "price_krw": 6253514,
+    "change": 66.0,
+    "change_pct": 1.51
   },
-  "updated": "2026-08-11 06:50",
+  "updated": "2026-08-12 06:56",
   "error": null
 }
