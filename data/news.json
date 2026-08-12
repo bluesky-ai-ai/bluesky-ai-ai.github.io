@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "백화점 잘 되자 K패션도 살아났다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006349752"
+      "title": "미국 7월 소비자물가 3.4% 상승...예상치 부합",
+      "url": "https://n.news.naver.com/mnews/article/052/0002392527"
     },
     {
-      "title": "엔비디아·월가 ‘710조 동맹’… AI 인프라 자금 조달 플랫폼 구축",
-      "url": "https://n.news.naver.com/mnews/article/005/0001866323"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001379960"
     },
     {
-      "title": "아반떼 가격 논란에 노조 추가 파업까지…현대차, 하반기 반등 물거품되나 [biz-플러스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650841"
+      "title": "한화, 부산대에 계약학과 만든다…영남권 55조 투자 일환",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992605"
     },
     {
-      "title": "SK하이닉스, 키옥시아 최대 주주로 부상",
-      "url": "https://n.news.naver.com/mnews/article/015/0005319819"
+      "title": "SK하이닉스 인디애나팹, 27일 착공식…최태원·젠슨 황 회동?",
+      "url": "https://n.news.naver.com/mnews/article/421/0009110881"
     },
     {
-      "title": "김정관 “호남 반도체 팹 2029년 1차 완공 목표”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650591"
+      "title": "'좀비기업' 36곳 무더기 관리종목행… 90거래일 상폐 카운트다운",
+      "url": "https://n.news.naver.com/mnews/article/469/0000947683"
     },
     {
-      "title": "'시총 1조' 나스닥 상장사도 \"코스닥 갈래요\"…신뢰 회복 신호탄 될까",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398499"
+      "title": "7월 취업자 10만8000명↑…청년 실업률 4년來 최고(2보)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014121781"
     },
     {
-      "title": "삼성SDI, GM과 차세대 각형 배터리 공동 개발…美 단독 공장도 확보",
-      "url": "https://n.news.naver.com/mnews/article/421/0009107856"
+      "title": "미래에셋증권, 업계 최초 2분기 연속 순이익 '1조원' 돌파",
+      "url": "https://n.news.naver.com/mnews/article/277/0005802310"
     },
     {
-      "title": "코스맥스, K뷰티 호황에 2분기 최대 실적…美 법인 첫 흑자",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185611"
+      "title": "KAI 노조 “한화, 공급사이자 경쟁사…기업결합 불허해야”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042125"
     },
     {
-      "title": "하나금융·국가보훈부, 보훈문화 확산 MOU 체결",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398242"
+      "title": "한국콜마, 2분기 영업익 1103억원 '역대 최대'… 전년 比 50%↑",
+      "url": "https://n.news.naver.com/mnews/article/138/0002237548"
     },
     {
-      "title": "뉴욕증시, 미·이란 협상 의구심에 약보합 마감…다우 0.1%↓",
-      "url": "https://n.news.naver.com/mnews/article/056/0012235149"
+      "title": "투자자문·일임사 순이익 18배 늘었다…흑자 비율도 27%P 증가",
+      "url": "https://n.news.naver.com/mnews/article/011/0004651213"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6299.66,
+      "value": 6345.53,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 854.47,
+      "value": 857.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6
+      "value": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54
     },
     "usdkrw": {
-      "value": 1412.33,
-      "change": 5.33,
-      "change_pct": 0.38
+      "value": 1416.8,
+      "change": -0.51,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4427.8,
-    "price_krw": 6253514,
-    "change": 66.0,
-    "change_pct": 1.51
+    "price_usd": 4469.0,
+    "price_krw": 6331679,
+    "change": 86.0,
+    "change_pct": 1.96
   },
-  "updated": "2026-08-12 06:56",
+  "updated": "2026-08-13 06:54",
   "error": null
 }
