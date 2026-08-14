@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국세청, KB국민은행 ‘특별세무조사’ 착수",
-      "url": "https://n.news.naver.com/mnews/article/032/0003463989"
+      "title": "국토장관 “어린이정원 포함 용산공원 내 주택 공급 검토”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818614"
     },
     {
-      "title": "은행 없이도 질주하는 삼성금융 … 생명·화재 상반기 순익 3.3조원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005720822"
+      "title": "‘전력 메가사이클’ 탄 LS, 상반기 영업익 1조 신기록",
+      "url": "https://n.news.naver.com/mnews/article/011/0004651844"
     },
     {
-      "title": "우리나라 7월 교역조건 역대급 개선‥수출물가 상승, 수입은 하락",
-      "url": "https://n.news.naver.com/mnews/article/214/0001517819"
+      "title": "정부, 홈플러스 근로자에 융자 등 778억원 지원",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803341"
     },
     {
-      "title": "이마트, 2분기 별도 영업익 64% 증가... 스타벅스 발목에 연결은 430억 적자 전환",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186034"
+      "title": "LG, 내년 1분기 ‘엔비디아 플랫폼’ 심은 휴머노이드 내놓는다···AI 동맹 강화",
+      "url": "https://n.news.naver.com/mnews/article/032/0003464228"
     },
     {
-      "title": "삼성전자노조 “메가프로젝트 반대 안 해…52시간 특례는 부정적”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002818402"
+      "title": "韓총리, 빌 게이츠 만나 \"재생에너지·SMR 에너지믹스 모색\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016252462"
     },
     {
-      "title": "‘매각 7수’ KDB생명 우선협상대상자에 한국투자금융지주",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042365"
+      "title": "CNBC, \"최태원, 내년 메모리칩 부족 최악의 해…美에 공장 지을 의향\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527506"
     },
     {
-      "title": "아시아나항공, 2분기 영업손실 2951억원… 전년比 적자 전환",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186140"
+      "title": "성인 5명 중 1명은 삼성전자 주주…800만 명 육박",
+      "url": "https://n.news.naver.com/mnews/article/422/0000895873"
     },
     {
-      "title": "서울 강서·남양주·경기광주 2.7만호 신규택지…수도권 23만호 속도전(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009112146"
+      "title": "\"SK하이닉스 주가 급등에, 주식 장기성과보상 확대\" 곽노정 사장, 상반기 261억 받아",
+      "url": "https://n.news.naver.com/mnews/article/003/0014128849"
     },
     {
-      "title": "공급대책만 몇 번째…“계획보다 첫 삽이 먼저” [8.13 부동산대책]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003121500"
+      "title": "가계대출 30조 늘렸지만 … 금융권 \"명확한 기준 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005721318"
     },
     {
-      "title": "정기선 회장 \"10년·20년 뒤 내다보는 리더십 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561404"
+      "title": "미 7월 소매판매 전월대비 0.6%↓...\"아마존 할인종료 여파\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002393588"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6579.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 858.91,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26803.03,
-      "change": 214.54,
-      "change_pct": 0.81
+      "value": 26729.16,
+      "change": -73.87,
+      "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1418.19,
-      "change": 6.01,
-      "change_pct": 0.43
+      "value": 1416.48,
+      "change": 0.02,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4407.1,
-    "price_krw": 6250105,
-    "change": -1.8,
-    "change_pct": -0.04
+    "price_usd": 4432.0,
+    "price_krw": 6277839,
+    "change": 68.4,
+    "change_pct": 1.57
   },
-  "updated": "2026-08-14 06:53",
+  "updated": "2026-08-15 06:31",
   "error": null
 }
