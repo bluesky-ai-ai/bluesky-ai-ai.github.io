@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "국토장관 “어린이정원 포함 용산공원 내 주택 공급 검토”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002818614"
+      "title": "SSG닷컴, 가을 신상품 한자리에…'브랜드 쇼케이스' 개최",
+      "url": "https://n.news.naver.com/mnews/article/030/0003457722"
     },
     {
-      "title": "‘전력 메가사이클’ 탄 LS, 상반기 영업익 1조 신기록",
-      "url": "https://n.news.naver.com/mnews/article/011/0004651844"
+      "title": "야권, 통상교섭본부장 직권 면직에 \"교체 이유 밝혀야\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896153"
     },
     {
-      "title": "정부, 홈플러스 근로자에 융자 등 778억원 지원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803341"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001380793"
     },
     {
-      "title": "LG, 내년 1분기 ‘엔비디아 플랫폼’ 심은 휴머노이드 내놓는다···AI 동맹 강화",
-      "url": "https://n.news.naver.com/mnews/article/032/0003464228"
+      "title": "고점론 퍼지는데…\"삼전닉스 저평가\" 보고서 등장에 '들썩' [종목+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321245"
     },
     {
-      "title": "韓총리, 빌 게이츠 만나 \"재생에너지·SMR 에너지믹스 모색\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016252462"
+      "title": "12차 전기본 공청회 다음주 개최…메가 프로젝트 반영해 수요 재추계",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652067"
     },
     {
-      "title": "CNBC, \"최태원, 내년 메모리칩 부족 최악의 해…美에 공장 지을 의향\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000527506"
+      "title": "기름값 13주째 내렸다…휘발유 1864원·경유 1847원",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811642"
     },
     {
-      "title": "성인 5명 중 1명은 삼성전자 주주…800만 명 육박",
-      "url": "https://n.news.naver.com/mnews/article/422/0000895873"
+      "title": "\"가을 신상부터 단독 상품 총집합\"…W컨셉, '시즌 프리뷰' 개막",
+      "url": "https://n.news.naver.com/mnews/article/421/0009115989"
     },
     {
-      "title": "\"SK하이닉스 주가 급등에, 주식 장기성과보상 확대\" 곽노정 사장, 상반기 261억 받아",
-      "url": "https://n.news.naver.com/mnews/article/003/0014128849"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002393535"
     },
     {
-      "title": "가계대출 30조 늘렸지만 … 금융권 \"명확한 기준 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721318"
+      "title": "건협, 주택 신속공급 방안 환영…금융 부담 완화 기대 [8.13 대책]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561883"
     },
     {
-      "title": "미 7월 소매판매 전월대비 0.6%↓...\"아마존 할인종료 여파\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002393588"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012238540"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6977.94,
+      "change": 164.6,
+      "change_pct": 2.42
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 864.65,
+      "change": 3.28,
+      "change_pct": 0.38
     },
     "nasdaq": {
       "value": 26729.16,
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": 0.02,
-      "change_pct": 0.0
+      "value": 1412.0,
+      "change": -4.85,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4432.0,
-    "price_krw": 6277839,
-    "change": 68.4,
-    "change_pct": 1.57
+    "price_usd": 4380.4,
+    "price_krw": 6185124,
+    "change": 16.8,
+    "change_pct": 0.39
   },
-  "updated": "2026-08-15 06:31",
+  "updated": "2026-08-16 06:27",
   "error": null
 }
