@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스 영업 재개에 카드대금 보류도 해제…자금 흐름 숨통 트이나",
-      "url": "https://n.news.naver.com/mnews/article/032/0003464734"
+      "title": "한국은행, 인공지능 고노출 업종서 청년 일자리 줄고 50대 일자리는 증가",
+      "url": "https://n.news.naver.com/mnews/article/214/0001518564"
     },
     {
-      "title": "CJ, 2028년 북미 연매출 12조원 목표 “미국인 일상에 스며들 것”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003464715"
+      "title": "농식품부, ‘제12회 쌀의 날’ 행사 개최",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652822"
     },
     {
-      "title": "LG·엔비디아 AI 동맹 \"로봇·AI팩토리·모빌리티 3대 협력\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562200"
+      "title": "김성환 기후부 장관 “신규 원전 건설 여부 아직 결론 안 내려”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993590"
     },
     {
-      "title": "삼성, 국제올림피아드 수상자에 장학금",
-      "url": "https://n.news.naver.com/mnews/article/025/0003544915"
+      "title": "\"푸바오 형제 '아기 판다' 이름 지어주세요\"…에버랜드 이름 투표 진행",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803892"
     },
     {
-      "title": "다시 빛나는 금… 美 금리 공포 걷히자 한 달 새 12% 급등",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867387"
+      "title": "美 30년물 국채금리 5.31%…19년 만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803798"
     },
     {
-      "title": "토큰증권 세부안 임박…준비시간은 줄었다",
-      "url": "https://n.news.naver.com/mnews/article/293/0000089151"
+      "title": "'숨통 트이나 했는데' 다시 뛴다…25만→35만원 '껑충'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001262684"
     },
     {
-      "title": "하나은행, 수해입은 경남에 긴급 자금 물꼬…이재민 구호·금융 지원 총력",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741348"
+      "title": "현대차 노사 '추가교섭' 또 결렬…노조, 쟁대위 열고 파업 확대 논의",
+      "url": "https://n.news.naver.com/mnews/article/008/0005401497"
     },
     {
-      "title": "은행 대출 막히자 보험으로…손보사 가계대출 700억↑",
-      "url": "https://n.news.naver.com/mnews/article/011/0004652354"
+      "title": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321742"
     },
     {
-      "title": "서울 아파트 7년 새 월세 비중 7.8%p↑… ‘전세의 월세화’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001186631"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/449/0000357297"
     },
     {
-      "title": "2030 주거난 직격탄 … 정부 '용산 초대형 청년단지'로 승부수",
-      "url": "https://n.news.naver.com/mnews/article/009/0005721995"
+      "title": "中 ‘원전·로봇 굴기’ 맞서… 한·미, 기술·제조력 ‘연합작전’ 펼친다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151553"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6977.94,
-      "change": 164.6,
-      "change_pct": 2.42
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 864.65,
-      "change": 3.28,
-      "change_pct": 0.38
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26644.91,
-      "change": -84.25,
-      "change_pct": -0.32
+      "value": 26289.71,
+      "change": -355.2,
+      "change_pct": -1.33
     },
     "usdkrw": {
-      "value": 1414.94,
-      "change": -1.91,
-      "change_pct": -0.13
+      "value": 1412.29,
+      "change": -3.08,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4473.1,
-    "price_krw": 6329168,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4389.5,
+    "price_krw": 6199246,
+    "change": -28.3,
+    "change_pct": -0.64
   },
-  "updated": "2026-08-18 06:32",
+  "updated": "2026-08-19 06:30",
   "error": null
 }
