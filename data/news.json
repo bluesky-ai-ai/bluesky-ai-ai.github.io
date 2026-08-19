@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한국은행, 인공지능 고노출 업종서 청년 일자리 줄고 50대 일자리는 증가",
-      "url": "https://n.news.naver.com/mnews/article/214/0001518564"
+      "title": "창신 '잭팟' 이을까…中 양쯔메모리도 IPO 행보",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528288"
     },
     {
-      "title": "농식품부, ‘제12회 쌀의 날’ 행사 개최",
-      "url": "https://n.news.naver.com/mnews/article/011/0004652822"
+      "title": "올해 상반기 벤처투자 8조9000억원 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005804525"
     },
     {
-      "title": "김성환 기후부 장관 “신규 원전 건설 여부 아직 결론 안 내려”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993590"
+      "title": "한화 K9, 미국 뚫었다…육군에 자주포 시제품 공급 계약",
+      "url": "https://n.news.naver.com/mnews/article/020/0003741833"
     },
     {
-      "title": "\"푸바오 형제 '아기 판다' 이름 지어주세요\"…에버랜드 이름 투표 진행",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803892"
+      "title": "美 장기 국채 금리 고공행진…코스피, 5.8% 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/215/0001262863"
     },
     {
-      "title": "美 30년물 국채금리 5.31%…19년 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803798"
+      "title": "호텔 ‘더 플라자’ 전면 리모델링…3년 뒤 최고급 호텔로 재탄생",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465223"
     },
     {
-      "title": "'숨통 트이나 했는데' 다시 뛴다…25만→35만원 '껑충'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001262684"
+      "title": "반도체·조선 빼곤 사람 안 뽑아…'뉴노멀' 된 고용 없는 성장",
+      "url": "https://n.news.naver.com/mnews/article/015/0005322567"
     },
     {
-      "title": "현대차 노사 '추가교섭' 또 결렬…노조, 쟁대위 열고 파업 확대 논의",
-      "url": "https://n.news.naver.com/mnews/article/008/0005401497"
+      "title": "가계대출 빗장 조금씩 풀린다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653168"
     },
     {
-      "title": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321742"
+      "title": "SK하이닉스 ‘40조 통 큰 환원’…국내 최대 자사주 소각",
+      "url": "https://n.news.naver.com/mnews/article/123/0002388639"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000357297"
+      "title": "LG전자, 경남 수해 지역서 가전 무상 점검…\"제조사 상관 없어요\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009121614"
     },
     {
-      "title": "中 ‘원전·로봇 굴기’ 맞서… 한·미, 기술·제조력 ‘연합작전’ 펼친다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151553"
+      "title": "\"수소로 깨끗해지는 세상, 함께 만들어요\"..현대차그룹-구몬 창작 문학 공모전",
+      "url": "https://n.news.naver.com/mnews/article/008/0005401653"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6977.94,
+      "value": 6869.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 864.65,
+      "value": 834.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33
+      "value": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16
     },
     "usdkrw": {
-      "value": 1412.29,
-      "change": -3.08,
-      "change_pct": -0.22
+      "value": 1386.29,
+      "change": -28.44,
+      "change_pct": -2.01
     }
   },
   "gold": {
-    "price_usd": 4389.5,
-    "price_krw": 6199246,
-    "change": -28.3,
-    "change_pct": -0.64
+    "price_usd": 4580.7,
+    "price_krw": 6350178,
+    "change": 214.7,
+    "change_pct": 4.92
   },
-  "updated": "2026-08-19 06:30",
+  "updated": "2026-08-20 06:32",
   "error": null
 }
