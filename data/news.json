@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012241428"
+      "title": "삼전, 주주환원 기대에 3.9% 급등 마감…하닉도 2.3%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016264123"
     },
     {
-      "title": "교섭 결렬 현대차 노조 투쟁 수위 최고조…21일 전면 파업·상경 투쟁",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653519"
+      "title": "SNT에너지, 320억 규모 사우디 올레핀 공장 에어쿨드 콘덴서 공급계약",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403103"
     },
     {
-      "title": "'용산공원 아파트' AI 조감도 봇물… \"꼭 지어야?\" vs \"과장 선동\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949171"
+      "title": "원·달러 환율 1386.5원 마감…11개월 만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/656/0000184669"
     },
     {
-      "title": "롯데·HD현대 대산 석유화학 통합 조건부 승인…가격·공급 제한 5년",
-      "url": "https://n.news.naver.com/mnews/article/119/0003123453"
+      "title": "AI·SMR·청년 등에 성장 마중물…국회 감시 밖 ‘쌈짓돈’ 우려도",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653939"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012241322"
+      "title": "금감원 지방 이전시, 직원 10명 중 8명 이상은 \"이직 고려\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003124049"
     },
     {
-      "title": "4대 은행 금융 사고 10년간 5500억원… 대출 사기가 절반",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187240"
+      "title": "국제유가 상승에도 민생 부담 고려… 석유 최고가격 4주 더 동결",
+      "url": "https://n.news.naver.com/mnews/article/656/0000184675"
     },
     {
-      "title": "지난달 외국인 주식 순매도 31조원 육박..7개월째 '팔자' 기조",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564439"
+      "title": "삼성전자, 최대 110조 주주환원 '역대 최대'…30조 현금배당(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009126496"
     },
     {
-      "title": "현대위아, 아파트 주차로봇 시장 본격 진출…건설사 초청 행사 개최",
-      "url": "https://n.news.naver.com/mnews/article/030/0003458807"
+      "title": "바이백 약발 하루 만에 끝… 베선트 “美 국채 더 사들일 수 있다”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994148"
     },
     {
-      "title": "‘베선트 효과’ 하루 만에 끝…금리·유가↑에 뉴욕증시↓[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355347"
+      "title": "코웨이, '2026 IDEA 디자인 어워드' 수상",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323166"
     },
     {
-      "title": "전세금 맡기면 연 4%대 이자 준다…'안심신탁' 도입",
-      "url": "https://n.news.naver.com/mnews/article/448/0000634656"
+      "title": "삼성전자 DX노조, 서초사옥서 집회",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323388"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6471.17,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 824.46,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26067.17,
-      "change": -263.92,
-      "change_pct": -1.0
+      "value": 26180.46,
+      "change": 113.29,
+      "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1393.96,
-      "change": -19.62,
-      "change_pct": -1.39
+      "value": 1385.98,
+      "change": -3.42,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 4575.1,
-    "price_krw": 6377506,
-    "change": 85.7,
-    "change_pct": 1.91
+    "price_usd": 4661.6,
+    "price_krw": 6460884,
+    "change": 145.3,
+    "change_pct": 3.22
   },
-  "updated": "2026-08-21 06:34",
+  "updated": "2026-08-22 06:31",
   "error": null
 }
