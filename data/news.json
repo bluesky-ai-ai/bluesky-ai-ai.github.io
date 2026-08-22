@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "삼전, 주주환원 기대에 3.9% 급등 마감…하닉도 2.3%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016264123"
+      "title": "삼전닉스 턱밑까지 쫓아온 中 YMTC…6.8조 실탄 마련 나선다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323495"
     },
     {
-      "title": "SNT에너지, 320억 규모 사우디 올레핀 공장 에어쿨드 콘덴서 공급계약",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403103"
+      "title": "금값 다시 뛴다…UBS “1년내 5400달러 간다”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006355990"
     },
     {
-      "title": "원·달러 환율 1386.5원 마감…11개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/656/0000184669"
+      "title": "금속노조, 현대차 본사서 파업 결의대회…“정년 연장, 납품단가 후려치기 중단”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012242169"
     },
     {
-      "title": "AI·SMR·청년 등에 성장 마중물…국회 감시 밖 ‘쌈짓돈’ 우려도",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653939"
+      "title": "“한 줄 4000원도 비싸다는데”…손가락 닳도록 말아도 문 닫는 ‘동네 김밥집’ [일상톡톡 플러스]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152693"
     },
     {
-      "title": "금감원 지방 이전시, 직원 10명 중 8명 이상은 \"이직 고려\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003124049"
+      "title": "삼성전자 DX 동행노조, '성과급 격차 해소 요구' 퇴근길 대규모 집회",
+      "url": "https://n.news.naver.com/mnews/article/214/0001519327"
     },
     {
-      "title": "국제유가 상승에도 민생 부담 고려… 석유 최고가격 4주 더 동결",
-      "url": "https://n.news.naver.com/mnews/article/656/0000184675"
+      "title": "앤트로픽, 2조달러 IPO 도전…스페이스X 넘어 역대 최대 노린다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654086"
     },
     {
-      "title": "삼성전자, 최대 110조 주주환원 '역대 최대'…30조 현금배당(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009126496"
+      "title": "주유소 기름값 14주 연속 하락세…휘발유·경유 1800원 중반대",
+      "url": "https://n.news.naver.com/mnews/article/448/0000635021"
     },
     {
-      "title": "바이백 약발 하루 만에 끝… 베선트 “美 국채 더 사들일 수 있다”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994148"
+      "title": "“고시원에 욕조? 여기 살라는거냐”…청년 반발에 정부 “재검토”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003742545"
     },
     {
-      "title": "코웨이, '2026 IDEA 디자인 어워드' 수상",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323166"
+      "title": "석유 최고가격 다시 4주간 동결...휘발유 1784원·경유 1773원",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396486"
     },
     {
-      "title": "삼성전자 DX노조, 서초사옥서 집회",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323388"
+      "title": "\"다음주 투자전략 보니…엔비디아 실적 관건\"[주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805971"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:31",
+  "updated": "2026-08-23 06:28",
   "error": null
 }
