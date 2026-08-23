@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "삼전닉스 턱밑까지 쫓아온 中 YMTC…6.8조 실탄 마련 나선다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323495"
+      "title": "임광현 \"'황제 사택 심각'…법인주택 42%가 사적 사용\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005806085"
     },
     {
-      "title": "금값 다시 뛴다…UBS “1년내 5400달러 간다”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355990"
+      "title": "최상위 근로소득자 실효세율 38%…양도세보다 12%p 높아",
+      "url": "https://n.news.naver.com/mnews/article/001/0016265011"
     },
     {
-      "title": "금속노조, 현대차 본사서 파업 결의대회…“정년 연장, 납품단가 후려치기 중단”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012242169"
+      "title": "'N% 성과급' 산업계 하투, 이번주 중대 분수령",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356578"
     },
     {
-      "title": "“한 줄 4000원도 비싸다는데”…손가락 닳도록 말아도 문 닫는 ‘동네 김밥집’ [일상톡톡 플러스]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152693"
+      "title": "역대 최대 규모 사회적가치 축제 내달 21~22일 개최",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356707"
     },
     {
-      "title": "삼성전자 DX 동행노조, '성과급 격차 해소 요구' 퇴근길 대규모 집회",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519327"
+      "title": "국내 최초로 '북극항로' 시범 운항 나선 컨테이너선 '팬스타 아크로호'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004181249"
     },
     {
-      "title": "앤트로픽, 2조달러 IPO 도전…스페이스X 넘어 역대 최대 노린다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004654086"
+      "title": "김윤덕·오세훈 이번주 다시 회동…'용산공원 공급' 접점 찾나",
+      "url": "https://n.news.naver.com/mnews/article/001/0016265100"
     },
     {
-      "title": "주유소 기름값 14주 연속 하락세…휘발유·경유 1800원 중반대",
-      "url": "https://n.news.naver.com/mnews/article/448/0000635021"
+      "title": "‘반도체 사이클’ 꺼지면 위기···미래대응기금, 재원 지속성과 운용 투명성 과제",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465859"
     },
     {
-      "title": "“고시원에 욕조? 여기 살라는거냐”…청년 반발에 정부 “재검토”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742545"
+      "title": "한화, 美 방산 자회사에 4천억 투입...현지 시장 공략 강화",
+      "url": "https://n.news.naver.com/mnews/article/009/0005724479"
     },
     {
-      "title": "석유 최고가격 다시 4주간 동결...휘발유 1784원·경유 1773원",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396486"
+      "title": "시몬스, 포스코·고려제강과 공급망 동맹…핵심 소재 공동 개발",
+      "url": "https://n.news.naver.com/mnews/article/277/0005806174"
     },
     {
-      "title": "\"다음주 투자전략 보니…엔비디아 실적 관건\"[주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005805971"
+      "title": "“요새 누가 술 마시나요”…주류출고량, 외환위기 이후 27년 만에 ‘최저’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005724437"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1383.9,
-      "change": -6.89,
-      "change_pct": -0.5
+      "value": 1385.89,
+      "change": -4.9,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4624.1,
-    "price_krw": 6399292,
-    "change": 107.8,
-    "change_pct": 2.39
+    "price_usd": 4680.6,
+    "price_krw": 6486796,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-23 06:28",
+  "updated": "2026-08-24 06:28",
   "error": null
 }
