@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"재개발구역 지정권 자치구 준다고 빨라지지 않아\"",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050100"
+      "title": "엔비디아 실적·워시 연설, 코스피 향방 가를 듯",
+      "url": "https://n.news.naver.com/mnews/article/023/0003994883"
     },
     {
-      "title": "110조 vs 40조…삼전, 세 배 더 쐈는데 주가는 하닉에 밀려",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357147"
+      "title": "MBK 김병주 회장, 홈플러스 보증·담보 자금 상환 현실화",
+      "url": "https://n.news.naver.com/mnews/article/001/0016268287"
     },
     {
-      "title": "중노위, HD현대重 임단협 교섭 조정 중지⋯노조 파업권 확보",
-      "url": "https://n.news.naver.com/mnews/article/031/0001052022"
+      "title": "캄보디아 심장병 환아 초청… KB국민銀, 무료 수술 지원",
+      "url": "https://n.news.naver.com/mnews/article/022/0004153726"
     },
     {
-      "title": "美, 1300조 '비상금 통장' 꺼내나…국채금리 하락에도 반도체주 약세",
-      "url": "https://n.news.naver.com/mnews/article/215/0001263445"
+      "title": "노인 10명 중 9명 연금 받지만…절반은 월 50만원 이하",
+      "url": "https://n.news.naver.com/mnews/article/422/0000899178"
     },
     {
-      "title": "서울시 \"시민 63.9%가 용산공원 내 공공주택 공급 반대\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005806411"
+      "title": "2030 고액자산가는 '닉스'…4050은 '삼전' 산다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003125248"
     },
     {
-      "title": "대형건설사 ‘실탄’ 조달…여의도 대교·한양 재건축 ‘이주 속도전’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687530"
+      "title": "월 15만원 농어촌기본소득 첫 지급… 28일부터 7개 군에서",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044209"
     },
     {
-      "title": "박정성 통상본부장 취임…“대미투자로 FTA 버금가는 새판 형성”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012243120"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012244469"
     },
     {
-      "title": "현대차, 하반기 채용한다…세부 직무만 92개",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546482"
+      "title": "비트코인, 3개월여만에 8만달러 돌파…추가 랠리 가능성에 무게",
+      "url": "https://n.news.naver.com/mnews/article/008/0005404422"
     },
     {
-      "title": "코스피 3% 넘게 하락…6700선 내줘",
-      "url": "https://n.news.naver.com/mnews/article/437/0000507574"
+      "title": "자금조달 부담 커지나…금감원, 7월 기업 직접금융 실적 발표",
+      "url": "https://n.news.naver.com/mnews/article/119/0003125351"
     },
     {
-      "title": "원/달러 환율 장중 1376.50원…13개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/654/0000196674"
+      "title": "현대차 팰리세이드, 국내 SUV 최초 ‘하이루프’ 모델 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687855"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6912.95,
+      "value": 6696.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 801.94,
+      "value": 813.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25980.19,
-      "change": -200.27,
-      "change_pct": -0.76
+      "value": 26151.3,
+      "change": 171.11,
+      "change_pct": 0.66
     },
     "usdkrw": {
-      "value": 1382.36,
-      "change": -8.43,
-      "change_pct": -0.61
+      "value": 1381.52,
+      "change": -3.46,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 4710.0,
-    "price_krw": 6510915,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4715.9,
+    "price_krw": 6515110,
+    "change": 75.1,
+    "change_pct": 1.62
   },
-  "updated": "2026-08-25 06:36",
+  "updated": "2026-08-26 06:35",
   "error": null
 }
