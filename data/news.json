@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "엔비디아 실적·워시 연설, 코스피 향방 가를 듯",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994883"
+      "title": "HLB이노베이션, HLB셀 자회사로 편입…세포치료 국내 거점 구축",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807888"
     },
     {
-      "title": "MBK 김병주 회장, 홈플러스 보증·담보 자금 상환 현실화",
-      "url": "https://n.news.naver.com/mnews/article/001/0016268287"
+      "title": "아기 울음소리 커졌다… 출생아 수 4년 만에 25만명대 회복",
+      "url": "https://n.news.naver.com/mnews/article/005/0001869155"
     },
     {
-      "title": "캄보디아 심장병 환아 초청… KB국민銀, 무료 수술 지원",
-      "url": "https://n.news.naver.com/mnews/article/022/0004153726"
-    },
-    {
-      "title": "노인 10명 중 9명 연금 받지만…절반은 월 50만원 이하",
-      "url": "https://n.news.naver.com/mnews/article/422/0000899178"
-    },
-    {
-      "title": "2030 고액자산가는 '닉스'…4050은 '삼전' 산다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003125248"
-    },
-    {
-      "title": "월 15만원 농어촌기본소득 첫 지급… 28일부터 7개 군에서",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044209"
+      "title": "엔비디아 역대급 실적·금통위…코스피 향배 주목[마켓뷰]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016273424"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012244469"
+      "url": "https://n.news.naver.com/mnews/article/052/0002398507"
     },
     {
-      "title": "비트코인, 3개월여만에 8만달러 돌파…추가 랠리 가능성에 무게",
-      "url": "https://n.news.naver.com/mnews/article/008/0005404422"
+      "title": "SK바이오팜, 1.1조 베팅…뇌전증약 기술도입 계약",
+      "url": "https://n.news.naver.com/mnews/article/015/0005325062"
     },
     {
-      "title": "자금조달 부담 커지나…금감원, 7월 기업 직접금융 실적 발표",
-      "url": "https://n.news.naver.com/mnews/article/119/0003125351"
+      "title": "10월 1일부터 시외·고속버스 각각 9% 인상",
+      "url": "https://n.news.naver.com/mnews/article/666/0000120691"
     },
     {
-      "title": "현대차 팰리세이드, 국내 SUV 최초 ‘하이루프’ 모델 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002687855"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546880"
+    },
+    {
+      "title": "비거주 1주택 공제 9억→12억?…흔들리는 '거주 중심' 세제개편",
+      "url": "https://n.news.naver.com/mnews/article/079/0004182859"
+    },
+    {
+      "title": "\"2040년 재생에너지 보급 6배 증가\"… \"이상적 수치\" 지적도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005566943"
+    },
+    {
+      "title": "다가올 이자폭탄에도 당장 싼 ‘변동’… 고정비중 12년만 최저[기획]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044464"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6696.96,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 6967.74,
+      "change": 159.53,
+      "change_pct": 2.34
     },
     "kosdaq": {
-      "value": 813.33,
+      "value": 833.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26151.3,
-      "change": 171.11,
-      "change_pct": 0.66
+      "value": 26130.2,
+      "change": -21.1,
+      "change_pct": -0.08
     },
     "usdkrw": {
-      "value": 1381.52,
-      "change": -3.46,
-      "change_pct": -0.25
+      "value": 1379.98,
+      "change": -1.51,
+      "change_pct": -0.11
     }
   },
   "gold": {
-    "price_usd": 4715.9,
-    "price_krw": 6515110,
-    "change": 75.1,
-    "change_pct": 1.62
+    "price_usd": 4672.7,
+    "price_krw": 6448232,
+    "change": 34.6,
+    "change_pct": 0.75
   },
-  "updated": "2026-08-26 06:35",
+  "updated": "2026-08-27 09:37",
   "error": null
 }
