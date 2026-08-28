@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "HLB이노베이션, HLB셀 자회사로 편입…세포치료 국내 거점 구축",
-      "url": "https://n.news.naver.com/mnews/article/277/0005807888"
+      "title": "보험·저축은행·상호금융 기업대출 연체율 동반상승…건전성 관리 '빨간불'(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808676"
     },
     {
-      "title": "아기 울음소리 커졌다… 출생아 수 4년 만에 25만명대 회복",
-      "url": "https://n.news.naver.com/mnews/article/005/0001869155"
+      "title": "주택공급 100대 건설사, 산은·금융권이 직접 챙긴다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406123"
     },
     {
-      "title": "엔비디아 역대급 실적·금통위…코스피 향배 주목[마켓뷰]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016273424"
+      "title": "마이크론 제치고 차세대 HBM 美 첫 생산…전공정 팹 추가 건설 기대도",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656015"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002398507"
+      "title": "광진 모아타운·성북 모아주택, 통합심의 통과…643가구 공급",
+      "url": "https://n.news.naver.com/mnews/article/629/0000528443"
     },
     {
-      "title": "SK바이오팜, 1.1조 베팅…뇌전증약 기술도입 계약",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325062"
+      "title": "한국타이어, 세계 최대 상용차 전시회 'IAA 트랜스포테이션 2026' 참가",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808621"
     },
     {
-      "title": "10월 1일부터 시외·고속버스 각각 9% 인상",
-      "url": "https://n.news.naver.com/mnews/article/666/0000120691"
+      "title": "금리는 낮아지고, 자본 수익률은 높았다[서중해의 경제망원경](67)",
+      "url": "https://n.news.naver.com/mnews/article/033/0000051893"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546880"
+      "title": "“매달 94만원 더 낸다”…3억 빌렸더니 ‘월 220만원’ 날벼락 [숫자 뒤의 진실]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154349"
     },
     {
-      "title": "비거주 1주택 공제 9억→12억?…흔들리는 '거주 중심' 세제개편",
-      "url": "https://n.news.naver.com/mnews/article/079/0004182859"
+      "title": "영풍·MBK, 고려아연 '원아시아 투자 GP 독립 결정' 반박",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808617"
     },
     {
-      "title": "\"2040년 재생에너지 보급 6배 증가\"… \"이상적 수치\" 지적도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005566943"
+      "title": "'대기업CEO' 출신 韓총리, 재계 만나 \"신속히 풀 수 있는 규제 '즉시 해소'\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808632"
     },
     {
-      "title": "다가올 이자폭탄에도 당장 싼 ‘변동’… 고정비중 12년만 최저[기획]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044464"
+      "title": "규격 대신 성과 산다…238조 공공조달에 '3대 혁신 트랙'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359446"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6967.74,
-      "change": 159.53,
-      "change_pct": 2.34
+      "value": 6820.76,
+      "change": -91.61,
+      "change_pct": -1.33
     },
     "kosdaq": {
-      "value": 833.96,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 839.7,
+      "change": 2.05,
+      "change_pct": 0.24
     },
     "nasdaq": {
-      "value": 26130.2,
-      "change": -21.1,
-      "change_pct": -0.08
+      "value": 26541.35,
+      "change": 411.15,
+      "change_pct": 1.57
     },
     "usdkrw": {
-      "value": 1379.98,
-      "change": -1.51,
-      "change_pct": -0.11
+      "value": 1376.08,
+      "change": -7.41,
+      "change_pct": -0.54
     }
   },
   "gold": {
-    "price_usd": 4672.7,
-    "price_krw": 6448232,
-    "change": 34.6,
-    "change_pct": 0.75
+    "price_usd": 4636.7,
+    "price_krw": 6380470,
+    "change": 27.0,
+    "change_pct": 0.59
   },
-  "updated": "2026-08-27 09:37",
+  "updated": "2026-08-28 14:10",
   "error": null
 }
