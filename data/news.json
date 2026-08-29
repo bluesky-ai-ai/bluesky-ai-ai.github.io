@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "“고려아연 주가 빠지자 영풍 순익 급증”…영풍 실적  'MBK 경영협력계약 옵션' 작용했나",
-      "url": "https://n.news.naver.com/mnews/article/030/0003461321"
+      "title": "네팔 도착 박지원 두산에너 회장 “구조작업 빨리 이뤄지도록 노력”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003547649"
     },
     {
-      "title": "SK하이닉스, 美 인디애나 HBM 공장 첫 삽…2029년 양산",
-      "url": "https://n.news.naver.com/mnews/article/277/0005808421"
+      "title": "\"서학개미, 엔비디아 안 살 이유가 없다\"…AI 생태계 확장에 실적도 '쑥' [주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005809002"
     },
     {
-      "title": "금리 연속 인상에도 시장은 웃었다…신현송의 '도비시 하이크(dovish hike)' [여기는 논설실]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325760"
+      "title": "中 CXMT, 상반기 매출 1503억위안…텐센트 제치고 시총 1위 등극",
+      "url": "https://n.news.naver.com/mnews/article/138/0002239426"
     },
     {
-      "title": "“현물 ETF 못 사니 2배로?” 서학개미 ‘코인 테마’ 주의보 [재.밌.돈]",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102319"
+      "title": "[속보]뉴욕증시, 워시 매파 발언에 하락…나스닥 0.5%↓",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359958"
     },
     {
-      "title": "DB손보, 2030년 주주환원율 40%로…\"자본효율 중심 성장\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005567876"
+      "title": "[단독]갤럭시코퍼레이션, 韓 증시 대신 '미국 직행'…지주사 설립",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406509"
     },
     {
-      "title": "“아들, 태권도는 이달까지만”…4억 대출 영끌족, 이자만 월 22만원 쑥",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727050"
+      "title": "비트코인 살아나나 했더니…워시 한마디에 다시 '뚝'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264103"
     },
     {
-      "title": "두산에너빌·남동발전 헬기 확보...현장 수색 추진",
-      "url": "https://n.news.naver.com/mnews/article/052/0002399501"
+      "title": "“틱톡·유튜브도 청소년 보호하라” 메타, 신문 광고 낸 사연은?",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102331"
     },
     {
-      "title": "삼성바이오로직스, 3조 규모 유상증자 소식에 6%대 급락",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727020"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000900664"
     },
     {
-      "title": "국민연금, 상반기 27.2% 수익률 기록…역대 최대 수준",
-      "url": "https://n.news.naver.com/mnews/article/215/0001263978"
+      "title": "“이젠 기준금리 3%시대”…주식에 빚투·영끌 개미들 ‘비명’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727466"
     },
     {
-      "title": "기름값 또 내렸다…휘발유·경유 1,800원대",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264083"
+      "title": "뚝 떨어진 달러, 예금·국채·ETF 뭐 담을까 [머니 트레이스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656366"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 838.41,
+      "change": 0.76,
+      "change_pct": 0.09
     },
     "nasdaq": {
       "value": 26402.42,
@@ -58,9 +58,9 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1375.67,
-      "change": -7.82,
-      "change_pct": -0.57
+      "value": 1371.5,
+      "change": -8.95,
+      "change_pct": -0.65
     }
   },
   "gold": {
@@ -69,6 +69,6 @@
     "change": -105.6,
     "change_pct": -2.29
   },
-  "updated": "2026-08-29 12:07",
+  "updated": "2026-08-30 08:12",
   "error": null
 }
