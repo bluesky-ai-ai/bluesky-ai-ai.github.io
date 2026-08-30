@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "네팔 도착 박지원 두산에너 회장 “구조작업 빨리 이뤄지도록 노력”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003547649"
+      "title": "美 금리 인상 우려에…코스피 7000선 안착 '시험대' [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568258"
     },
     {
-      "title": "\"서학개미, 엔비디아 안 살 이유가 없다\"…AI 생태계 확장에 실적도 '쑥' [주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005809002"
+      "title": "박정원 두산 회장, 네팔서 직접 구조 지휘",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568277"
     },
     {
-      "title": "中 CXMT, 상반기 매출 1503억위안…텐센트 제치고 시총 1위 등극",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239426"
+      "title": "채권시장 '신중'…삼전 목표주가 주목하라? [백투백 인상]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126899"
     },
     {
-      "title": "[속보]뉴욕증시, 워시 매파 발언에 하락…나스닥 0.5%↓",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359958"
+      "title": "지방권 환승센터 2배로 확대…광역버스 회차율 50% 확보",
+      "url": "https://n.news.naver.com/mnews/article/055/0001384465"
     },
     {
-      "title": "[단독]갤럭시코퍼레이션, 韓 증시 대신 '미국 직행'…지주사 설립",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406509"
+      "title": "한은 \"반도체 수출 호조, 근원물가 상승 압력 키워…근원물가 최대 0.4%p 높아질 것\"",
+      "url": "https://n.news.naver.com/mnews/article/002/0002454160"
     },
     {
-      "title": "비트코인 살아나나 했더니…워시 한마디에 다시 '뚝'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264103"
+      "title": "美·加 관세전쟁에 K-배터리 '긴장'…품목 확대되면 현지 거점 불똥",
+      "url": "https://n.news.naver.com/mnews/article/421/0009140598"
     },
     {
-      "title": "“틱톡·유튜브도 청소년 보호하라” 메타, 신문 광고 낸 사연은?",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102331"
+      "title": "30조원 추가 대출 풀어도…일반 대출 몫은 6조~8조원뿐",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995639"
+    },
+    {
+      "title": "李 경기지사 때 ‘기본주택’ 등 부동산 실무 맡아",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995777"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000900664"
+      "url": "https://n.news.naver.com/mnews/article/055/0001384396"
     },
     {
-      "title": "“이젠 기준금리 3%시대”…주식에 빚투·영끌 개미들 ‘비명’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727466"
-    },
-    {
-      "title": "뚝 떨어진 달러, 예금·국채·ETF 뭐 담을까 [머니 트레이스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656366"
+      "title": "\"한국 청년 81.4%, 일본 청년보다 결혼·출산 긍정적…日 57.6%\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009139987"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1371.5,
-      "change": -8.95,
-      "change_pct": -0.65
+      "value": 1377.66,
+      "change": -2.79,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4514.5,
+    "price_krw": 6219446,
+    "change": 36.4,
+    "change_pct": 0.81
   },
-  "updated": "2026-08-30 08:12",
+  "updated": "2026-08-31 08:21",
   "error": null
 }
