@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "9월부터 ‘통합 KTX’ 출범…요금 10% 내리고 좌석 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/028/0002820892"
+      "title": "원·달러 환율, 13개월 만에 1360원대…올들어 원화 가치 5% 껑충",
+      "url": "https://n.news.naver.com/mnews/article/018/0006361224"
     },
     {
-      "title": "제이인츠바이오, 유한양행·DGIST·연세-유일한 폐암 연구소와 AX 공동 연구 추진",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407243"
+      "title": "설탕·밀가루에 1조 과징금 때린 공정위…이번엔 '장류 5사' 정조준",
+      "url": "https://n.news.naver.com/mnews/article/031/0001054421"
     },
     {
-      "title": "SK온, 美서 1.5조 배터리 셀 수주",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326885"
+      "title": "국토부 내년 예산 69조원 편성…역대 최대 규모로 주택·모빌리티에 집중[2027 정부 예산안]",
+      "url": "https://n.news.naver.com/mnews/article/088/0001026292"
     },
     {
-      "title": "향후 2년 서울 공동주택 입주 물량 5만 호…전국 42.5만호",
-      "url": "https://n.news.naver.com/mnews/article/056/0012247868"
+      "title": "8월 수출 983억달러… 반도체 467억달러로 또 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745015"
     },
     {
-      "title": "홍지선 국토장관 후보자 “용산공원 등 서울시와 협의해 정책 작동”",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107911"
+      "title": "공정위, 쿠팡 ‘빈손 철수’ 8일 만에 다시 현장조사…이번엔 반발 없어",
+      "url": "https://n.news.naver.com/mnews/article/028/0002821147"
     },
     {
-      "title": "현대차 2026 임금 교섭, 찬반 투표서 가결…파업 마무리",
-      "url": "https://n.news.naver.com/mnews/article/629/0000529240"
+      "title": "오세훈 \"신규택지 일정 비율 미리내집 공급…공급 물량 확대 총력\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005407715"
     },
     {
-      "title": "지난해 국민의료비 225조원…1인당 연 435만원 썼다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006361360"
+      "title": "삼성, 메모리 한계 넘는 CUBE 전략 공개…수직적층 'zHBM' 눈길",
+      "url": "https://n.news.naver.com/mnews/article/293/0000089857"
     },
     {
-      "title": "광역 규제자유특구 첫 지정…'스마트농업·신해양레저' 12개 특례 부여",
-      "url": "https://n.news.naver.com/mnews/article/277/0005809980"
+      "title": "\"아파트처럼 넓네\"… 하이엔드 오피스텔의 진화",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728850"
     },
     {
-      "title": "한경협 \"환태평양경제동반자협정 포괄적·점진적 가입해야\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901205"
+      "title": "DB증권 \"삼성전기, 제품 가격 인상 본격화\" 목표가 200만원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016281395"
     },
     {
-      "title": "'반도체 벨트' 용인·이천, 소비 1조 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728298"
+      "title": "정부, 비거주 1주택자 기본공제 9억 원→12억 원 현행 유지 확정",
+      "url": "https://n.news.naver.com/mnews/article/052/0002401258"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6747.56,
+      "value": 6820.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 825.75,
+      "value": 834.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26370.89,
-      "change": -31.53,
-      "change_pct": -0.12
+      "value": 26099.77,
+      "change": -271.12,
+      "change_pct": -1.03
     },
     "usdkrw": {
-      "value": 1365.18,
-      "change": -11.93,
-      "change_pct": -0.87
+      "value": 1374.66,
+      "change": 8.04,
+      "change_pct": 0.59
     }
   },
   "gold": {
-    "price_usd": 4508.6,
-    "price_krw": 6155050,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4374.7,
+    "price_krw": 6013725,
+    "change": -56.4,
+    "change_pct": -1.27
   },
-  "updated": "2026-09-01 09:31",
+  "updated": "2026-09-02 08:13",
   "error": null
 }
