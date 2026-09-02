@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "원·달러 환율, 13개월 만에 1360원대…올들어 원화 가치 5% 껑충",
-      "url": "https://n.news.naver.com/mnews/article/018/0006361224"
+      "title": "두산퓨얼셀, 美 AIDC 시장 입성… ‘5014억’ 연료전지 공급",
+      "url": "https://n.news.naver.com/mnews/article/005/0001870603"
     },
     {
-      "title": "설탕·밀가루에 1조 과징금 때린 공정위…이번엔 '장류 5사' 정조준",
-      "url": "https://n.news.naver.com/mnews/article/031/0001054421"
+      "title": "삼성·LG, AI 리빙 구현…가전 넘어 ‘로봇 경연장’ 진화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657918"
     },
     {
-      "title": "국토부 내년 예산 69조원 편성…역대 최대 규모로 주택·모빌리티에 집중[2027 정부 예산안]",
-      "url": "https://n.news.naver.com/mnews/article/088/0001026292"
+      "title": "고속철도 통합 첫날 이용객 21만3천명…지난해보다 7.9%↑",
+      "url": "https://n.news.naver.com/mnews/article/088/0001026471"
     },
     {
-      "title": "8월 수출 983억달러… 반도체 467억달러로 또 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745015"
+      "title": "이형일 부총리 후보자 \"비거주 1주택, 차등 완화해도 차이는 둬야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009146240"
     },
     {
-      "title": "공정위, 쿠팡 ‘빈손 철수’ 8일 만에 다시 현장조사…이번엔 반발 없어",
-      "url": "https://n.news.naver.com/mnews/article/028/0002821147"
+      "title": "미국이 스테이블코인에 진심인 이유[비트코인 지금]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810549"
     },
     {
-      "title": "오세훈 \"신규택지 일정 비율 미리내집 공급…공급 물량 확대 총력\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005407715"
+      "title": "두산에너빌, 네팔 현지서 헬기·드론 수색 지속…\"인력 보강 등 구조 총력\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014163093"
     },
     {
-      "title": "삼성, 메모리 한계 넘는 CUBE 전략 공개…수직적층 'zHBM' 눈길",
-      "url": "https://n.news.naver.com/mnews/article/293/0000089857"
+      "title": "한은 \"9월 물가, 근원 품목 중심으로 기조적 상승세 지속\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001385251"
     },
     {
-      "title": "\"아파트처럼 넓네\"… 하이엔드 오피스텔의 진화",
-      "url": "https://n.news.naver.com/mnews/article/009/0005728850"
+      "title": "울산시, 수소충전 인프라 확 바꾼다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003675907"
     },
     {
-      "title": "DB증권 \"삼성전기, 제품 가격 인상 본격화\" 목표가 200만원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016281395"
+      "title": "미국발 ‘금리 쓰나미’…韓 서민·영끌족부터 덮친다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004657939"
     },
     {
-      "title": "정부, 비거주 1주택자 기본공제 9억 원→12억 원 현행 유지 확정",
-      "url": "https://n.news.naver.com/mnews/article/052/0002401258"
+      "title": "글로벌 호텔 브랜드 '아만' 국내 상륙...청담동 찍었다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005570047"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.66,
-      "change": 8.04,
-      "change_pct": 0.59
+      "value": 1359.23,
+      "change": -13.63,
+      "change_pct": -0.99
     }
   },
   "gold": {
-    "price_usd": 4374.7,
-    "price_krw": 6013725,
-    "change": -56.4,
-    "change_pct": -1.27
+    "price_usd": 4430.4,
+    "price_krw": 6021932,
+    "change": 82.4,
+    "change_pct": 1.9
   },
-  "updated": "2026-09-02 08:13",
+  "updated": "2026-09-03 08:13",
   "error": null
 }
