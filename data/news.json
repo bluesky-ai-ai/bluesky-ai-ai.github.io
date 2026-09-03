@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "두산퓨얼셀, 美 AIDC 시장 입성… ‘5014억’ 연료전지 공급",
-      "url": "https://n.news.naver.com/mnews/article/005/0001870603"
+      "title": "우오현 SM그룹 회장 \"내년 여주대 신입생에 장학금 70억 원 줄 것\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000952021"
     },
     {
-      "title": "삼성·LG, AI 리빙 구현…가전 넘어 ‘로봇 경연장’ 진화",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657918"
+      "title": "홈플러스 ‘회생’인가",
+      "url": "https://n.news.naver.com/mnews/article/025/0003548711"
     },
     {
-      "title": "고속철도 통합 첫날 이용객 21만3천명…지난해보다 7.9%↑",
-      "url": "https://n.news.naver.com/mnews/article/088/0001026471"
+      "title": "에이피알, ‘싱가포르서 발암물질 검출’ 의혹 반박…“수출 정황 없어”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002692562"
     },
     {
-      "title": "이형일 부총리 후보자 \"비거주 1주택, 차등 완화해도 차이는 둬야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009146240"
+      "title": "뉴욕증시, 월러 '금리 동결' 시사에 일제 상승…나스닥 1.4%↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014168512"
     },
     {
-      "title": "미국이 스테이블코인에 진심인 이유[비트코인 지금]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810549"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001385621"
     },
     {
-      "title": "두산에너빌, 네팔 현지서 헬기·드론 수색 지속…\"인력 보강 등 구조 총력\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014163093"
+      "title": "삼성 2분기 HBM 점유율 21→33%…SK하이닉스 50%로 1위",
+      "url": "https://n.news.naver.com/mnews/article/056/0012250412"
     },
     {
-      "title": "한은 \"9월 물가, 근원 품목 중심으로 기조적 상승세 지속\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385251"
+      "title": "韓 금융채 금리도 고공행진…대출 금리 더 오른다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002692382"
     },
     {
-      "title": "울산시, 수소충전 인프라 확 바꾼다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003675907"
+      "title": "‘N% 성과급’으로 파업 못한다…의무교섭-쟁의대상 아냐",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745470"
     },
     {
-      "title": "미국발 ‘금리 쓰나미’…韓 서민·영끌족부터 덮친다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004657939"
+      "title": "미니멀리즘 넘어 감성으로…삼성전자, '인간 중심' 디자인 전환",
+      "url": "https://n.news.naver.com/mnews/article/030/0003463334"
     },
     {
-      "title": "글로벌 호텔 브랜드 '아만' 국내 상륙...청담동 찍었다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570047"
+      "title": "금융노조, 오늘 광화문서 '국책은행 지방이전 저지' 총파업 집회",
+      "url": "https://n.news.naver.com/mnews/article/001/0016289203"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6835.8,
+      "value": 6562.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 821.25,
+      "value": 803.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45
+      "value": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4
     },
     "usdkrw": {
-      "value": 1359.23,
-      "change": -13.63,
-      "change_pct": -0.99
+      "value": 1356.11,
+      "change": -2.28,
+      "change_pct": -0.17
     }
   },
   "gold": {
-    "price_usd": 4430.4,
-    "price_krw": 6021932,
-    "change": 82.4,
-    "change_pct": 1.9
+    "price_usd": 4523.0,
+    "price_krw": 6133685,
+    "change": 156.7,
+    "change_pct": 3.59
   },
-  "updated": "2026-09-03 08:13",
+  "updated": "2026-09-04 08:11",
   "error": null
 }
