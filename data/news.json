@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "우오현 SM그룹 회장 \"내년 여주대 신입생에 장학금 70억 원 줄 것\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000952021"
+      "title": "'석유화학 사업재편 1호' H&L Advanced 공식 출범",
+      "url": "https://n.news.naver.com/mnews/article/421/0009150960"
     },
     {
-      "title": "홈플러스 ‘회생’인가",
-      "url": "https://n.news.naver.com/mnews/article/025/0003548711"
+      "title": "금리동결 기대에 나스닥 1.4%↑…코스피 상승 기대감[오늘의 증시]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014168603"
     },
     {
-      "title": "에이피알, ‘싱가포르서 발암물질 검출’ 의혹 반박…“수출 정황 없어”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002692562"
+      "title": "정용진, 美 '파운드리 스쿨' 출범식 참석…AI 공급망 협력 논의",
+      "url": "https://n.news.naver.com/mnews/article/031/0001055511"
     },
     {
-      "title": "뉴욕증시, 월러 '금리 동결' 시사에 일제 상승…나스닥 1.4%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014168512"
+      "title": "“추석 선물 벌써 반값”…가을옷·캠핑까지, 이커머스 ‘9월 장바구니 전쟁’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004156514"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001385621"
+      "title": "獨 디지털장관·베를린 시장, LG전자 IFA 부스 방문…\"완벽한 마무리\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152305"
     },
     {
-      "title": "삼성 2분기 HBM 점유율 21→33%…SK하이닉스 50%로 1위",
-      "url": "https://n.news.naver.com/mnews/article/056/0012250412"
+      "title": "“가격만 잘 나오면 다이슨 잡겠네”…LG전자 헤어드라이어, IFA서 최초 공개",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730407"
     },
     {
-      "title": "韓 금융채 금리도 고공행진…대출 금리 더 오른다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002692382"
+      "title": "주식·채권·펀드도 토큰화한다…내년 2월부터 순차 확대",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328660"
     },
     {
-      "title": "‘N% 성과급’으로 파업 못한다…의무교섭-쟁의대상 아냐",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745470"
+      "title": "금감원 노조 “금융중심지 서울에 남아야”…청와대에 탄원서",
+      "url": "https://n.news.naver.com/mnews/article/056/0012251187"
     },
     {
-      "title": "미니멀리즘 넘어 감성으로…삼성전자, '인간 중심' 디자인 전환",
-      "url": "https://n.news.naver.com/mnews/article/030/0003463334"
+      "title": "발전 공기업, ‘한국발전’으로 통합…기후부 “내년 10월 출범 목표”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012251117"
     },
     {
-      "title": "금융노조, 오늘 광화문서 '국책은행 지방이전 저지' 총파업 집회",
-      "url": "https://n.news.naver.com/mnews/article/001/0016289203"
+      "title": "남동발전·두산, 네팔 현지서 전방위 수색활동…연락두절 직원 구조 총력",
+      "url": "https://n.news.naver.com/mnews/article/082/0001396975"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1356.11,
-      "change": -2.28,
-      "change_pct": -0.17
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4523.0,
-    "price_krw": 6133685,
-    "change": 156.7,
-    "change_pct": 3.59
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 08:11",
+  "updated": "2026-09-05 07:57",
   "error": null
 }
