@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152761"
+      "title": "환율 1300원대로 내려앉자…기업 달러 매집 러시",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190593"
     },
     {
-      "title": "수출 7094억달러, 248일 만에 작년 넘어…반도체 169% 폭증",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152713"
+      "title": "추석 차례상 비용 껑충…마트서 장보면 40만원, 전통시장 가도 30만원",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549436"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386064"
+      "title": "서울 아파트 전세 재계약 87.6% 보증금 올랐다…평균 4678만원 인상",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746010"
     },
     {
-      "title": "“철강·부품·일자리 모두 미국에”…美가 반긴 현대제철 58억달러 투자",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730759"
+      "title": "50% 관세 넘어 고부가 철강 조달…“美 차세대 모빌리티 공급망 완성”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659030"
     },
     {
-      "title": "벽걸이 에어컨 하단에 무풍 기능 …삼성, IFA 2026 디자인 최고 혁신상 수상",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363970"
+      "title": "상위 20개 저축銀 상반기 순이익 3배로↑…유동성비율 \"정상화\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016293044"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386150"
+      "title": "SK, 11일 울산포럼…제조 현장에 AI 심는다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730931"
     },
     {
-      "title": "“갑자기 서울을 떠나라니요”…금융공기관 ‘지방이전 반대’ 3만명 거리로",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730746"
+      "title": "서울세계불꽃축제 개최 비용 130억원…누가 다 냈나 봤더니",
+      "url": "https://n.news.naver.com/mnews/article/053/0000061282"
     },
     {
-      "title": "노범준 LG전자 상무 “빨리 시도하고 치고 나가는 게 경쟁력”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240334"
+      "title": "“이대로면 강·도·금 빼고 종부세 아파트 한 채당 稅부담 최대 9배”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003677299"
     },
     {
-      "title": "獨 디지털장관·베를린 시장, LG전자 IFA 부스 방문…\"완벽한 마무리\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152305"
+      "title": "LG전자, 로봇 관절 '액추에이터' 수주 임박…내달 빅테크와 미팅",
+      "url": "https://n.news.naver.com/mnews/article/001/0016292177"
     },
     {
-      "title": "주유소 기름값 16주 연속 하락…휘발유 1860원·경유 1845원",
-      "url": "https://n.news.naver.com/mnews/article/032/0003468587"
+      "title": "“월요일에 삼전닉스의 시간 옵니까”…GPT-6에 불붙은 美반도체",
+      "url": "https://n.news.naver.com/mnews/article/009/0005731141"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1351.1,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1345.57,
+      "change": -9.84,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 5985102,
-    "change": -61.9,
-    "change_pct": -1.38
+    "price_usd": 4476.6,
+    "price_krw": 6023578,
+    "change": 46.8,
+    "change_pct": 1.06
   },
-  "updated": "2026-09-06 07:45",
+  "updated": "2026-09-07 07:50",
   "error": null
 }
