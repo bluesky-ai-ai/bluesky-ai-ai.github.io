@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'데카콘 후보' 무신사, 상장 예심 청구…내년 상반기 IPO 대어 등판",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329631"
+      "title": "신한은행, 퇴직연금형 개인투자용국채 판매 개시",
+      "url": "https://n.news.naver.com/mnews/article/016/0002694205"
     },
     {
-      "title": "콩 에센스 등 세계 진출 견인할 中企 188개, 'K-수출전략품목'으로 선정",
-      "url": "https://n.news.naver.com/mnews/article/008/0005410656"
+      "title": "'국민총소득' 1인당 4만弗 시대 연다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005411169"
     },
     {
-      "title": "삼성, 8일부터 올 하반기 공채 실시…19개 관계사 일제히 채용 나서",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731369"
+      "title": "포스코 4800억 들여 車 강판공장 착공",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732314"
     },
     {
-      "title": "AI·반도체는 뛰는데 지갑은 안 열린다…KDI “소비 회복 완만”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693830"
+      "title": "삼성, ASML과 차세대 EUV 마스크 만든다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659834"
     },
     {
-      "title": "‘영끌족’ 연체 주의보…금리 1%P 상승하면 연체위험 0.81%P 올라",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659264"
+      "title": "2차 국민성장펀드 30일 출시… 6000억원 규모 선착순 판매",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746652"
     },
     {
-      "title": "현대위아, 국내 첫 완전 무인지게차 개발…\"내년 5월 기아 화성공장 투입\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571796"
+      "title": "국토 1차관, 폴란드와 스마트시티·PPP 협력 강화 방안 논의",
+      "url": "https://n.news.naver.com/mnews/article/003/0014177861"
     },
     {
-      "title": "올해 서울 주택 2만호 착공... 최근 3년 평균보다 35%↑",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731452"
+      "title": "[단독] 공정위, 다이소 현장조사…납품업체에 ‘재고 떠넘겼나’ 살핀다",
+      "url": "https://n.news.naver.com/mnews/article/028/0002822124"
     },
     {
-      "title": "서경배 “세계에 새로운 아름다움 기준 제시”…아모레, 글로벌 공략 속도",
-      "url": "https://n.news.naver.com/mnews/article/022/0004157051"
+      "title": "“곧 00명 잘릴 듯” 주거비 ‘부정 수급’ 의혹에 난리 난 삼전",
+      "url": "https://n.news.naver.com/mnews/article/018/0006365288"
     },
     {
-      "title": "포스코, 현대제철 협력…‘해외 조강 1000만톤’ 확대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693682"
+      "title": "\"가전도 집도 싹 다 관리한다\" 롯데하이마트, 이사철 '안심케어 세일'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014178172"
     },
     {
-      "title": "중기부-과기부, 피지컬 AI 중소 제조현장 도입 협력",
-      "url": "https://n.news.naver.com/mnews/article/277/0005813039"
+      "title": "이성훈 LH 사장 \"3년간 서울 2만가구 매입임대 공급…입주까지 2년 소요\"\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813626"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6687.21,
+      "value": 6995.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.5,
+      "value": 822.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29
+      "value": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1344.76,
-      "change": -0.3,
-      "change_pct": -0.02
+      "value": 1340.57,
+      "change": -3.0,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4456.4,
-    "price_krw": 5992788,
-    "change": 26.6,
-    "change_pct": 0.6
+    "price_usd": 4396.4,
+    "price_krw": 5893681,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-08 08:24",
+  "updated": "2026-09-09 08:17",
   "error": null
 }
