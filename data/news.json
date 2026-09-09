@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "신한은행, 퇴직연금형 개인투자용국채 판매 개시",
-      "url": "https://n.news.naver.com/mnews/article/016/0002694205"
+      "title": "취업자 5개월 만에 최대폭 늘었지만…청년·골목상권엔 '찬바람'",
+      "url": "https://n.news.naver.com/mnews/article/660/0000116835"
     },
     {
-      "title": "'국민총소득' 1인당 4만弗 시대 연다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005411169"
+      "title": "미국 협력에 국내 모멘텀까지…원전株 주목",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813687"
     },
     {
-      "title": "포스코 4800억 들여 車 강판공장 착공",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732314"
+      "title": "곽노정 “곡선도로 같은 메모리시장, 유연하게 적응해야”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746978"
     },
     {
-      "title": "삼성, ASML과 차세대 EUV 마스크 만든다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659834"
+      "title": "최태원 \"기업 혁신·국회 입법, 속도 맞춰야\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005411714"
     },
     {
-      "title": "2차 국민성장펀드 30일 출시… 6000억원 규모 선착순 판매",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746652"
+      "title": "원·달러 환율 9.5원 급락 1336.1원…코스피 7000선 탈환",
+      "url": "https://n.news.naver.com/mnews/article/656/0000186334"
     },
     {
-      "title": "국토 1차관, 폴란드와 스마트시티·PPP 협력 강화 방안 논의",
-      "url": "https://n.news.naver.com/mnews/article/003/0014177861"
+      "title": "삼전닉스 뺐더니…기업 영업이익률 17→6% 뚝",
+      "url": "https://n.news.naver.com/mnews/article/018/0006366157"
     },
     {
-      "title": "[단독] 공정위, 다이소 현장조사…납품업체에 ‘재고 떠넘겼나’ 살핀다",
-      "url": "https://n.news.naver.com/mnews/article/028/0002822124"
+      "title": "한국거래소 애프터마켓 D-5…저녁 8시까지 주식 거래",
+      "url": "https://n.news.naver.com/mnews/article/374/0000532038"
     },
     {
-      "title": "“곧 00명 잘릴 듯” 주거비 ‘부정 수급’ 의혹에 난리 난 삼전",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365288"
+      "title": "8월 은행 가계대출 증가폭 둔화에도 주담대는 확대",
+      "url": "https://n.news.naver.com/mnews/article/056/0012253906"
     },
     {
-      "title": "\"가전도 집도 싹 다 관리한다\" 롯데하이마트, 이사철 '안심케어 세일'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014178172"
+      "title": "수협은행 행추위, 차기 행장 도전자 6명 전원 면접 대상 선정",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573571"
     },
     {
-      "title": "이성훈 LH 사장 \"3년간 서울 2만가구 매입임대 공급…입주까지 2년 소요\"\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005813626"
+      "title": "삼성전자 노조, DS·DX로 갈라서나…2027년 임단협 앞두고 갈등 확산[종합]",
+      "url": "https://n.news.naver.com/mnews/article/031/0001056962"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.57,
-      "change": -3.0,
-      "change_pct": -0.22
+      "value": 1339.51,
+      "change": 0.3,
+      "change_pct": 0.02
     }
   },
   "gold": {
-    "price_usd": 4396.4,
-    "price_krw": 5893681,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4443.2,
+    "price_krw": 5951711,
+    "change": 49.3,
+    "change_pct": 1.12
   },
-  "updated": "2026-09-09 08:17",
+  "updated": "2026-09-10 08:08",
   "error": null
 }
