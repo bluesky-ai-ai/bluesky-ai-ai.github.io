@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "3분기 원화 절상률 1위, 엔화의 3배…미·일 금리 결정에 주목",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306204"
+      "title": "임광현 \"부부 공동명의 1주택자, 몰라서 더 낸 종부세 환급\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000953709"
     },
     {
-      "title": "추석 배 공급 3.5배 늘린다…농축산물 할인에 1490억원 투입",
-      "url": "https://n.news.naver.com/mnews/article/448/0000638962"
+      "title": "한화오션-HD현대, ‘가스텍’서 미래 조선 기술 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/020/0003747754"
     },
     {
-      "title": "국제유가 급등에도 주유소 기름값 17주째 하락…1,800원대 유지",
-      "url": "https://n.news.naver.com/mnews/article/057/0001968634"
+      "title": "이형일 “금투세, 시장 안정 후 검토”…15일 청문회",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047618"
     },
     {
-      "title": "3억원 와인부터 9만원대 한우까지…호텔 추석선물, 가격도 취향도 넓어졌다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004158369"
+      "title": "북극항로 운항 선박 로테르담 도착…李 “역사적 첫 길 축하”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550931"
     },
     {
-      "title": "KB금융 이사회의 '예상 밖 선택'…정부 지배구조 개혁 요구 의식했나",
-      "url": "https://n.news.naver.com/mnews/article/421/0009165996"
+      "title": "개미도 등 돌린 반도체주… 5개월 만에 삼성·하이닉스 ‘팔자’ 전환",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191996"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406079"
+      "title": "은행 대출금리 왜 자꾸 오르나 했더니…'우대금리' 2년새 1%p 증발",
+      "url": "https://n.news.naver.com/mnews/article/003/0014186166"
     },
     {
-      "title": "청주시, 대중교통 공공 와이파이 24대 추가 설치",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305742"
+      "title": "애플 팀 쿡도 갤럭시로 갈아탔다고?…삼성이 공개한 사진 한 장의 반전",
+      "url": "https://n.news.naver.com/mnews/article/022/0004158487"
     },
     {
-      "title": "첫 대미투자 프로젝트 발표 임박…MOU 속 안전장치 유지될까",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306214"
+      "title": "서울 도심 달린 아트리아AI, 현대차 자율주행 본궤도",
+      "url": "https://n.news.naver.com/mnews/article/417/0001158122"
     },
     {
-      "title": "유가 하락에 뉴욕증시 5일 만에 반등…델 12%·스카이웍스 5%↑",
-      "url": "https://n.news.naver.com/mnews/article/123/0002390067"
+      "title": "지배구조 개선안도 영향 … 3연임 제한규제 힘빠질듯",
+      "url": "https://n.news.naver.com/mnews/article/009/0005734483"
     },
     {
-      "title": "“50㎏ 女가 70㎏ 男을 KO?”…아시안게임서 터진 ‘성별 파괴’ 승부",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/022/0004158473?type=series&cid=1064694"
+      "title": "대전에 롯데 x KAIST R&D센터 준공",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331792"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1341.05,
-      "change": -7.12,
-      "change_pct": -0.53
+      "value": 1342.9,
+      "change": -5.27,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 4366.2,
-    "price_krw": 5855292,
-    "change": 1.7,
-    "change_pct": 0.04
+    "price_usd": 4378.7,
+    "price_krw": 5880156,
+    "change": 12.5,
+    "change_pct": 0.29
   },
-  "updated": "2026-09-13 07:55",
+  "updated": "2026-09-14 08:04",
   "error": null
 }
