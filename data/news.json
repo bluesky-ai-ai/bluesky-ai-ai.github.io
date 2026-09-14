@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "임광현 \"부부 공동명의 1주택자, 몰라서 더 낸 종부세 환급\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000953709"
+      "title": "HD현대이앤에프, 대산산단 LNG 열병합발전소 준공…4350억 투자",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816001"
     },
     {
-      "title": "한화오션-HD현대, ‘가스텍’서 미래 조선 기술 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/020/0003747754"
+      "title": "GTX-C, 15일 드디어 첫삽 뜬다…수원역·청량리 30분 기대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005815883"
     },
     {
-      "title": "이형일 “금투세, 시장 안정 후 검토”…15일 청문회",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047618"
+      "title": "삼전닉스, “전기료 25조 미리 내달라” 한전 제안 거절했다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003679834"
     },
     {
-      "title": "북극항로 운항 선박 로테르담 도착…李 “역사적 첫 길 축하”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550931"
+      "title": "이재근 KB 회장 후보 \"금융 새 표준 만들 것...1등에 안주하지 않겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005575081"
     },
     {
-      "title": "개미도 등 돌린 반도체주… 5개월 만에 삼성·하이닉스 ‘팔자’ 전환",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191996"
+      "title": "AI가 품질 검사하고 화학소재 실험…LG, ‘엑사원’ 신기술 공개",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661486"
     },
     {
-      "title": "은행 대출금리 왜 자꾸 오르나 했더니…'우대금리' 2년새 1%p 증발",
-      "url": "https://n.news.naver.com/mnews/article/003/0014186166"
+      "title": "오늘부터 퇴근길 ‘사팔사팔’…증권사 애프터마켓 이벤트 ‘주목’",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132364"
     },
     {
-      "title": "애플 팀 쿡도 갤럭시로 갈아탔다고?…삼성이 공개한 사진 한 장의 반전",
-      "url": "https://n.news.naver.com/mnews/article/022/0004158487"
+      "title": "홍지선 \"1호 과제는 주택공급…서울시와 협업\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005332124"
     },
     {
-      "title": "서울 도심 달린 아트리아AI, 현대차 자율주행 본궤도",
-      "url": "https://n.news.naver.com/mnews/article/417/0001158122"
+      "title": "“한강벨트도 급감” 토허 신청 4개월째 감소",
+      "url": "https://n.news.naver.com/mnews/article/050/0000110816"
     },
     {
-      "title": "지배구조 개선안도 영향 … 3연임 제한규제 힘빠질듯",
-      "url": "https://n.news.naver.com/mnews/article/009/0005734483"
+      "title": "“시간 지나도 면죄부 없다”…국민연금, 기업가치 훼손 끝까지 따진다[마켓인]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369294"
     },
     {
-      "title": "대전에 롯데 x KAIST R&D센터 준공",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331792"
+      "title": "기본건축비 768만원…1년 새 세 차례 인상",
+      "url": "https://n.news.naver.com/mnews/article/015/0005332125"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6909.91,
-      "change": -124.01,
-      "change_pct": -1.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 820.64,
-      "change": -16.28,
-      "change_pct": -1.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96
+      "value": 26186.41,
+      "change": -146.62,
+      "change_pct": -0.56
     },
     "usdkrw": {
-      "value": 1342.9,
-      "change": -5.27,
-      "change_pct": -0.39
+      "value": 1347.41,
+      "change": 2.77,
+      "change_pct": 0.21
     }
   },
   "gold": {
-    "price_usd": 4378.7,
-    "price_krw": 5880156,
-    "change": 12.5,
-    "change_pct": 0.29
+    "price_usd": 4329.9,
+    "price_krw": 5834150,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-14 08:04",
+  "updated": "2026-09-15 08:48",
   "error": null
 }
