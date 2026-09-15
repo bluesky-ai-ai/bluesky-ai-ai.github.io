@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "HD현대이앤에프, 대산산단 LNG 열병합발전소 준공…4350억 투자",
-      "url": "https://n.news.naver.com/mnews/article/277/0005816001"
+      "title": "뉴욕 증시, 국채 금리·유가 상승에 하락 출발",
+      "url": "https://n.news.naver.com/mnews/article/052/0002407519"
     },
     {
-      "title": "GTX-C, 15일 드디어 첫삽 뜬다…수원역·청량리 30분 기대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005815883"
+      "title": "가상자산 운명은?…클래리티법 美 상원서 '부결'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000533106"
     },
     {
-      "title": "삼전닉스, “전기료 25조 미리 내달라” 한전 제안 거절했다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003679834"
+      "title": "이형일 \"비거주 논란 송구, 여건상 거주 어려웠다\"",
+      "url": "https://n.news.naver.com/mnews/article/658/0000155614"
     },
     {
-      "title": "이재근 KB 회장 후보 \"금융 새 표준 만들 것...1등에 안주하지 않겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005575081"
+      "title": "효성중공업, 미국 빅테크와 3천865억원 변압기 공급 계약",
+      "url": "https://n.news.naver.com/mnews/article/001/0016310598"
     },
     {
-      "title": "AI가 품질 검사하고 화학소재 실험…LG, ‘엑사원’ 신기술 공개",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661486"
+      "title": "이소영 “배달앱 수수료에 소상공인 고통…공공배달앱 경쟁력 키울 것”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003466834"
     },
     {
-      "title": "오늘부터 퇴근길 ‘사팔사팔’…증권사 애프터마켓 이벤트 ‘주목’",
-      "url": "https://n.news.naver.com/mnews/article/119/0003132364"
+      "title": "코픽스 4개월 상승 멈췄다…주담대 금리도 ‘숨고르기’[머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002697684"
     },
     {
-      "title": "홍지선 \"1호 과제는 주택공급…서울시와 협업\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005332124"
+      "title": "월가 “금리 동결땐 더 큰 충격”…연말까지 추가 인상 가능성도",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662162"
     },
     {
-      "title": "“한강벨트도 급감” 토허 신청 4개월째 감소",
-      "url": "https://n.news.naver.com/mnews/article/050/0000110816"
+      "title": "역삼·자양동 용적률 최대 1300%…서울 다핵도시 재편 시동",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662181"
     },
     {
-      "title": "“시간 지나도 면죄부 없다”…국민연금, 기업가치 훼손 끝까지 따진다[마켓인]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006369294"
+      "title": "거래량은 6배인데 거래대금은 박빙..KRX·NXT 첫날 '엇갈린 성적표'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005576022"
     },
     {
-      "title": "기본건축비 768만원…1년 새 세 차례 인상",
-      "url": "https://n.news.naver.com/mnews/article/015/0005332125"
+      "title": "교보생명, 교보라이프플래닛 흡수합병 결정",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662156"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6909.91,
+      "value": 6684.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 820.64,
+      "value": 806.79,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26186.41,
-      "change": -146.62,
-      "change_pct": -0.56
+      "value": 25981.57,
+      "change": -204.84,
+      "change_pct": -0.78
     },
     "usdkrw": {
-      "value": 1347.41,
-      "change": 2.77,
-      "change_pct": 0.21
+      "value": 1363.83,
+      "change": 18.22,
+      "change_pct": 1.35
     }
   },
   "gold": {
-    "price_usd": 4329.9,
-    "price_krw": 5834150,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4327.1,
+    "price_krw": 5901428,
+    "change": -24.8,
+    "change_pct": -0.57
   },
-  "updated": "2026-09-15 08:48",
+  "updated": "2026-09-16 08:29",
   "error": null
 }
