@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "뉴욕 증시, 국채 금리·유가 상승에 하락 출발",
-      "url": "https://n.news.naver.com/mnews/article/052/0002407519"
+      "title": "대미투자 국회 보고, 17일서 연기…MOU·계획 발표도 미뤄지나",
+      "url": "https://n.news.naver.com/mnews/article/277/0005817331"
     },
     {
-      "title": "가상자산 운명은?…클래리티법 美 상원서 '부결'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533106"
+      "title": "신승규 현대차그룹 부사장 \"제주와 협력해 수소경제 미래 실현\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009173078"
     },
     {
-      "title": "이형일 \"비거주 논란 송구, 여건상 거주 어려웠다\"",
-      "url": "https://n.news.naver.com/mnews/article/658/0000155614"
+      "title": "한남3구역 5970가구 들어선다…최고 21층·연내 착공",
+      "url": "https://n.news.naver.com/mnews/article/003/0014193352"
     },
     {
-      "title": "효성중공업, 미국 빅테크와 3천865억원 변압기 공급 계약",
-      "url": "https://n.news.naver.com/mnews/article/001/0016310598"
+      "title": "대한항공 60조 투자 … 보잉 항공기 103대 구매",
+      "url": "https://n.news.naver.com/mnews/article/009/0005736296"
     },
     {
-      "title": "이소영 “배달앱 수수료에 소상공인 고통…공공배달앱 경쟁력 키울 것”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003466834"
+      "title": "최태원 상의회장 \"한·중앙아시아 경협 확대, 더 큰 기회 올 것\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006370624"
     },
     {
-      "title": "코픽스 4개월 상승 멈췄다…주담대 금리도 ‘숨고르기’[머니뭐니]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002697684"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002407846"
     },
     {
-      "title": "월가 “금리 동결땐 더 큰 충격”…연말까지 추가 인상 가능성도",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662162"
+      "title": "황기연 수은 행장, 우즈베크 대통령과 맞손…“자원·기술 결합, 시너지 창출”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003048270"
     },
     {
-      "title": "역삼·자양동 용적률 최대 1300%…서울 다핵도시 재편 시동",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662181"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001388797"
     },
     {
-      "title": "거래량은 6배인데 거래대금은 박빙..KRX·NXT 첫날 '엇갈린 성적표'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576022"
+      "title": "지방공항 중국 하늘길 넓어진다…인천발엔 LCC 대거 진입",
+      "url": "https://n.news.naver.com/mnews/article/079/0004189788"
     },
     {
-      "title": "교보생명, 교보라이프플래닛 흡수합병 결정",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662156"
+      "title": "디즈니, K팝 손잡고 세계로…카카오엔터와 ‘K컬처 펀드’ 만든다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005736063"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6684.37,
+      "value": 6627.26,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 806.79,
+      "value": 812.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25981.57,
-      "change": -204.84,
-      "change_pct": -0.78
+      "value": 25978.42,
+      "change": -3.15,
+      "change_pct": -0.01
     },
     "usdkrw": {
-      "value": 1363.83,
-      "change": 18.22,
-      "change_pct": 1.35
+      "value": 1377.13,
+      "change": 13.56,
+      "change_pct": 0.99
     }
   },
   "gold": {
-    "price_usd": 4327.1,
-    "price_krw": 5901428,
+    "price_usd": 4308.0,
+    "price_krw": 5932676,
     "change": -24.8,
     "change_pct": -0.57
   },
-  "updated": "2026-09-16 08:29",
+  "updated": "2026-09-17 08:36",
   "error": null
 }
