@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대미투자 국회 보고, 17일서 연기…MOU·계획 발표도 미뤄지나",
-      "url": "https://n.news.naver.com/mnews/article/277/0005817331"
+      "title": "이찬진 \"금소법에 예방 책무 반영 필요\"…미성년자 미수거래 제한",
+      "url": "https://n.news.naver.com/mnews/article/055/0001389153"
     },
     {
-      "title": "신승규 현대차그룹 부사장 \"제주와 협력해 수소경제 미래 실현\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009173078"
+      "title": "두산, 1조 투자해 국내·중국에 CCL 생산 증설…최대 규모",
+      "url": "https://n.news.naver.com/mnews/article/448/0000639915"
     },
     {
-      "title": "한남3구역 5970가구 들어선다…최고 21층·연내 착공",
-      "url": "https://n.news.naver.com/mnews/article/003/0014193352"
+      "title": "한성숙·신동빈·조원태 등 한미 정재계 “경제·기술로 동맹 확대하자”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663066"
     },
     {
-      "title": "대한항공 60조 투자 … 보잉 항공기 103대 구매",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736296"
+      "title": "KB국민, 2.9점 차로 경북도금고 놓쳤다…농협은행·iM뱅크 수성",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415368"
     },
     {
-      "title": "최태원 상의회장 \"한·중앙아시아 경협 확대, 더 큰 기회 올 것\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006370624"
+      "title": "\"백종원 회사 적자 비판했는데\"...종토방 이용자, 줄줄이 고소당했다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415537"
+    },
+    {
+      "title": "FOMC 금리인상에 은행채 5% 가시권…주담대 금리도 '들썩'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415390"
+    },
+    {
+      "title": "뉴욕증시, 금리인상 여파 소화하며 반등…나스닥 1.7%↑(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016319401"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002407846"
+      "url": "https://n.news.naver.com/mnews/article/422/0000907298"
     },
     {
-      "title": "황기연 수은 행장, 우즈베크 대통령과 맞손…“자원·기술 결합, 시너지 창출”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003048270"
+      "title": "\"갈 곳이 없다\" 눌러앉는 세입자 … 2년 더 살 수 있게 '응급 처방'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005736907"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001388797"
-    },
-    {
-      "title": "지방공항 중국 하늘길 넓어진다…인천발엔 LCC 대거 진입",
-      "url": "https://n.news.naver.com/mnews/article/079/0004189788"
-    },
-    {
-      "title": "디즈니, K팝 손잡고 세계로…카카오엔터와 ‘K컬처 펀드’ 만든다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736063"
+      "title": "\"코스피 기술주 기초 레버리지 검토\"…트레이더ETF 대표 방한",
+      "url": "https://n.news.naver.com/mnews/article/015/0005333506"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6627.26,
+      "value": 6717.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 812.41,
+      "value": 815.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25978.42,
-      "change": -3.15,
-      "change_pct": -0.01
+      "value": 26418.3,
+      "change": 439.87,
+      "change_pct": 1.69
     },
     "usdkrw": {
-      "value": 1377.13,
-      "change": 13.56,
-      "change_pct": 0.99
+      "value": 1380.43,
+      "change": 3.83,
+      "change_pct": 0.28
     }
   },
   "gold": {
-    "price_usd": 4308.0,
-    "price_krw": 5932676,
-    "change": -24.8,
-    "change_pct": -0.57
+    "price_usd": 4383.0,
+    "price_krw": 6050424,
+    "change": -4.5,
+    "change_pct": -0.1
   },
-  "updated": "2026-09-17 08:36",
+  "updated": "2026-09-18 08:29",
   "error": null
 }
