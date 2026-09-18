@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이찬진 \"금소법에 예방 책무 반영 필요\"…미성년자 미수거래 제한",
-      "url": "https://n.news.naver.com/mnews/article/055/0001389153"
+      "title": "추석 고속도로 주유소 L당 100원 할인",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334011"
     },
     {
-      "title": "두산, 1조 투자해 국내·중국에 CCL 생산 증설…최대 규모",
-      "url": "https://n.news.naver.com/mnews/article/448/0000639915"
+      "title": "中 전기차 공세에 국내 생산기반 ‘흔들’…“세액공제 지원 필요”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002699219"
     },
     {
-      "title": "한성숙·신동빈·조원태 등 한미 정재계 “경제·기술로 동맹 확대하자”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663066"
+      "title": "추석 연휴 고속道 주유소 기름값 100원 할인...유류세 인하 11월 말까지 연장",
+      "url": "https://n.news.naver.com/mnews/article/023/0003999179"
     },
     {
-      "title": "KB국민, 2.9점 차로 경북도금고 놓쳤다…농협은행·iM뱅크 수성",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415368"
+      "title": "금리 인상 가능성, 경기도 '빚 이자' 커진다…\"최소 4.5%\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014198574"
     },
     {
-      "title": "\"백종원 회사 적자 비판했는데\"...종토방 이용자, 줄줄이 고소당했다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415537"
+      "title": "주택이라 광고했는데 숙박시설…부동산 ‘불법 광고’ 1만여 건 적발",
+      "url": "https://n.news.naver.com/mnews/article/056/0012260161"
     },
     {
-      "title": "FOMC 금리인상에 은행채 5% 가시권…주담대 금리도 '들썩'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415390"
+      "title": "정부 '물가 안정' 주문 열흘 만에…해태제과, 오예스·홈런볼 줄줄이 인상",
+      "url": "https://n.news.naver.com/mnews/article/421/0009178957"
     },
     {
-      "title": "뉴욕증시, 금리인상 여파 소화하며 반등…나스닥 1.7%↑(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016319401"
+      "title": "한섬, 3년간 자사주 300억 소각…배당도 확대",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663328"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000907298"
+      "title": "“아연 마진 흔들려도 굳건”…고려아연 ‘핵심광물 포트폴리오’ 재조명",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737408"
     },
     {
-      "title": "\"갈 곳이 없다\" 눌러앉는 세입자 … 2년 더 살 수 있게 '응급 처방'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005736907"
+      "title": "2040 탈석탄 로드맵 윤곽… 태안 9·10호기도 '조기폐지' 갈림길",
+      "url": "https://n.news.naver.com/mnews/article/047/0002529577"
     },
     {
-      "title": "\"코스피 기술주 기초 레버리지 검토\"…트레이더ETF 대표 방한",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333506"
+      "title": "\"예상했던 금리 인상\" 외인·기관 담는다…코스피, 2%대 상승",
+      "url": "https://n.news.naver.com/mnews/article/008/0005415670"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6717.97,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 815.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69
+      "value": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1380.43,
-      "change": 3.83,
-      "change_pct": 0.28
+      "value": 1385.95,
+      "change": 9.35,
+      "change_pct": 0.68
     }
   },
   "gold": {
-    "price_usd": 4383.0,
-    "price_krw": 6050424,
-    "change": -4.5,
-    "change_pct": -0.1
+    "price_usd": 4415.9,
+    "price_krw": 6120216,
+    "change": 16.2,
+    "change_pct": 0.37
   },
-  "updated": "2026-09-18 08:29",
+  "updated": "2026-09-19 08:10",
   "error": null
 }
