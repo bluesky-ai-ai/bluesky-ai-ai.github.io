@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "지역 첫 브랜드만 6개…대구신세계, 해외 디자이너 전문관 선봬",
-      "url": "https://n.news.naver.com/mnews/article/421/0009180730"
+      "title": "HL만도, '끼임 사망' 두 달 만에 사과‥유족 반발에 기자회견 취소",
+      "url": "https://n.news.naver.com/mnews/article/214/0001525177"
     },
     {
-      "title": "CXMT, 5세대 D램 공정 양산 돌입",
-      "url": "https://n.news.naver.com/mnews/article/366/0001193495"
+      "title": "신한금융, 신한은행장 등 자회사 대표이사 승계절차 개시",
+      "url": "https://n.news.naver.com/mnews/article/001/0016327585"
     },
     {
-      "title": "한경협 \"공장 가동 앞두고 도로·용수 차질\"…첨단산업 정책과제 건의",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818946"
+      "title": "주병기 “소수업체가 방산 독점…경쟁확산 위해 규제 개선 추진 중”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002824079"
     },
     {
-      "title": "현대건설, 2년 연속 도시정비 수주 10조 원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/469/0000955043"
+      "title": "\"이 시간에 전기차 충전하면 반값\"…추석 연휴 '파격 할인'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334714"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000908033"
+      "title": "추석 명절 부모님 용돈도 올랐다…평균 21만3천원",
+      "url": "https://n.news.naver.com/mnews/article/032/0003471774"
     },
     {
-      "title": "“더 빠르고 정확하게”…배달앱, AI·데이터 기술 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663881"
+      "title": "中 CXMT, 5세대 D램 양산…범용부터 韓 메모리 아성 흔드나",
+      "url": "https://n.news.naver.com/mnews/article/421/0009184884"
     },
     {
-      "title": "증시 떠받친 '삼전닉스' 자사주 매입, 다음 달 종료 전망",
-      "url": "https://n.news.naver.com/mnews/article/052/0002409374"
+      "title": "삼성, 광주에 '2400억 투자'…냉난방공조 생산라인 2028년 가동",
+      "url": "https://n.news.naver.com/mnews/article/008/0005416539"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000908020"
+      "title": "정점식 \"가상자산 과세, 혼란은 청년투자자 몫…준비 충분해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016327123"
     },
     {
-      "title": "현대차, 5세대 '디 올 뉴 투싼' 공개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334352"
+      "title": "\"이름·주소까지 샜는데\"…쿠팡, 대만 과징금 6489만원",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334858"
     },
     {
-      "title": "삼성전자 최대 노조 ‘반도체 노조’로 개편…최승호 위원장 ‘억대 개인혜택’ 의혹도",
-      "url": "https://n.news.naver.com/mnews/article/021/0002820107"
+      "title": "원/달러 환율, 8거래일 만에 하락…2.3원 내린 1,381.0원",
+      "url": "https://n.news.naver.com/mnews/article/055/0001390060"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6894.23,
-      "change": 178.82,
-      "change_pct": 2.66
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 827.12,
-      "change": 4.94,
-      "change_pct": 0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26522.54,
-      "change": 104.24,
-      "change_pct": 0.39
+      "value": 27122.09,
+      "change": 599.55,
+      "change_pct": 2.26
     },
     "usdkrw": {
-      "value": 1385.51,
-      "change": 5.98,
-      "change_pct": 0.43
+      "value": 1374.38,
+      "change": -10.48,
+      "change_pct": -0.76
     }
   },
   "gold": {
-    "price_usd": 4413.4,
-    "price_krw": 6114809,
-    "change": -11.5,
-    "change_pct": -0.26
+    "price_usd": 4407.3,
+    "price_krw": 6057304,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-21 08:08",
+  "updated": "2026-09-22 08:59",
   "error": null
 }
