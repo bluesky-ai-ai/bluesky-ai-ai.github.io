@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "담관암 표적약 하나 더⋯FDA, FGFR2 골라 겨냥한 신약 ‘리픽투’ 승인",
-      "url": "https://n.news.naver.com/mnews/article/296/0000105216"
+      "title": "“아파트 당첨되고 좋아했는데”… 청약 취소, 6년간 5만4천명",
+      "url": "https://n.news.naver.com/mnews/article/666/0000124894"
     },
     {
-      "title": "\"전세 살 바엔 집 살래\"…외곽 '생존 매수'에 서울 집값 85주 최장 상승",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418242"
+      "title": "서울 신축 주춤…20년 넘은 구축 더 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740007"
     },
     {
-      "title": "무료 개방 고궁 갈까, 달토끼 보러 타워 갈까... 추석 연휴, 도심 나들이 200% 즐기기",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000246"
+      "title": "소득 전부 빚 갚는 데 써도 빠듯‥초고위험 대출자 비중 늘어",
+      "url": "https://n.news.naver.com/mnews/article/214/0001525829"
     },
     {
-      "title": "스위스 중앙은행, 제로금리 유지",
-      "url": "https://n.news.naver.com/mnews/article/014/0005580694"
+      "title": "\"택배 왔나\" 클릭했다 당한다…명절 노린 '보이스피싱' 주의해야",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213359"
     },
     {
-      "title": "코인 과세에 자산 유출 본격화?…유예·보완 목소리 커져",
-      "url": "https://n.news.naver.com/mnews/article/003/0014213055"
+      "title": "주유소 기름값 19주째 하락...수입 기준 두바이유 12달러 급락",
+      "url": "https://n.news.naver.com/mnews/article/310/0000140317"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012262947"
+      "title": "수출 1조弗 핵심은 '반도체'…증가분 80% 차지[K수출 4강②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014212996"
     },
     {
-      "title": "“연 4.3%에 1000억원 동났다”…삼성증권 첫 발행어음, 이틀 반 만에 완판",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242589"
+      "title": "탈세 의혹 유튜버 17명에 작년 세금 239억원 부과",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000361"
     },
     {
-      "title": "“6억에 200만원 의자?”…삼전DS 직원들, 추석 이후만 기다린다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375372"
+      "title": "이형일 \"해외 투자자들, 韓경제 긍정 평가…신뢰 높일 것\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213423"
     },
     {
-      "title": "서울 아파트값 '85주 상승'...역대 최장 기록과 동일",
-      "url": "https://n.news.naver.com/mnews/article/052/0002410876"
+      "title": "코스닥 8개사·코스피 1개사 퇴출…‘시총미달·동전주’ 관리종목 대폭 증가",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739943"
     },
     {
-      "title": "\"65만전자 간다?\"…심상찮은 증권가 전망에 개미들 '들썩' [종목+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335899"
+      "title": "[속보]간밤 美증시, 미·이란 긴장 완화에 상승…SK하닉 ADR 2.78%↑",
+      "url": "https://n.news.naver.com/mnews/article/021/0002821213"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7080.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 63.01,
+      "change_pct": 0.9
     },
     "kosdaq": {
       "value": 844.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 10.1,
+      "change_pct": 1.21
     },
     "nasdaq": {
-      "value": 26939.37,
-      "change": 3.33,
-      "change_pct": 0.01
+      "value": 27068.72,
+      "change": 129.35,
+      "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1367.57,
-      "change": 5.07,
-      "change_pct": 0.37
+      "value": 1355.28,
+      "change": -7.22,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4309.6,
-    "price_krw": 5893679,
-    "change": -8.8,
-    "change_pct": -0.2
+    "price_usd": 4320.5,
+    "price_krw": 5855487,
+    "change": 22.5,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-25 08:49",
+  "updated": "2026-09-26 08:55",
   "error": null
 }
