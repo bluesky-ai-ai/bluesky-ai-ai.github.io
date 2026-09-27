@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "한국제품 수입규제 상반기 241건…작년 하반기보다 11건 늘어",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336874"
+      "title": "HLB, 담관암 신약 美 FDA 허가… 개발전략 다변화 결실",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418749"
     },
     {
-      "title": "숨만 쉬어도 '164만원' 숭텅…전국 10곳 중 9곳 월세 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005418539"
+      "title": "\"대출 무조건 갈아타는 게 이득?\"…뚜껑 열어보니 달랐다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336228"
     },
     {
-      "title": "\"주식 투자법 알려주겠다\" 신현송 한은 총재 사칭 SNS 주의보",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411285"
+      "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016338175"
     },
     {
-      "title": "환율 하락에 항공주 수혜…식음료는 딜레마",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534857"
+      "title": "한화에어로, ‘채용 가이드라인’ 논란 사과…“책임자 징계”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740285"
     },
     {
-      "title": "명절 앞둔 원산지 표시위반 단속서 최다적발은 '김치·돼지고기'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336707"
+      "title": "30만전자 눈 앞?...삼성전자 3분기에도 역대급 실적",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108518"
     },
     {
-      "title": "다음주 IPO 시장…글로벌테크놀로지·빅웨이브로보틱스 등 4곳 코스닥 입성",
-      "url": "https://n.news.naver.com/mnews/article/030/0003469950"
+      "title": "올해 초과세수 50조원 돌파 전망…내년 미래대응기금 200조원 넘긴다",
+      "url": "https://n.news.naver.com/mnews/article/079/0004193005"
     },
     {
-      "title": "추석 용돈, 주식 대신 예금 넣을까…다시 고개 든 ‘역머니무브’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001875098"
+      "title": "김밥·라면·커피축제 한데 묶는다… K-푸드로 지역관광 띄운다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049954"
     },
     {
-      "title": "美금리부담+거래소 해킹…비트코인 상승세 급제동[코인 모닝콜]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375603"
+      "title": "농심, 멕시코 K박람회서 신라면 매운맛 알렸다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005581216"
     },
     {
-      "title": "중동 사태 장기화에 가스선 운임 '껑충'…K-조선 수주 기대↑",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242705"
+      "title": "반도체 초호황에 성과급 기대감...삼성·SK하닉 육아휴직률 첫 동반 하락",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740249"
     },
     {
-      "title": "예상보다 더 걷힌 '세금'...'초과세수' 50조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111333"
+      "title": "2분기 건설공사 계약액 80.9조…반도체 시설 힘입어 전년比 27.3%↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005418784"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1354.4,
-      "change": -12.96,
-      "change_pct": -0.95
+      "value": 1354.9,
+      "change": -12.46,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4321.2,
-    "price_krw": 5852633,
-    "change": 23.2,
-    "change_pct": 0.54
+    "price_usd": 4295.6,
+    "price_krw": 5820108,
+    "change": -25.6,
+    "change_pct": -0.59
   },
-  "updated": "2026-09-27 08:28",
+  "updated": "2026-09-28 08:44",
   "error": null
 }
