@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"서울대 경영동아리 인맥이 카르텔로\"…미공개 M&A 정보로 200억 챙겨",
-      "url": "https://n.news.naver.com/mnews/article/660/0000118073"
+      "title": "한국GM, 프리미엄 브랜드 뷰익 도입…첫 모델 엘렉트라 E7 공개",
+      "url": "https://n.news.naver.com/mnews/article/001/0016346358"
     },
     {
-      "title": "삼성 6개사, 美 AI 인프라 기업 헬릭스에 10억달러 투자",
-      "url": "https://n.news.naver.com/mnews/article/029/0003050334"
+      "title": "AI 모형 들였지만 세수 오차율 26년 만에 최대…내년 584조도 반도체에 달렸다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009200290"
     },
     {
-      "title": "최태원 \"엔비디아는 두뇌, SK는 기억\"…젠슨 황 수상 축하 건배",
-      "url": "https://n.news.naver.com/mnews/article/119/0003137338"
+      "title": "이형일 \"'7.9조' 막힌 투자 뚫는다…온누리상품권 혜택 개편\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014225561"
     },
     {
-      "title": "30년물 2002년 이후 최고…뉴욕증시 이틀 연속 하락[뉴스새벽배송]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006377373"
+      "title": "온누리상품권 대수술…전통시장 10%·지방 상권 8% 할인",
+      "url": "https://n.news.naver.com/mnews/article/011/0004667129"
     },
     {
-      "title": "하반기 신규 채용 장 선다…대기업 51% \"대졸 뽑는다\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016342262"
+      "title": "2차 국민참여성장펀드 첫날 2천억 판매…일부 온라인 한도 소진",
+      "url": "https://n.news.naver.com/mnews/article/028/0002825414"
     },
     {
-      "title": "막혔던 호남 재생에너지, 접속 재개…2030년 100GW 전력망 구축",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703153"
+      "title": "LG전자, 900억 투입 美에 칠러 생산 공장 신설…AI 데이터센터 시장 겨냥",
+      "url": "https://n.news.naver.com/mnews/article/421/0009202167"
     },
     {
-      "title": "SK하이닉스, TSMC 행사서 '차세대 메모리' 솔루션 공개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337006"
+      "title": "'점메추'도 해주는 AI…전영현 부회장 \"AI, 일하는 방식 바꿀 것\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005420456"
     },
     {
-      "title": "ISA 가입자 1000만명 돌파…20·30세대 41% 차지",
-      "url": "https://n.news.naver.com/mnews/article/374/0000535254"
+      "title": "서울 도심복합 3년 만에 새 후보지…11곳에 1만7881호 추가",
+      "url": "https://n.news.naver.com/mnews/article/030/0003471171"
     },
     {
-      "title": "농촌 기본소득 지역에 '이동장터'…영양군서 첫 운영",
-      "url": "https://n.news.naver.com/mnews/article/003/0014222298"
+      "title": "은행 주담대 금리 연 4.66%…넉달째 상승해 3년 9개월만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/001/0016346432"
     },
     {
-      "title": "농지은행에 맡기라는데… 수수료 5%·행정비용에 농민들 겹주름",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001202"
+      "title": "미국에 한국형 원전 짓는다…웨스팅하우스 장벽 넘은 ‘K원전’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005742373"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6870.81,
+      "value": 6795.03,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 849.8,
+      "value": 855.3,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09
+      "value": 26861.06,
+      "change": 63.53,
+      "change_pct": 0.24
     },
     "usdkrw": {
-      "value": 1352.86,
-      "change": -6.7,
-      "change_pct": -0.49
+      "value": 1358.68,
+      "change": 8.18,
+      "change_pct": 0.61
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5704063,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4177.1,
+    "price_krw": 5675342,
+    "change": -2.6,
+    "change_pct": -0.06
   },
-  "updated": "2026-09-30 09:17",
+  "updated": "2026-10-01 09:28",
   "error": null
 }
