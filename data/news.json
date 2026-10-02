@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한국GM, 프리미엄 브랜드 뷰익 도입…첫 모델 엘렉트라 E7 공개",
-      "url": "https://n.news.naver.com/mnews/article/001/0016346358"
+      "title": "9월 수출 1,209억 달러...연간 수출 8천억달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/052/0002413282"
     },
     {
-      "title": "AI 모형 들였지만 세수 오차율 26년 만에 최대…내년 584조도 반도체에 달렸다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009200290"
+      "title": "\"李대통령 임기 내내 올랐다\"…서울 집값, 86주 '역대 최장' 상승",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139257"
     },
     {
-      "title": "이형일 \"'7.9조' 막힌 투자 뚫는다…온누리상품권 혜택 개편\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014225561"
+      "title": "美금리 24년래 최고, 유가 100달러…증시는 버텼다[뉴스새벽배송]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006379314"
     },
     {
-      "title": "온누리상품권 대수술…전통시장 10%·지방 상권 8% 할인",
-      "url": "https://n.news.naver.com/mnews/article/011/0004667129"
+      "title": "신한은행장 \"2만5000명 고객정보 유출…손해 전액 보상\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338104"
     },
     {
-      "title": "2차 국민참여성장펀드 첫날 2천억 판매…일부 온라인 한도 소진",
-      "url": "https://n.news.naver.com/mnews/article/028/0002825414"
+      "title": "‘한국형 원전’ 종주국 역수출 첫발… 웨스팅 지분인수 추진",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822520"
     },
     {
-      "title": "LG전자, 900억 투입 美에 칠러 생산 공장 신설…AI 데이터센터 시장 겨냥",
-      "url": "https://n.news.naver.com/mnews/article/421/0009202167"
+      "title": "\"가전 34종 수리비 한 번에\"…롯데하이마트, 올케어 출시",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583521"
     },
     {
-      "title": "'점메추'도 해주는 AI…전영현 부회장 \"AI, 일하는 방식 바꿀 것\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005420456"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000513705"
     },
     {
-      "title": "서울 도심복합 3년 만에 새 후보지…11곳에 1만7881호 추가",
-      "url": "https://n.news.naver.com/mnews/article/030/0003471171"
+      "title": "온누리상품권 개편, 전통시장 최대 10% 혜택…지방관광 연계 강화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001195462"
     },
     {
-      "title": "은행 주담대 금리 연 4.66%…넉달째 상승해 3년 9개월만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/001/0016346432"
+      "title": "4000명 청라로 모은 하나금융…함영주 ‘뉴하나 100년’ 승부수",
+      "url": "https://n.news.naver.com/mnews/article/243/0000103760"
     },
     {
-      "title": "미국에 한국형 원전 짓는다…웨스팅하우스 장벽 넘은 ‘K원전’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005742373"
+      "title": "9월 농축산물 물가 1.0% 하락…전체 소비자물가 안정 기여",
+      "url": "https://n.news.naver.com/mnews/article/079/0004195061"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6795.03,
+      "value": 6960.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 855.3,
+      "value": 896.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26861.06,
-      "change": 63.53,
-      "change_pct": 0.24
+      "value": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04
     },
     "usdkrw": {
-      "value": 1358.68,
-      "change": 8.18,
-      "change_pct": 0.61
+      "value": 1364.58,
+      "change": 7.74,
+      "change_pct": 0.57
     }
   },
   "gold": {
-    "price_usd": 4177.1,
-    "price_krw": 5675342,
-    "change": -2.6,
-    "change_pct": -0.06
+    "price_usd": 4194.8,
+    "price_krw": 5724139,
+    "change": 8.1,
+    "change_pct": 0.19
   },
-  "updated": "2026-10-01 09:28",
+  "updated": "2026-10-02 09:38",
   "error": null
 }
