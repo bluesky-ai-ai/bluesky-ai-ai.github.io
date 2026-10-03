@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "뉴욕서 '파업' 언급한 현대차…\"부진, 경쟁력 문제 아냐\" [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091169"
+      "title": "시중은행 뚫더니 저축은행·캐피탈까지 해킹…개인정보 유출 잇따라",
+      "url": "https://n.news.naver.com/mnews/article/666/0000125962"
     },
     {
-      "title": "은행권 전방위 해킹 피해…AI시대 금융 보안 비상(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016354750"
+      "title": "“은행 털리더니 현대캐피탈까지” AI 해킹에 개인정보 줄줄 샜다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006380169"
     },
     {
-      "title": "배달앱 수수료 상한제에 라이더도 목소리…“배달비 전가 막아야”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002243497"
+      "title": "요즘 사람들이 제일 많이 찾는 카드 따로 있었다…1위 봤더니",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338912"
     },
     {
-      "title": "[단독] “국내 도입 신중해야”…레버리지 출시 전 금감원 용역보고서는 경고",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912131"
+      "title": "영화 암살자(들) 투자에 외부 개입 있었다?…국책은행 “사실무근”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555526"
     },
     {
-      "title": "아틀라스, 차세대 로봇 손 장착",
-      "url": "https://n.news.naver.com/mnews/article/001/0016352834"
+      "title": "‘AI 해킹’ 비상...당국, 금융사 대표들 긴급 소집",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668031"
     },
     {
-      "title": "\"보안검사 결과, 조속히 제출하라\" 금융당국, 1·2위 은행 해킹사태에 긴급회의",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584433"
+      "title": "이번 주 국내 기름값 소폭 하락…휘발유 1858원",
+      "url": "https://n.news.naver.com/mnews/article/018/0006379988"
     },
     {
-      "title": "뱅크샐러드, 코스닥 상장예비심사 신청…IPO 본격화",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584412"
+      "title": "미 9월 고용 2.9만명 증가 그쳐…\"금리 동결 무게\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268067"
     },
     {
-      "title": "뉴욕증시, 연준 금리인상 우려 완화에 상승 마감…나스닥 1.2%↑",
-      "url": "https://n.news.naver.com/mnews/article/003/0014231297"
+      "title": "노사정, '메가특구 특별법' 원포인트 사회적 대화 2차 실무협의",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207551"
     },
     {
-      "title": "삼성바이오 노조, 26일부터 3주 총파업 예고",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743271"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002414182"
     },
     {
-      "title": "봉사동물부터 유기동물까지…국립대 동물병원 4곳, 공공의료 나선다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006379783"
+      "title": "경북 예천군서 구제역 추가 발생...\"10마리 처분\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002414405"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 893.29,
+      "change": -1.0,
+      "change_pct": -0.11
     },
     "nasdaq": {
       "value": 27190.86,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4172.1,
-    "price_krw": 5601086,
-    "change": -30.2,
-    "change_pct": -0.72
+    "price_usd": 4162.3,
+    "price_krw": 5587929,
+    "change": -40.0,
+    "change_pct": -0.95
   },
-  "updated": "2026-10-03 09:20",
+  "updated": "2026-10-04 08:42",
   "error": null
 }
