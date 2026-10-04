@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "시중은행 뚫더니 저축은행·캐피탈까지 해킹…개인정보 유출 잇따라",
-      "url": "https://n.news.naver.com/mnews/article/666/0000125962"
+      "title": "한국전력 직원 개인정보 노출…2만 4천 명 정보가 외부 웹페이지에",
+      "url": "https://n.news.naver.com/mnews/article/056/0012267619"
     },
     {
-      "title": "“은행 털리더니 현대캐피탈까지” AI 해킹에 개인정보 줄줄 샜다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006380169"
+      "title": "세입자 주거안정 해법 찾는다…7일 '서울주거포럼'",
+      "url": "https://n.news.naver.com/mnews/article/629/0000539298"
     },
     {
-      "title": "요즘 사람들이 제일 많이 찾는 카드 따로 있었다…1위 봤더니",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338912"
+      "title": "가공식품 26개 중 24개 인상",
+      "url": "https://n.news.naver.com/mnews/article/081/0003685986"
     },
     {
-      "title": "영화 암살자(들) 투자에 외부 개입 있었다?…국책은행 “사실무근”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555526"
+      "title": "트럼프 압박까지…대미투자, 알래스카 LNG 암초에 산 넘어 산",
+      "url": "https://n.news.naver.com/mnews/article/001/0016356178"
     },
     {
-      "title": "‘AI 해킹’ 비상...당국, 금융사 대표들 긴급 소집",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668031"
-    },
-    {
-      "title": "이번 주 국내 기름값 소폭 하락…휘발유 1858원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006379988"
-    },
-    {
-      "title": "미 9월 고용 2.9만명 증가 그쳐…\"금리 동결 무게\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268067"
-    },
-    {
-      "title": "노사정, '메가특구 특별법' 원포인트 사회적 대화 2차 실무협의",
-      "url": "https://n.news.naver.com/mnews/article/421/0009207551"
+      "title": "은행권 AI 연쇄해킹…공격서버에 ‘중국어 문자열’ 있었다는데",
+      "url": "https://n.news.naver.com/mnews/article/009/0005743861"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414182"
+      "url": "https://n.news.naver.com/mnews/article/422/0000912480"
     },
     {
-      "title": "경북 예천군서 구제역 추가 발생...\"10마리 처분\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414405"
+      "title": "‘AI 해킹’ 금융권 전반에 확산… 당국 “동일인 소행 배제 못해”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004002092"
+    },
+    {
+      "title": "제네시스 첫 하이브리드 GV80, 7000만원대 승부수",
+      "url": "https://n.news.naver.com/mnews/article/005/0001876622"
+    },
+    {
+      "title": "한국 금융, 두 달 된 중국산 AI에 뚫렸다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003474216"
+    },
+    {
+      "title": "CU 리센느 빵 불티…구매자 10명 중 7명 남성",
+      "url": "https://n.news.naver.com/mnews/article/082/0001401051"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1342.51,
-      "change": -14.33,
-      "change_pct": -1.06
+      "value": 1343.0,
+      "change": -17.59,
+      "change_pct": -1.29
     }
   },
   "gold": {
-    "price_usd": 4162.3,
-    "price_krw": 5587929,
-    "change": -40.0,
-    "change_pct": -0.95
+    "price_usd": 4172.5,
+    "price_krw": 5603667,
+    "change": 10.2,
+    "change_pct": 0.25
   },
-  "updated": "2026-10-04 08:42",
+  "updated": "2026-10-05 08:54",
   "error": null
 }
