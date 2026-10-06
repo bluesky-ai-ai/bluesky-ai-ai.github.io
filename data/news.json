@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한국전력 직원 개인정보 노출…2만 4천 명 정보가 외부 웹페이지에",
-      "url": "https://n.news.naver.com/mnews/article/056/0012267619"
+      "title": "거제·통영 中企에 재난지원금 10억",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339276"
     },
     {
-      "title": "세입자 주거안정 해법 찾는다…7일 '서울주거포럼'",
-      "url": "https://n.news.naver.com/mnews/article/629/0000539298"
-    },
-    {
-      "title": "가공식품 26개 중 24개 인상",
-      "url": "https://n.news.naver.com/mnews/article/081/0003685986"
-    },
-    {
-      "title": "트럼프 압박까지…대미투자, 알래스카 LNG 암초에 산 넘어 산",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356178"
-    },
-    {
-      "title": "은행권 AI 연쇄해킹…공격서버에 ‘중국어 문자열’ 있었다는데",
-      "url": "https://n.news.naver.com/mnews/article/009/0005743861"
+      "title": "신라면 40주년…에드워드 리와 만든 맛, 소비자가 고른다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705707"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912480"
+      "url": "https://n.news.naver.com/mnews/article/422/0000912805"
     },
     {
-      "title": "‘AI 해킹’ 금융권 전반에 확산… 당국 “동일인 소행 배제 못해”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004002092"
+      "title": "LG전자, 북미 AI데이터센터 인프라기업과 냉각솔루션 대형계약",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358279"
     },
     {
-      "title": "제네시스 첫 하이브리드 GV80, 7000만원대 승부수",
-      "url": "https://n.news.naver.com/mnews/article/005/0001876622"
+      "title": "LG화학, 유럽 플라스틱 산업전 참가…고성능·고부가 소재 전시",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358489"
     },
     {
-      "title": "한국 금융, 두 달 된 중국산 AI에 뚫렸다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003474216"
+      "title": "스페이스X 주가 폭등…머스크, 석달 만에 '조만 장자' 복귀",
+      "url": "https://n.news.naver.com/mnews/article/374/0000536334"
     },
     {
-      "title": "CU 리센느 빵 불티…구매자 10명 중 7명 남성",
-      "url": "https://n.news.naver.com/mnews/article/082/0001401051"
+      "title": "\"알아서 결제하는 AI가 온다\"… 메타 '뮤즈'가 불러온 스테이블코인 바람[비트코인 지금]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824672"
+    },
+    {
+      "title": "'K패션 본고장' 파리로 간 현대百…더현대 글로벌 첫 유럽 진출",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422385"
+    },
+    {
+      "title": "교촌치킨, 일본 간다…내년 도쿄에 첫 매장",
+      "url": "https://n.news.naver.com/mnews/article/018/0006381832"
+    },
+    {
+      "title": "금융권 덮친 AI 공포…해킹 파장에 주가 들썩이는 '보안주'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014234701"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46
+      "value": 6982.4,
+      "change": -21.34,
+      "change_pct": -0.3
     },
     "kosdaq": {
-      "value": 893.29,
-      "change": -1.0,
-      "change_pct": -0.11
+      "value": 912.91,
+      "change": 19.62,
+      "change_pct": 2.2
     },
     "nasdaq": {
-      "value": 27190.86,
-      "change": 319.26,
-      "change_pct": 1.19
+      "value": 27477.31,
+      "change": 286.45,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1343.0,
-      "change": -17.59,
-      "change_pct": -1.29
+      "value": 1344.48,
+      "change": 1.92,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4172.5,
-    "price_krw": 5603667,
-    "change": 10.2,
-    "change_pct": 0.25
+    "price_usd": 4164.1,
+    "price_krw": 5598549,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-05 08:54",
+  "updated": "2026-10-06 10:43",
   "error": null
 }
