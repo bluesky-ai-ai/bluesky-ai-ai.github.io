@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "거제·통영 中企에 재난지원금 10억",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339276"
+      "title": "현대차그룹, 미국 과학관 익스플로라토리움과 체험형 과학 전시",
+      "url": "https://n.news.naver.com/mnews/article/001/0016359456"
     },
     {
-      "title": "신라면 40주년…에드워드 리와 만든 맛, 소비자가 고른다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705707"
+      "title": "농지 양성화에 2~3년 준다…정부, 실제 용도 맞춰 지목 정비",
+      "url": "https://n.news.naver.com/mnews/article/003/0014236726"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912805"
+      "title": "\"주주환원에 진심인 기업 담는다\"…대신운용, '대신 주주환원고배당펀드' 출시",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339556"
     },
     {
-      "title": "LG전자, 북미 AI데이터센터 인프라기업과 냉각솔루션 대형계약",
-      "url": "https://n.news.naver.com/mnews/article/001/0016358279"
+      "title": "美국채금리 상승에도 나스닥 사상 최고[데일리국제금융]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668380"
     },
     {
-      "title": "LG화학, 유럽 플라스틱 산업전 참가…고성능·고부가 소재 전시",
-      "url": "https://n.news.naver.com/mnews/article/001/0016358489"
+      "title": "산업부 국정감사…서남권 반도체 클러스터 부지 선정 공방",
+      "url": "https://n.news.naver.com/mnews/article/032/0003474496"
     },
     {
-      "title": "스페이스X 주가 폭등…머스크, 석달 만에 '조만 장자' 복귀",
-      "url": "https://n.news.naver.com/mnews/article/374/0000536334"
+      "title": "신한 해킹 IP, 8개월 전 같은 날 토스·카뱅 접근…사전정찰 했나",
+      "url": "https://n.news.naver.com/mnews/article/056/0012269047"
     },
     {
-      "title": "\"알아서 결제하는 AI가 온다\"… 메타 '뮤즈'가 불러온 스테이블코인 바람[비트코인 지금]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824672"
+      "title": "스페이스X 주가 급등...머스크, 석 달 만에 '조만장자' 복귀",
+      "url": "https://n.news.naver.com/mnews/article/052/0002415080"
     },
     {
-      "title": "'K패션 본고장' 파리로 간 현대百…더현대 글로벌 첫 유럽 진출",
-      "url": "https://n.news.naver.com/mnews/article/008/0005422385"
+      "title": "테슬라, 8개월 연속 수입차 판매량 1위…올해 누적 9만대 육박",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358997"
     },
     {
-      "title": "교촌치킨, 일본 간다…내년 도쿄에 첫 매장",
-      "url": "https://n.news.naver.com/mnews/article/018/0006381832"
+      "title": "전세사기 집 경매 넘어가도 보증금 3분의 1 국가가 보전",
+      "url": "https://n.news.naver.com/mnews/article/009/0005744683"
     },
     {
-      "title": "금융권 덮친 AI 공포…해킹 파장에 주가 들썩이는 '보안주'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014234701"
+      "title": "① '램프' 매각 달라진 기업가치, 거버넌스 영향은[현대모비스 재편 셈법]",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091255"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6982.4,
-      "change": -21.34,
-      "change_pct": -0.3
+      "value": 6912.4,
+      "change": -28.99,
+      "change_pct": -0.42
     },
     "kosdaq": {
-      "value": 912.91,
-      "change": 19.62,
-      "change_pct": 2.2
+      "value": 913.52,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27477.31,
-      "change": 286.45,
-      "change_pct": 1.05
+      "value": 27599.89,
+      "change": 122.58,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1344.48,
-      "change": 1.92,
-      "change_pct": 0.14
+      "value": 1338.99,
+      "change": -4.76,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4164.1,
-    "price_krw": 5598549,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4190.3,
+    "price_krw": 5610769,
+    "change": 33.5,
+    "change_pct": 0.81
   },
-  "updated": "2026-10-06 10:43",
+  "updated": "2026-10-07 09:33",
   "error": null
 }
