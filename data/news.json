@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차그룹, 미국 과학관 익스플로라토리움과 체험형 과학 전시",
-      "url": "https://n.news.naver.com/mnews/article/001/0016359456"
+      "title": "한국거래소, '시총미달' 상폐절차 잠정 유예",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268446"
     },
     {
-      "title": "농지 양성화에 2~3년 준다…정부, 실제 용도 맞춰 지목 정비",
-      "url": "https://n.news.naver.com/mnews/article/003/0014236726"
+      "title": "HD현대, 사장단 인사 단행...조선 총괄에 이상균 부회장",
+      "url": "https://n.news.naver.com/mnews/article/014/0005586045"
     },
     {
-      "title": "\"주주환원에 진심인 기업 담는다\"…대신운용, '대신 주주환원고배당펀드' 출시",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339556"
+      "title": "“연봉 8천인데 성과급 7.5억 나옵니다”…삼전 과장, 퇴근길 어깨편다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005745394"
     },
     {
-      "title": "美국채금리 상승에도 나스닥 사상 최고[데일리국제금융]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668380"
+      "title": "“GV90 네오룬, 레드카펫에”…제네시스, 부산국제영화제 10년째 후원",
+      "url": "https://n.news.naver.com/mnews/article/009/0005745039"
     },
     {
-      "title": "산업부 국정감사…서남권 반도체 클러스터 부지 선정 공방",
-      "url": "https://n.news.naver.com/mnews/article/032/0003474496"
+      "title": "'숙취 없는 술'이 돌아왔다…롯데칠성, 양주 '캪틴큐' 재출시",
+      "url": "https://n.news.naver.com/mnews/article/648/0000051423"
     },
     {
-      "title": "신한 해킹 IP, 8개월 전 같은 날 토스·카뱅 접근…사전정찰 했나",
-      "url": "https://n.news.naver.com/mnews/article/056/0012269047"
+      "title": "“15년 밀린 돈 다 내겠다”… 4000억 체납왕 오명 벗기 나선 ‘선박왕’[오늘의 DT인]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051967"
     },
     {
-      "title": "스페이스X 주가 급등...머스크, 석 달 만에 '조만장자' 복귀",
-      "url": "https://n.news.naver.com/mnews/article/052/0002415080"
+      "title": "신한은행 해킹 피해에 집단소송 시동…1인당 최대 30만원 검토",
+      "url": "https://n.news.naver.com/mnews/article/119/0003140162"
     },
     {
-      "title": "테슬라, 8개월 연속 수입차 판매량 1위…올해 누적 9만대 육박",
-      "url": "https://n.news.naver.com/mnews/article/001/0016358997"
+      "title": "'금융권 해킹범' 신원 단서 찾았다…중국 광둥성 26세 추정",
+      "url": "https://n.news.naver.com/mnews/article/437/0000514645"
     },
     {
-      "title": "전세사기 집 경매 넘어가도 보증금 3분의 1 국가가 보전",
-      "url": "https://n.news.naver.com/mnews/article/009/0005744683"
+      "title": "맥코믹 美상원의원, 한화오션 거제사업장 방문…조선협력 논의",
+      "url": "https://n.news.naver.com/mnews/article/001/0016364702"
     },
     {
-      "title": "① '램프' 매각 달라진 기업가치, 거버넌스 영향은[현대모비스 재편 셈법]",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091255"
+      "title": "SK에너지-현대오일뱅크, 중동전 직후 석유가격 담합 혐의",
+      "url": "https://n.news.naver.com/mnews/article/020/0003753325"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6912.4,
-      "change": -28.99,
-      "change_pct": -0.42
+      "value": 6773.47,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 913.52,
+      "value": 889.82,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27599.89,
-      "change": 122.58,
-      "change_pct": 0.45
+      "value": 27538.69,
+      "change": -61.1,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1338.99,
-      "change": -4.76,
-      "change_pct": -0.35
+      "value": 1337.78,
+      "change": -1.96,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4190.3,
-    "price_krw": 5610769,
-    "change": 33.5,
-    "change_pct": 0.81
+    "price_usd": 4130.0,
+    "price_krw": 5525031,
+    "change": -57.1,
+    "change_pct": -1.36
   },
-  "updated": "2026-10-07 09:33",
+  "updated": "2026-10-08 09:54",
   "error": null
 }
