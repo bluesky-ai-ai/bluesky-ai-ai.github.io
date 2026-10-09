@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한국거래소, '시총미달' 상폐절차 잠정 유예",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268446"
+      "title": "배스킨라빈스 이어 도미노피자도 수년 만에 가격 인상",
+      "url": "https://n.news.naver.com/mnews/article/469/0000958436"
     },
     {
-      "title": "HD현대, 사장단 인사 단행...조선 총괄에 이상균 부회장",
-      "url": "https://n.news.naver.com/mnews/article/014/0005586045"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000913696"
     },
     {
-      "title": "“연봉 8천인데 성과급 7.5억 나옵니다”…삼전 과장, 퇴근길 어깨편다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005745394"
+      "title": "日 수소차 시장 뚫은 현대차 … ‘넥쏘’에 까다로운 일본 택시가 반했다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005745947"
     },
     {
-      "title": "“GV90 네오룬, 레드카펫에”…제네시스, 부산국제영화제 10년째 후원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005745039"
+      "title": "[속보] 정부, 상속·고령농·임대차 농지 등은 전수조사 처분서 제외",
+      "url": "https://n.news.naver.com/mnews/article/082/0001401673"
     },
     {
-      "title": "'숙취 없는 술'이 돌아왔다…롯데칠성, 양주 '캪틴큐' 재출시",
-      "url": "https://n.news.naver.com/mnews/article/648/0000051423"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000514699"
     },
     {
-      "title": "“15년 밀린 돈 다 내겠다”… 4000억 체납왕 오명 벗기 나선 ‘선박왕’[오늘의 DT인]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003051967"
+      "title": "공정위 담합 심의에… SK에너지 \"공정거래 내부 통제 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000958455"
     },
     {
-      "title": "신한은행 해킹 피해에 집단소송 시동…1인당 최대 30만원 검토",
-      "url": "https://n.news.naver.com/mnews/article/119/0003140162"
+      "title": "[속보]LG엔솔 3분기 영업익 7560억…전년比  25.7%↑",
+      "url": "https://n.news.naver.com/mnews/article/018/0006383336"
     },
     {
-      "title": "'금융권 해킹범' 신원 단서 찾았다…중국 광둥성 26세 추정",
-      "url": "https://n.news.naver.com/mnews/article/437/0000514645"
+      "title": "쿠팡·쿠팡이츠, 한글날 새벽 한때 서비스 장애…\"현재 정상화\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002440366"
     },
     {
-      "title": "맥코믹 美상원의원, 한화오션 거제사업장 방문…조선협력 논의",
-      "url": "https://n.news.naver.com/mnews/article/001/0016364702"
+      "title": "‘메이드 인 삼성’ 빅테크 첫 영업익 107조",
+      "url": "https://n.news.naver.com/mnews/article/081/0003687396"
     },
     {
-      "title": "SK에너지-현대오일뱅크, 중동전 직후 석유가격 담합 혐의",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753325"
+      "title": "이억원 금융위원장 “단일종목 레버리지 도입으로 국민 심려 끼쳐 죄송”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196893"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6773.47,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 889.82,
+      "value": 898.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27538.69,
-      "change": -61.1,
-      "change_pct": -0.22
+      "value": 27193.34,
+      "change": -345.35,
+      "change_pct": -1.25
     },
     "usdkrw": {
-      "value": 1337.78,
-      "change": -1.96,
-      "change_pct": -0.15
+      "value": 1344.24,
+      "change": 5.16,
+      "change_pct": 0.39
     }
   },
   "gold": {
-    "price_usd": 4130.0,
-    "price_krw": 5525031,
-    "change": -57.1,
-    "change_pct": -1.36
+    "price_usd": 4169.5,
+    "price_krw": 5604808,
+    "change": 28.8,
+    "change_pct": 0.7
   },
-  "updated": "2026-10-08 09:54",
+  "updated": "2026-10-09 10:08",
   "error": null
 }
