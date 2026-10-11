@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "6년만에 확 바뀐 투싼 \"출력·연비 다 잡았다\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746426"
+      "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016367992"
     },
     {
-      "title": "최태원, 호남 반도체부지 첫 방문…\"가장 빠른 속도로 짓겠다\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367827"
+      "title": "\"20억 싸게\" 이웃 눈치 보며 집 내놨는데...안 팔리는 강남 아파트",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424381"
+    },
+    {
+      "title": "정부 농지 전수조사에 켜진 '거래 불능' 경고등",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139702"
+    },
+    {
+      "title": "\"매달 700만원 내라\" 집주인 말에 멘붕...'다 올랐다' 사상 초유 임대차 시장[부동산 아토즈]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587197"
+    },
+    {
+      "title": "\"어차피 아파트 당첨돼도 수십억 못내요\" 요즘 20·30대, 청약통장 깨서 '여기' 투자한다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587165"
+    },
+    {
+      "title": "‘탱크데이’ 여파 끝? 스타벅스, 논란 5개월 만에 1위 탈환했다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003556970"
+    },
+    {
+      "title": "한국 금융권 해킹에 사용된 중국 AI '아르텍스', 공개 개발 중단",
+      "url": "https://n.news.naver.com/mnews/article/057/0001972705"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416632"
+      "url": "https://n.news.naver.com/mnews/article/437/0000515044"
     },
     {
-      "title": "금융위 \"부실기업 퇴출 변함 없어…법원 판단 따라 절차 보완\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014243770"
+      "title": "고금리에 금값 올들어 27% 하락…\"이때다\" 골드바 수요 3배 증가",
+      "url": "https://n.news.naver.com/mnews/article/421/0009219538"
     },
     {
-      "title": "이 대통령, 국세청장 공개 칭찬… \"이런 공직자들이 나라발전 기여\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000914072"
-    },
-    {
-      "title": "반도체 호황에 8월 경상흑자 역대 2위 461억달러",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753855"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001394166"
-    },
-    {
-      "title": "2차전지 ETF, 수익률 ‘싹쓸이’…‘청개구리’ 개미, ‘인버스’ 낭패",
-      "url": "https://n.news.naver.com/mnews/article/029/0003052193"
-    },
-    {
-      "title": "블룸버그 \"오픈AI, 올 연말엔 연 환산 매출 700억달러 달성\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340940"
-    },
-    {
-      "title": "관광객 늘자 쇼핑도 활짝…유통업계 3분기 '기대감'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424295"
+      "title": "\"벌어도 96%는 생활비로\"…부자는 절반 가까이 남겼다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826661"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:40",
+  "updated": "2026-10-11 09:10",
   "error": null
 }
