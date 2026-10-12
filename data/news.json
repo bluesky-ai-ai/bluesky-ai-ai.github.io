@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "은행권 금리 경쟁…1년만기 예금 3%대 후반으로 속속 인상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367992"
+      "title": "김승연 “불굴의 도전정신으로 200년 한화 준비”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001877952"
     },
     {
-      "title": "\"20억 싸게\" 이웃 눈치 보며 집 내놨는데...안 팔리는 강남 아파트",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424381"
+      "title": "롯데온, 12일부터 ‘30주년 온세상 쇼핑 페스타’… 최대 20% 할인",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197174"
     },
     {
-      "title": "정부 농지 전수조사에 켜진 '거래 불능' 경고등",
-      "url": "https://n.news.naver.com/mnews/article/586/0000139702"
+      "title": "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003248"
     },
     {
-      "title": "\"매달 700만원 내라\" 집주인 말에 멘붕...'다 올랐다' 사상 초유 임대차 시장[부동산 아토즈]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587197"
+      "title": "日 기린 맥주 한국서 만든다…하이트진로, 아시아 최초 라이선스 생산",
+      "url": "https://n.news.naver.com/mnews/article/011/0004670157"
     },
     {
-      "title": "\"어차피 아파트 당첨돼도 수십억 못내요\" 요즘 20·30대, 청약통장 깨서 '여기' 투자한다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587165"
+      "title": "세번 고배 마신 HLB 간암 신약, 이번엔 FDA 넘나",
+      "url": "https://n.news.naver.com/mnews/article/417/0001160569"
     },
     {
-      "title": "‘탱크데이’ 여파 끝? 스타벅스, 논란 5개월 만에 1위 탈환했다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556970"
+      "title": "‘포스트 HBM’ 부상한 로봇용 D램…삼전닉스·마이크론, 휴머노이드 메모리 주목",
+      "url": "https://n.news.naver.com/mnews/article/081/0003687788"
     },
     {
-      "title": "한국 금융권 해킹에 사용된 중국 AI '아르텍스', 공개 개발 중단",
-      "url": "https://n.news.naver.com/mnews/article/057/0001972705"
+      "title": "한은·국책은행도 해킹 시도 매년 증가…올해만 102만건 넘어[2026국감]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826909"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000515044"
+      "title": "\"내 농지도 투기 대상?\"…농지 전수조사 상담센터 12일부터 운영",
+      "url": "https://n.news.naver.com/mnews/article/003/0014244920"
     },
     {
-      "title": "고금리에 금값 올들어 27% 하락…\"이때다\" 골드바 수요 3배 증가",
-      "url": "https://n.news.naver.com/mnews/article/421/0009219538"
+      "title": "'좀비 추심' 제동…밀린 빚 '소멸시효' 완성해야 금융사 세제 혜택",
+      "url": "https://n.news.naver.com/mnews/article/421/0009220959"
     },
     {
-      "title": "\"벌어도 96%는 생활비로\"…부자는 절반 가까이 남겼다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005826661"
+      "title": "위조지폐 4억7664만원어치 한은으로…전년 금액의 100배 넘어",
+      "url": "https://n.news.naver.com/mnews/article/025/0003557181"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6625.93,
-      "change": -177.97,
-      "change_pct": -2.62
+      "value": 6562.33,
+      "change": -63.6,
+      "change_pct": -0.96
     },
     "kosdaq": {
-      "value": 892.27,
-      "change": -6.16,
-      "change_pct": -0.69
+      "value": 886.49,
+      "change": -5.78,
+      "change_pct": -0.65
     },
     "nasdaq": {
       "value": 27366.17,
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.9,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1338.82,
+      "change": -4.17,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5653636,
-    "change": 59.3,
-    "change_pct": 1.43
+    "price_usd": 4228.8,
+    "price_krw": 5661601,
+    "change": 12.5,
+    "change_pct": 0.3
   },
-  "updated": "2026-10-11 09:10",
+  "updated": "2026-10-12 09:24",
   "error": null
 }
