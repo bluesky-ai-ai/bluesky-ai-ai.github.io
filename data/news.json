@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "렉서스 ES, 25년 만에 첫 전기차…‘ES 350e’ 7160만원부터",
-      "url": "https://n.news.naver.com/mnews/article/032/0003475908"
+      "title": "CPI 부담 못 이기고 하락 마감…나스닥 1.9% ↓[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005828638"
     },
     {
-      "title": "국세청장 \"李대통령 분당 아파트 매도 거래, 과세 대상 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342202"
+      "title": "공사비 검증 안 한 정비사업장 138곳…16개 조합 특별점검",
+      "url": "https://n.news.naver.com/mnews/article/656/0000189505"
     },
     {
-      "title": "[단독] 신한금융, 롯데손보 인수…리딩금융 '마지막 퍼즐' 완성",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342107"
+      "title": "점검 또 점검해도 기본 보안 ‘미흡’…금융권 해킹 16개사로 확산",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387962"
     },
     {
-      "title": "K-뷰티 키운다…AI 맞춤형 화장품·외국인 의료관광 지원 확대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009225974"
+      "title": "36년 철강맨의 조언 \"탄소 없는 철 표준, 포스코가 선점해야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006388142"
     },
     {
-      "title": "금융위원장, 내년 하반기 세종 이전에 ‘긴급 간부회의’…“TF 구성해 고충 수렴”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012272739"
+      "title": "“HBM만으론 부족”…AI 메모리 경쟁, ‘계층’으로 간다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003557847"
     },
     {
-      "title": "푸조 CEO \"중국 둥펑과 신차 생산\"…한국 출시 가능성 시사",
-      "url": "https://n.news.naver.com/mnews/article/001/0016374708"
+      "title": "현대차그룹, 인도에 7년간 21조 투자…연 150만대 생산 시동",
+      "url": "https://n.news.naver.com/mnews/article/081/0003688982"
     },
     {
-      "title": "스트래티지, 비트코인 250개 또 샀다…84만8250개 보유 [크립토브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005588806"
+      "title": "노란봉투법 7개월, 기업 40% 노동위 판정 불신",
+      "url": "https://n.news.naver.com/mnews/article/082/0001402450"
     },
     {
-      "title": "식약처장 “미프진, 부작용 피해 구제할 수 있어야”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012272707"
+      "title": "‘재계 저승사자’ 1호 사건…대상·오뚜기·CJ제일제당 ‘가격 담합’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003476334"
     },
     {
-      "title": "“KTX·SRT 통합 졸속 추진” vs “통합 후 이용객 12% 늘어” [2026 국정감사]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004166387"
+      "title": "ASML \"2028년까지 수요 충족 못 해…추가 증설 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001395445"
     },
     {
-      "title": "中반도체 공세에 흔들린 월가…호실적 은행들도 하락[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006387458"
+      "title": "국산 비만약 '에페', 마운자로 반값…첫 달 공급가 13만원 전망",
+      "url": "https://n.news.naver.com/mnews/article/015/0005342654"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27204.38,
-      "change": -41.52,
-      "change_pct": -0.15
+      "value": 26692.87,
+      "change": -511.51,
+      "change_pct": -1.88
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": 3.85,
-      "change_pct": 0.29
+      "value": 1339.97,
+      "change": -0.34,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4179.6,
-    "price_krw": 5592221,
-    "change": -11.0,
-    "change_pct": -0.26
+    "price_usd": 4123.1,
+    "price_krw": 5524830,
+    "change": -54.2,
+    "change_pct": -1.3
   },
-  "updated": "2026-10-14 09:13",
+  "updated": "2026-10-15 08:49",
   "error": null
 }
