@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "원안위, 노후 원전 4기 사고관리계획서 승인… 고리 3·4호기 계속운전은 결론 못 내",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198187"
+      "title": "이재용, 중동 9개국 파견 임직원에 격려 선물…“책임감에 감사”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879147"
     },
     {
-      "title": "李대통령 \"브라질산 계란 수입비 16억 원… 800억 원 낭비 주장과 달라\"",
-      "url": "https://n.news.naver.com/mnews/article/656/0000189622"
+      "title": "국제선 유류할증료 3개월 연속 상승… 인천~뉴욕 왕복 81만원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198481"
     },
     {
-      "title": "GS25 '식물원김밥' 협업 신제품 출시…이달 김밥 매출 36.2%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016380402"
+      "title": "마사회장 \"과천경마장 6년 내 이전 어려워…이전비용 보전 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000916389"
     },
     {
-      "title": "한국 진출 20년 벤틀리, 첫 전기차 토르칼 공개…아시아 최초",
-      "url": "https://n.news.naver.com/mnews/article/001/0016379785"
+      "title": "석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
+      "url": "https://n.news.naver.com/mnews/article/001/0016382109"
     },
     {
-      "title": "‘반도체 머니’에 동탄·영통 등 경기 남부권 ‘불장’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004671575"
+      "title": "산업부 차관 박동일, 금융위 부위원장에 신진창",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755615"
     },
     {
-      "title": "[속보] 한·일 재무, 100억 달러 규모 통화 스와프 3년 연장 합의",
-      "url": "https://n.news.naver.com/mnews/article/052/0002419241"
+      "title": "한국투자증권, 베슬AI와 GPU 파이낸싱 협약…AI 인프라 금융 지원 확대",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590155"
     },
     {
-      "title": "코스피·코스닥 연달아 '서킷브레이커 발동'‥20분 거래 중단",
-      "url": "https://n.news.naver.com/mnews/article/214/0001529234"
+      "title": "흑자 확대 꼬투리 잡힐라…이형일 \"글로벌 불균형, 구조개혁으로 풀어야\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829504"
     },
     {
-      "title": "대구 취업자 수 6개월 연속 증가…건설·제조 고용 부진 장기화",
-      "url": "https://n.news.naver.com/mnews/article/421/0009231192"
+      "title": "코스피 8거래일 만에 반등해 2% 상승 마감…코스닥 4%대↑",
+      "url": "https://n.news.naver.com/mnews/article/079/0004199623"
     },
     {
-      "title": "코스피 7.57% 급락한 5554.22로 마감…5개월만에 최저치",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755255"
+      "title": "9월 취업 11.3만…제조업 감소 끊었지만 청년 취업난 여전",
+      "url": "https://n.news.naver.com/mnews/article/079/0004199415"
     },
     {
-      "title": "“한·미 전략투자, 이젠 기업의 시간… 친시장환경 조성을”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002825355"
+      "title": "두산에너빌, 박상현 CFO 부회장 승진…신임 COO에 송용진 사장",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829649"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6008.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 823.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08
+      "value": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1340.27,
-      "change": 0.92,
-      "change_pct": 0.07
+      "value": 1334.2,
+      "change": -6.75,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4183.3,
-    "price_krw": 5606751,
-    "change": 75.4,
-    "change_pct": 1.84
+    "price_usd": 4186.7,
+    "price_krw": 5585895,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-16 08:37",
+  "updated": "2026-10-17 08:25",
   "error": null
 }
