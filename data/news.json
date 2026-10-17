@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "이재용, 중동 9개국 파견 임직원에 격려 선물…“책임감에 감사”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001879147"
+      "title": "\"제니와 사진 찍고 PB 장보고\"…주말 쇼핑 행사 풍성[위클리 쇼핑]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014259371"
     },
     {
-      "title": "국제선 유류할증료 3개월 연속 상승… 인천~뉴욕 왕복 81만원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198481"
+      "title": "기준금리 3연속 인상할까…생산자 물가도 발표[다음주 경제]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016382543"
     },
     {
-      "title": "마사회장 \"과천경마장 6년 내 이전 어려워…이전비용 보전 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000916389"
+      "title": "“취업자 늘었다는데, 우리 애는 왜 방에만 있죠”…20대는 17만명 줄었다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749874"
     },
     {
-      "title": "석유 최고가격 다시 동결…100달러대 고유가에도 물가 고려",
-      "url": "https://n.news.naver.com/mnews/article/001/0016382109"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001269454"
     },
     {
-      "title": "산업부 차관 박동일, 금융위 부위원장에 신진창",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755615"
+      "title": "법원, 삼성바이오 9개 공정 ‘쟁의행위 금지’…노조 2차 파업에 제동",
+      "url": "https://n.news.naver.com/mnews/article/016/0002710510"
     },
     {
-      "title": "한국투자증권, 베슬AI와 GPU 파이낸싱 협약…AI 인프라 금융 지원 확대",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590155"
+      "title": "석유+가스공사 통합, 발전 5사 하나로…에너지공기업 통폐합 국감 쟁점",
+      "url": "https://n.news.naver.com/mnews/article/008/0005427796"
     },
     {
-      "title": "흑자 확대 꼬투리 잡힐라…이형일 \"글로벌 불균형, 구조개혁으로 풀어야\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829504"
+      "title": "[단독] 제주공항 한밤중 '아수라장'…무더기 지연·도착지도 변경",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749868"
     },
     {
-      "title": "코스피 8거래일 만에 반등해 2% 상승 마감…코스닥 4%대↑",
-      "url": "https://n.news.naver.com/mnews/article/079/0004199623"
+      "title": "신현송 총재 “한은 금융망 국제화 추진…내년 ‘거액결제 시스템’ 가동”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053564"
     },
     {
-      "title": "9월 취업 11.3만…제조업 감소 끊었지만 청년 취업난 여전",
-      "url": "https://n.news.naver.com/mnews/article/079/0004199415"
+      "title": "이통3사 영업익 '5조원 시대' 열릴까…3분기 추정치 무려",
+      "url": "https://n.news.naver.com/mnews/article/215/0001269483"
     },
     {
-      "title": "두산에너빌, 박상현 CFO 부회장 승진…신임 COO에 송용진 사장",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829649"
+      "title": "“중국산은 찜찜하고, 김장은 비싸고”…밥상 점령한 ‘국산 포장김치’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053581"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5668.05,
+      "change": 113.83,
+      "change_pct": 2.05
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 794.78,
+      "change": 33.96,
+      "change_pct": 4.46
     },
     "nasdaq": {
       "value": 26140.03,
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1334.2,
-      "change": -6.75,
-      "change_pct": -0.5
+      "value": 1329.6,
+      "change": -11.35,
+      "change_pct": -0.85
     }
   },
   "gold": {
-    "price_usd": 4186.7,
-    "price_krw": 5585895,
-    "change": 16.6,
-    "change_pct": 0.4
+    "price_usd": 4181.1,
+    "price_krw": 5559190,
+    "change": 11.0,
+    "change_pct": 0.26
   },
-  "updated": "2026-10-17 08:25",
+  "updated": "2026-10-18 07:59",
   "error": null
 }
