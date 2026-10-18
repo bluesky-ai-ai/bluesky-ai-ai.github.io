@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"제니와 사진 찍고 PB 장보고\"…주말 쇼핑 행사 풍성[위클리 쇼핑]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014259371"
+      "title": "삼성바이오 노조위원장이 우리사주조합장 겸직...유증 연기 요구에 이해충돌 논란",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198693"
     },
     {
-      "title": "기준금리 3연속 인상할까…생산자 물가도 발표[다음주 경제]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016382543"
+      "title": "할리스 멤버십 해킹…회원 비밀번호·연락처 등 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/056/0012275900"
     },
     {
-      "title": "“취업자 늘었다는데, 우리 애는 왜 방에만 있죠”…20대는 17만명 줄었다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749874"
+      "title": "금리 고민 커진 한은…'10월 동결, 11월 인상' 힘실린다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005590770"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001269454"
+      "title": "한우 반값·패션 70% 할인…신세계·쿠팡, 가을 쇼핑 할인전 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/022/0004167499"
     },
     {
-      "title": "법원, 삼성바이오 9개 공정 ‘쟁의행위 금지’…노조 2차 파업에 제동",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710510"
+      "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001396329"
     },
     {
-      "title": "석유+가스공사 통합, 발전 5사 하나로…에너지공기업 통폐합 국감 쟁점",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427796"
+      "title": "메모리 호황 변곡점은 2028년?… 중국 램 증산에 韓 주도권 흔들릴까",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960116"
     },
     {
-      "title": "[단독] 제주공항 한밤중 '아수라장'…무더기 지연·도착지도 변경",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749868"
+      "title": "이형일 \"지속가능한 성장 위해 양극화 완화 필요\"…AI 협력 강조",
+      "url": "https://n.news.naver.com/mnews/article/421/0009234242"
     },
     {
-      "title": "신현송 총재 “한은 금융망 국제화 추진…내년 ‘거액결제 시스템’ 가동”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053564"
+      "title": "‘날아다니는 스포츠카’ 공개한 테슬라, 스페이스X와 합병 기대감 ‘쑥’",
+      "url": "https://n.news.naver.com/mnews/article/024/0000108999"
     },
     {
-      "title": "이통3사 영업익 '5조원 시대' 열릴까…3분기 추정치 무려",
-      "url": "https://n.news.naver.com/mnews/article/215/0001269483"
+      "title": "삼성전자, 내년 임단협에 DS·DX 부문 벌써 ‘노노 갈등’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672545"
     },
     {
-      "title": "“중국산은 찜찜하고, 김장은 비싸고”…밥상 점령한 ‘국산 포장김치’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053581"
+      "title": "대미 무역흑자 1000억불 눈앞⋯‘트럼프 투자 청구서’ 더 거세지나",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755729"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1329.6,
-      "change": -11.35,
-      "change_pct": -0.85
+      "value": 1334.22,
+      "change": -6.73,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4181.1,
-    "price_krw": 5559190,
-    "change": 11.0,
-    "change_pct": 0.26
+    "price_usd": 4197.7,
+    "price_krw": 5600655,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-18 07:59",
+  "updated": "2026-10-19 07:57",
   "error": null
 }
