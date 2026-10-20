@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성바이오 노조위원장이 우리사주조합장 겸직...유증 연기 요구에 이해충돌 논란",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198693"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/657/0000056463"
     },
     {
-      "title": "할리스 멤버십 해킹…회원 비밀번호·연락처 등 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/056/0012275900"
+      "title": "레버리지 ETF '변칙·졸속' 지적에…이찬진 \"일정 맞추려고\"[2026 국감]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005830325"
     },
     {
-      "title": "금리 고민 커진 한은…'10월 동결, 11월 인상' 힘실린다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590770"
+      "title": "영업익 줄어든 현대로템, 현대위아 방산 인수로 '지상무기 수직계열화' 승부수",
+      "url": "https://n.news.naver.com/mnews/article/119/0003144366"
     },
     {
-      "title": "한우 반값·패션 70% 할인…신세계·쿠팡, 가을 쇼핑 할인전 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/022/0004167499"
+      "title": "중기중앙회, AI 시대 성장 전략 모색 '중소기업 리더스포럼' 개최",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960270"
     },
     {
-      "title": "\"수협서 금융사고 잇따라…사고 규모 갈수록 대형화\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396329"
+      "title": "청년 하루 여가시간, 싱글이 유자녀 기혼보다 1시간30분 더 많아",
+      "url": "https://n.news.naver.com/mnews/article/028/0002828045"
     },
     {
-      "title": "메모리 호황 변곡점은 2028년?… 중국 램 증산에 韓 주도권 흔들릴까",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960116"
+      "title": "LG, 한달간 全계열사 사업계획 점검",
+      "url": "https://n.news.naver.com/mnews/article/014/0005591417"
     },
     {
-      "title": "이형일 \"지속가능한 성장 위해 양극화 완화 필요\"…AI 협력 강조",
-      "url": "https://n.news.naver.com/mnews/article/421/0009234242"
+      "title": "이 대통령 \"베트남 정상외교가 우리 기업 어려움 해결로\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002420821"
     },
     {
-      "title": "‘날아다니는 스포츠카’ 공개한 테슬라, 스페이스X와 합병 기대감 ‘쑥’",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108999"
+      "title": "동해 망상1지구, 13년 만에 개발 속도 낸다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344039"
     },
     {
-      "title": "삼성전자, 내년 임단협에 DS·DX 부문 벌써 ‘노노 갈등’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672545"
+      "title": "반도체주 반등에 한숨 돌렸다…'AI 빚투' 우려는 지속[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005428699"
     },
     {
-      "title": "대미 무역흑자 1000억불 눈앞⋯‘트럼프 투자 청구서’ 더 거세지나",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755729"
+      "title": "삼성전기, 대규모 기판 수주에 '공급자 우위' 확인…\"가격 인상 더 커진다\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391884"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5668.05,
-      "change": 113.83,
-      "change_pct": 2.05
+      "value": 5768.01,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 794.78,
-      "change": 33.96,
-      "change_pct": 4.46
+      "value": 808.89,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26140.03,
-      "change": -573.0,
-      "change_pct": -2.15
+      "value": 26430.89,
+      "change": 290.86,
+      "change_pct": 1.11
     },
     "usdkrw": {
-      "value": 1334.22,
-      "change": -6.73,
-      "change_pct": -0.5
+      "value": 1327.58,
+      "change": -5.85,
+      "change_pct": -0.44
     }
   },
   "gold": {
-    "price_usd": 4197.7,
-    "price_krw": 5600655,
-    "change": 16.6,
-    "change_pct": 0.4
+    "price_usd": 4156.4,
+    "price_krw": 5517953,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-19 07:57",
+  "updated": "2026-10-20 09:11",
   "error": null
 }
