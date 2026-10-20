@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/657/0000056463"
+      "title": "매운맛보다 무서운 건 따로 있었다…닭발·막창 한 팩의 '반전'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344409"
     },
     {
-      "title": "레버리지 ETF '변칙·졸속' 지적에…이찬진 \"일정 맞추려고\"[2026 국감]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005830325"
+      "title": "HD현대·HMM, '친환경 컨테이너선' 동맹 지속…\"고부가 선박·해운 경쟁력 대폭 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014265428"
     },
     {
-      "title": "영업익 줄어든 현대로템, 현대위아 방산 인수로 '지상무기 수직계열화' 승부수",
-      "url": "https://n.news.naver.com/mnews/article/119/0003144366"
+      "title": "삼성에피스, 희귀질환약 브라질 공급",
+      "url": "https://n.news.naver.com/mnews/article/009/0005751324"
     },
     {
-      "title": "중기중앙회, AI 시대 성장 전략 모색 '중소기업 리더스포럼' 개최",
-      "url": "https://n.news.naver.com/mnews/article/469/0000960270"
+      "title": "김기문 “AI 3대 강국 도약, 중소기업도 함께해야”…리더스포럼 개막",
+      "url": "https://n.news.naver.com/mnews/article/016/0002711912"
     },
     {
-      "title": "청년 하루 여가시간, 싱글이 유자녀 기혼보다 1시간30분 더 많아",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828045"
+      "title": "중앙일보 인수 우선협상대상자에 다우키움·CJ 컨소시엄",
+      "url": "https://n.news.naver.com/mnews/article/092/0002441554"
     },
     {
-      "title": "LG, 한달간 全계열사 사업계획 점검",
-      "url": "https://n.news.naver.com/mnews/article/014/0005591417"
+      "title": "이억원 \"주담대 한도 추가 축소 사실무근…허위사실 유포 수사의뢰\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005831148"
     },
     {
-      "title": "이 대통령 \"베트남 정상외교가 우리 기업 어려움 해결로\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002420821"
+      "title": "국민연금, 자사주 의결권 기준 강화…주주가치 따져 찬성키로",
+      "url": "https://n.news.naver.com/mnews/article/001/0016389584"
     },
     {
-      "title": "동해 망상1지구, 13년 만에 개발 속도 낸다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005344039"
+      "title": "원-달러 환율 장중 1325원대 하락, 2년여만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/020/0003756295"
     },
     {
-      "title": "반도체주 반등에 한숨 돌렸다…'AI 빚투' 우려는 지속[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005428699"
+      "title": "“한국 AI기업, 참담한 증시 데뷔”… ‘엘리스 폭락’ 외신 조명",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879933"
     },
     {
-      "title": "삼성전기, 대규모 기판 수주에 '공급자 우위' 확인…\"가격 인상 더 커진다\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006391884"
+      "title": "‘2차 모두의 창업’ 막 올랐다…1만명 창업 도전",
+      "url": "https://n.news.naver.com/mnews/article/016/0002711863"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26430.89,
-      "change": 290.86,
-      "change_pct": 1.11
+      "value": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02
     },
     "usdkrw": {
-      "value": 1327.58,
-      "change": -5.85,
-      "change_pct": -0.44
+      "value": 1325.44,
+      "change": -4.56,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4156.4,
-    "price_krw": 5517953,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4135.8,
+    "price_krw": 5481754,
+    "change": -24.3,
+    "change_pct": -0.58
   },
-  "updated": "2026-10-20 09:11",
+  "updated": "2026-10-21 08:45",
   "error": null
 }

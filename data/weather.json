@@ -1,11 +1,11 @@
 {
-  "temp": 12.7,
-  "condition": "12.7°",
-  "high": 22.0,
-  "low": 11.0,
-  "humidity": 79,
-  "wind": "2m/s",
+  "temp": 14.3,
+  "condition": "14.3°",
+  "high": 16.0,
+  "low": 13.0,
+  "humidity": 82,
+  "wind": "3.6m/s",
   "city": "서울",
-  "updated": "2026-10-20 09:11",
+  "updated": "2026-10-21 08:45",
   "error": null
 }
