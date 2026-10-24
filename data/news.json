@@ -2,55 +2,55 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002422591"
+      "url": "https://n.news.naver.com/mnews/article/449/0000365154"
     },
     {
-      "title": "박홍근 “안정적 소방 예산 확보 고민…내년 예산 반영 검토”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005578"
+      "title": "대한항공 이어 아시아나도 고객정보 유출…\"협력사 해킹 피해\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247253"
     },
     {
-      "title": "SK하이닉스, 솔리다임 美 상장 검토 중단…\"기존 주주 이익 고려\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002442093"
+      "title": "한전, 사채한도 초과 위기…다시 고개드는 요금 인상론",
+      "url": "https://n.news.naver.com/mnews/article/422/0000918968"
     },
     {
-      "title": "하나금융, 3분기 누적 순익 3.6조…자사주 매입·소각도 '최대'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003146405"
+      "title": "“줄여야 산다”…먹거리부터 밥솥까지 ‘저당 열풍’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560221"
     },
     {
-      "title": "정용진 신세계그룹 회장, 13년 만에 이마트 대표이사 복귀",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270199"
+      "title": "“아들 신혼집 보러 왔어요”… 계양신도시 7억~8억원대 민간분양에 발길[르포]",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200082"
     },
     {
-      "title": "거래소, ‘동전주’ 상폐 절차 보류…“가처분 관련 법원 결정 대기”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002828934"
+      "title": "\"집값, 곧 폭락한다\"...LH 사장이 내비친 자신감",
+      "url": "https://n.news.naver.com/mnews/article/050/0000112334"
     },
     {
-      "title": "KB증권, 기업 대상 '퇴직연금 세미나' 개최",
-      "url": "https://n.news.naver.com/mnews/article/243/0000104637"
+      "title": "‘제조업 강국’ 독·일 합계마저 제쳤다…韓 2분기 경상흑자 세계 2위",
+      "url": "https://n.news.naver.com/mnews/article/123/0002392519"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000539536"
+      "url": "https://n.news.naver.com/mnews/article/052/0002423121"
     },
     {
-      "title": "박홍근 기획처 장관 “李 대통령, 초과세수 활용한 고금리 취약계층 지원책 마련 요청”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200009"
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398125"
     },
     {
-      "title": "GS칼텍스, DT Day…허태수 회장 \"처음부터 디지털 기반 업무 관점 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009245527"
+      "title": "'호미질'의 미학…파국을 막는 정공법",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/001/0016398444?type=series&cid=2003527"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 751.69,
+      "change": -12.41,
+      "change_pct": -1.62
     },
     "nasdaq": {
       "value": 25955.34,
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1323.66,
-      "change": -1.93,
-      "change_pct": -0.15
+      "value": 1325.4,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4010.0,
-    "price_krw": 5307876,
-    "change": -50.4,
-    "change_pct": -1.24
+    "price_usd": 4007.9,
+    "price_krw": 5312070,
+    "change": -52.5,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-24 08:48",
+  "updated": "2026-10-25 08:03",
   "error": null
 }
