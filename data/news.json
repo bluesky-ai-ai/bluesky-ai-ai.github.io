@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000365154"
+      "title": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398415"
     },
     {
-      "title": "대한항공 이어 아시아나도 고객정보 유출…\"협력사 해킹 피해\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009247253"
+      "title": "저PBR 기업 공개 앞두고… 62개社 개선안 제출",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005841"
     },
     {
-      "title": "한전, 사채한도 초과 위기…다시 고개드는 요금 인상론",
-      "url": "https://n.news.naver.com/mnews/article/422/0000918968"
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…공사비 1250억원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005431209"
     },
     {
-      "title": "“줄여야 산다”…먹거리부터 밥솥까지 ‘저당 열풍’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560221"
+      "title": "솔리다임 美 상장 검토 중단 SK하이닉스, '투자 재원' 확보 어떻게?",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247846"
     },
     {
-      "title": "“아들 신혼집 보러 왔어요”… 계양신도시 7억~8억원대 민간분양에 발길[르포]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200082"
+      "title": "이형일, 경제현안간담회서 ‘국내생산세액공제·3대 사회정책’ 논의",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674972"
     },
     {
-      "title": "\"집값, 곧 폭락한다\"...LH 사장이 내비친 자신감",
-      "url": "https://n.news.naver.com/mnews/article/050/0000112334"
+      "title": "청년 56.5% “기업 규모보다 임금·근무환경 중요”…中企 취업 기피 1순위는 조직문화",
+      "url": "https://n.news.naver.com/mnews/article/030/0003478332"
     },
     {
-      "title": "‘제조업 강국’ 독·일 합계마저 제쳤다…韓 2분기 경상흑자 세계 2위",
-      "url": "https://n.news.naver.com/mnews/article/123/0002392519"
+      "title": "이 대통령 \"한국 경상수지 흑자, 독일·일본 합계 추월…이제 선도국가\"",
+      "url": "https://n.news.naver.com/mnews/article/082/0001403978"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002423121"
+      "title": "\"건강하게 늙고 싶지만\"…10명 중 6명 관심, 실천은 3명뿐",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247968"
     },
     {
-      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398125"
+      "title": "“베트남 인재들 이리 오세요” 현지 채용 나선 롯데",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753562"
     },
     {
-      "title": "'호미질'의 미학…파국을 막는 정공법",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/001/0016398444?type=series&cid=2003527"
+      "title": "삼전닉스·美빅테크 실적 발표가 반등 변수 [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005594099"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1325.4,
-      "change": -0.59,
-      "change_pct": -0.04
+      "value": 1323.41,
+      "change": -2.58,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 4007.9,
-    "price_krw": 5312070,
-    "change": -52.5,
-    "change_pct": -1.29
+    "price_usd": 4014.3,
+    "price_krw": 5312564,
+    "change": 6.4,
+    "change_pct": 0.16
   },
-  "updated": "2026-10-25 08:03",
+  "updated": "2026-10-26 08:07",
   "error": null
 }
