@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "석유 최고가격제 장기화 딜레마…재정부담에 출구전략 고민",
-      "url": "https://n.news.naver.com/mnews/article/001/0016398415"
+      "title": "국민참여성장펀드 석달 수익률 0.5%…일부 자펀드 약 20% 손실도",
+      "url": "https://n.news.naver.com/mnews/article/001/0016401274"
     },
     {
-      "title": "저PBR 기업 공개 앞두고… 62개社 개선안 제출",
-      "url": "https://n.news.naver.com/mnews/article/023/0004005841"
+      "title": "3분기 경제성장률 1.0%…한은 전망치 3배 넘어",
+      "url": "https://n.news.naver.com/mnews/article/056/0012281369"
     },
     {
-      "title": "삼성물산, 반포푸르지오 리모델링 수주…공사비 1250억원",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431209"
+      "title": "반도체 호황인데 청년은 임시직으로…한은 ‘AI가 신입 일자리부터 줄였다’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560521"
     },
     {
-      "title": "솔리다임 美 상장 검토 중단 SK하이닉스, '투자 재원' 확보 어떻게?",
-      "url": "https://n.news.naver.com/mnews/article/421/0009247846"
+      "title": "국내 이주배경인구 281만명…총인구의 5.4%",
+      "url": "https://n.news.naver.com/mnews/article/088/0001036503"
     },
     {
-      "title": "이형일, 경제현안간담회서 ‘국내생산세액공제·3대 사회정책’ 논의",
-      "url": "https://n.news.naver.com/mnews/article/011/0004674972"
+      "title": "삼성SDI, 美 에너지기업에 1.5GWh ESS 공급⋯북미 시장 공략 가속",
+      "url": "https://n.news.naver.com/mnews/article/031/0001069130"
     },
     {
-      "title": "청년 56.5% “기업 규모보다 임금·근무환경 중요”…中企 취업 기피 1순위는 조직문화",
-      "url": "https://n.news.naver.com/mnews/article/030/0003478332"
+      "title": "미래에셋생명서 보험사 첫 해킹 유출‥금감원, 긴급 현장점검",
+      "url": "https://n.news.naver.com/mnews/article/214/0001531494"
     },
     {
-      "title": "이 대통령 \"한국 경상수지 흑자, 독일·일본 합계 추월…이제 선도국가\"",
-      "url": "https://n.news.naver.com/mnews/article/082/0001403978"
+      "title": "상하위 20% 집값 격차 290배 사상 최대",
+      "url": "https://n.news.naver.com/mnews/article/023/0004006048"
     },
     {
-      "title": "\"건강하게 늙고 싶지만\"…10명 중 6명 관심, 실천은 3명뿐",
-      "url": "https://n.news.naver.com/mnews/article/421/0009247968"
+      "title": "119명이라더니 2210명…KB국민은행 '정보유출' 피해 눈덩이",
+      "url": "https://n.news.naver.com/mnews/article/437/0000517575"
     },
     {
-      "title": "“베트남 인재들 이리 오세요” 현지 채용 나선 롯데",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753562"
+      "title": "금감원 불법대부계약 무효확인서 형사 무죄 판결에 첫 활용",
+      "url": "https://n.news.naver.com/mnews/article/056/0012281052"
     },
     {
-      "title": "삼전닉스·美빅테크 실적 발표가 반등 변수 [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005594099"
+      "title": "“물타기할 돈도 없다” 예탁금 90조원 붕괴, 거래대금도 연중 최저[투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002714042"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5550.3,
-      "change": 16.53,
-      "change_pct": 0.3
+      "value": 5469.47,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 751.69,
-      "change": -12.41,
-      "change_pct": -1.62
+      "value": 727.21,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25955.34,
-      "change": -53.52,
-      "change_pct": -0.21
+      "value": 26169.38,
+      "change": 214.04,
+      "change_pct": 0.82
     },
     "usdkrw": {
-      "value": 1323.41,
-      "change": -2.58,
-      "change_pct": -0.19
+      "value": 1323.25,
+      "change": 1.49,
+      "change_pct": 0.11
     }
   },
   "gold": {
-    "price_usd": 4014.3,
-    "price_krw": 5312564,
-    "change": 6.4,
-    "change_pct": 0.16
+    "price_usd": 4030.2,
+    "price_krw": 5332962,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-26 08:07",
+  "updated": "2026-10-27 09:19",
   "error": null
 }
