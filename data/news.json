@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "3분기 GDP 1% ‘깜짝 성장’ …연간 4%도 보인다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003478921"
+      "title": "최대 실적 낸 삼성전기, 목표가는 300만→200만원 하락한 이유가",
+      "url": "https://n.news.naver.com/mnews/article/009/0005755672"
     },
     {
-      "title": "고리 3·4호기 계속운전 허가…2034·2035년까지 가동 가능",
-      "url": "https://n.news.naver.com/mnews/article/421/0009253444"
+      "title": "8월 출생아 7년 만에 최대… 혼인은 전년比 1.2% 감소",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200882"
     },
     {
-      "title": "HD현대중 노조, 임단협 2차 잠정합의안 찬반투표…저녁께 결과 발표",
-      "url": "https://n.news.naver.com/mnews/article/082/0001404298"
+      "title": "AI 해킹에 全금융권 뚫렸다…전방위 공격에 당국 대응 '시험대'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014283904"
     },
     {
-      "title": "콜마 윤상현 부회장 “K뷰티 지속 성장? 100% 예스”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006178"
+      "title": "삼성물산, 3분기 영업익 1조1430억…건설이 끌고 패션·상사가 밀었다",
+      "url": "https://n.news.naver.com/mnews/article/050/0000112487"
     },
     {
-      "title": "삼성전자, 갤럭시 GOS 과징금에 \"이해 어려운 결정\"…소송 예고",
-      "url": "https://n.news.naver.com/mnews/article/031/0001069683"
+      "title": "LG화학, 엔솔 지분 2.5조 PRS 처분",
+      "url": "https://n.news.naver.com/mnews/article/009/0005755579"
     },
     {
-      "title": "“셀트리온, 신제품 매출 성장 가속화”…목표가↑",
-      "url": "https://n.news.naver.com/mnews/article/009/0005755053"
+      "title": "‘반값 비만약’ 국산 에페 본격 처방…마운자로·위고비 넘본다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002715829"
     },
     {
-      "title": "비트코인, 8만달러선 일시 붕괴…美 금리 결정 앞두고 출렁[코인브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009251632"
+      "title": "HD한국조선해양 3Q 영업익, 현대重·삼호 60%↑ 견인에 1.4조",
+      "url": "https://n.news.naver.com/mnews/article/014/0005595854"
     },
     {
-      "title": "“AI 시대에도 금융 경쟁력은 사람”…금융의 날, 청년채용·동반성장 포상 첫 신설",
-      "url": "https://n.news.naver.com/mnews/article/030/0003478982"
+      "title": "SK하이닉스, 3분기 영업익 83조·매출 104조",
+      "url": "https://n.news.naver.com/mnews/article/021/0002828487"
     },
     {
-      "title": "한화시스템 3Q 영업익 991억..전년 대비 60.5%↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005432372"
+      "title": "금융당국, 금융권 겨냥 북한발 IP 440만 건 확인",
+      "url": "https://n.news.naver.com/mnews/article/052/0002425005"
     },
     {
-      "title": "일본계 투자그룹 JYP 지분 인수 발표에 촉각…\"불공정거래 의심 땐 즉각 조사\"",
-      "url": "https://n.news.naver.com/mnews/article/654/0000207796"
+      "title": "퇴직급여 사외적립, 2030년까지 모든 사업장에 의무화",
+      "url": "https://n.news.naver.com/mnews/article/001/0016407685"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5763.4,
+      "value": 6074.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 765.32,
+      "value": 764.18,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26477.81,
-      "change": 308.43,
-      "change_pct": 1.18
+      "value": 26549.85,
+      "change": 72.04,
+      "change_pct": 0.27
     },
     "usdkrw": {
-      "value": 1328.78,
-      "change": 4.01,
-      "change_pct": 0.3
+      "value": 1335.98,
+      "change": 9.17,
+      "change_pct": 0.69
     }
   },
   "gold": {
-    "price_usd": 4081.0,
-    "price_krw": 5422751,
-    "change": 42.6,
-    "change_pct": 1.05
+    "price_usd": 4051.1,
+    "price_krw": 5412188,
+    "change": -23.5,
+    "change_pct": -0.58
   },
-  "updated": "2026-10-28 09:23",
+  "updated": "2026-10-29 09:44",
   "error": null
 }
