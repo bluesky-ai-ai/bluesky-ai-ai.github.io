@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "최대 실적 낸 삼성전기, 목표가는 300만→200만원 하락한 이유가",
-      "url": "https://n.news.naver.com/mnews/article/009/0005755672"
+      "title": "아모레퍼시픽, 국내 수익성 개선에 3분기 영업익 25%↑…목표가 18만원",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596889"
     },
     {
-      "title": "8월 출생아 7년 만에 최대… 혼인은 전년比 1.2% 감소",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200882"
+      "title": "국토장관 \"신규택지 서울 제외는 용산공원·탄천센터와 무관\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016410201"
     },
     {
-      "title": "AI 해킹에 全금융권 뚫렸다…전방위 공격에 당국 대응 '시험대'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014283904"
+      "title": "현대차, 3분기 매출 6년 만에 감소세 전환… 영업익은 5.5%↑",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201239"
     },
     {
-      "title": "삼성물산, 3분기 영업익 1조1430억…건설이 끌고 패션·상사가 밀었다",
-      "url": "https://n.news.naver.com/mnews/article/050/0000112487"
+      "title": "삼성전자 3분기 영업익 107.4조…현금배당 30조 푼다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561371"
     },
     {
-      "title": "LG화학, 엔솔 지분 2.5조 PRS 처분",
-      "url": "https://n.news.naver.com/mnews/article/009/0005755579"
+      "title": "삼성SDI, 3분기 영업익 4078억…전년比 흑자 전환",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201162"
     },
     {
-      "title": "‘반값 비만약’ 국산 에페 본격 처방…마운자로·위고비 넘본다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002715829"
+      "title": "크리스마스 손님맞이 나선 현대百…1980년대 뉴욕 거리로 변신",
+      "url": "https://n.news.naver.com/mnews/article/277/0005835614"
     },
     {
-      "title": "HD한국조선해양 3Q 영업익, 현대重·삼호 60%↑ 견인에 1.4조",
-      "url": "https://n.news.naver.com/mnews/article/014/0005595854"
+      "title": "목포 해상풍력 플랫폼센터 개관…해상풍력 산업 거점 마련",
+      "url": "https://n.news.naver.com/mnews/article/001/0016409378"
     },
     {
-      "title": "SK하이닉스, 3분기 영업익 83조·매출 104조",
-      "url": "https://n.news.naver.com/mnews/article/021/0002828487"
+      "title": "외국인, 9월 국내 주식 19조 팔았다…한 달 만에 순매도 전환",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596829"
     },
     {
-      "title": "금융당국, 금융권 겨냥 북한발 IP 440만 건 확인",
-      "url": "https://n.news.naver.com/mnews/article/052/0002425005"
+      "title": "미래에셋증권, 일본 산코증권 인수…미 자회사 통해 지분 100% 취득",
+      "url": "https://n.news.naver.com/mnews/article/028/0002829812"
     },
     {
-      "title": "퇴직급여 사외적립, 2030년까지 모든 사업장에 의무화",
-      "url": "https://n.news.naver.com/mnews/article/001/0016407685"
+      "title": "프라뱅 해킹에 가상자산 1억원 탈취…거래소 보안관리 도마",
+      "url": "https://n.news.naver.com/mnews/article/030/0003480353"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6074.43,
+      "value": 5723.63,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.18,
+      "value": 737.5,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26549.85,
-      "change": 72.04,
-      "change_pct": 0.27
+      "value": 26184.72,
+      "change": -365.12,
+      "change_pct": -1.38
     },
     "usdkrw": {
-      "value": 1335.98,
-      "change": 9.17,
-      "change_pct": 0.69
+      "value": 1338.29,
+      "change": -2.05,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4051.1,
-    "price_krw": 5412188,
-    "change": -23.5,
-    "change_pct": -0.58
+    "price_usd": 4020.8,
+    "price_krw": 5380996,
+    "change": -30.8,
+    "change_pct": -0.76
   },
-  "updated": "2026-10-29 09:44",
+  "updated": "2026-10-30 09:44",
   "error": null
 }
