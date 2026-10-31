@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "아모레퍼시픽, 국내 수익성 개선에 3분기 영업익 25%↑…목표가 18만원",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596889"
+      "title": "GS건설 아파트 입주민 개인정보 유출…“커뮤니티 예약 시스템 해킹”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012284346"
     },
     {
-      "title": "국토장관 \"신규택지 서울 제외는 용산공원·탄천센터와 무관\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016410201"
+      "title": "‘안정 속 쇄신’ SK, 곽노정 등 주요 CEO 유임 …SK이노에 정승일",
+      "url": "https://n.news.naver.com/mnews/article/023/0004006854"
     },
     {
-      "title": "현대차, 3분기 매출 6년 만에 감소세 전환… 영업익은 5.5%↑",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201239"
+      "title": "롯데렌탈 매각 마침표…롯데 1.3조 확보해 체질 개선 박차",
+      "url": "https://n.news.naver.com/mnews/article/586/0000141287"
     },
     {
-      "title": "삼성전자 3분기 영업익 107.4조…현금배당 30조 푼다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561371"
+      "title": "롯데 센텀마저 품는 신세계, 부산 '유통 독주' 우려",
+      "url": "https://n.news.naver.com/mnews/article/002/0002463542"
     },
     {
-      "title": "삼성SDI, 3분기 영업익 4078억…전년比 흑자 전환",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201162"
+      "title": "홍지선, '7만가구 공급' 발표 다음날 서울 재개발 현장 방문...공급 속도전",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596993"
     },
     {
-      "title": "크리스마스 손님맞이 나선 현대百…1980년대 뉴욕 거리로 변신",
-      "url": "https://n.news.naver.com/mnews/article/277/0005835614"
+      "title": "현대차그룹, 새만금 AI 데이터센터 건립 본격화...내달 SPC 2곳 출범",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596980"
     },
     {
-      "title": "목포 해상풍력 플랫폼센터 개관…해상풍력 산업 거점 마련",
-      "url": "https://n.news.naver.com/mnews/article/001/0016409378"
+      "title": "[속보] 9월 생산 3.0%·소비 3.6%·투자 5.3%↑...석 달 만에 '트리플 증가'",
+      "url": "https://n.news.naver.com/mnews/article/052/0002425885"
     },
     {
-      "title": "외국인, 9월 국내 주식 19조 팔았다…한 달 만에 순매도 전환",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596829"
+      "title": "현대제철, 3분기 영업익 871억원…전분기 대비 51% 증가",
+      "url": "https://n.news.naver.com/mnews/article/022/0004171137"
     },
     {
-      "title": "미래에셋증권, 일본 산코증권 인수…미 자회사 통해 지분 100% 취득",
-      "url": "https://n.news.naver.com/mnews/article/028/0002829812"
+      "title": "DL이앤씨, 3Q 누적 영업익 4241억원…지난해 연간 실적 넘어서",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716802"
     },
     {
-      "title": "프라뱅 해킹에 가상자산 1억원 탈취…거래소 보안관리 도마",
-      "url": "https://n.news.naver.com/mnews/article/030/0003480353"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012284567"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5723.63,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 737.5,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1338.29,
-      "change": -2.05,
-      "change_pct": -0.15
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4020.8,
-    "price_krw": 5380996,
-    "change": -30.8,
-    "change_pct": -0.76
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:44",
+  "updated": "2026-10-31 09:36",
   "error": null
 }
