@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "GS건설 아파트 입주민 개인정보 유출…“커뮤니티 예약 시스템 해킹”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284346"
+      "title": "서울 아파트 매물 8만건 턱밑…3개월 새 30%↑ 쏟아져",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836078"
     },
     {
-      "title": "‘안정 속 쇄신’ SK, 곽노정 등 주요 CEO 유임 …SK이노에 정승일",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006854"
+      "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1,800원대",
+      "url": "https://n.news.naver.com/mnews/article/422/0000921412"
     },
     {
-      "title": "롯데렌탈 매각 마침표…롯데 1.3조 확보해 체질 개선 박차",
-      "url": "https://n.news.naver.com/mnews/article/586/0000141287"
+      "title": "美 선거 앞두고 매크로 변동성 경계…밸류에이션 정상화 기대[주간증시전망]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014292406"
     },
     {
-      "title": "롯데 센텀마저 품는 신세계, 부산 '유통 독주' 우려",
-      "url": "https://n.news.naver.com/mnews/article/002/0002463542"
+      "title": "SK, 아끼던 티맵마저 내놨다… 중복상장 규제에 IPO 대신 M&A",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201714"
     },
     {
-      "title": "홍지선, '7만가구 공급' 발표 다음날 서울 재개발 현장 방문...공급 속도전",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596993"
+      "title": "\"집값 열차 놓쳤다\"던 김동현…100억 아파트 매입한 방법은",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400912"
     },
     {
-      "title": "현대차그룹, 새만금 AI 데이터센터 건립 본격화...내달 SPC 2곳 출범",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596980"
+      "title": "최태원·올트먼 서울서 오찬 회동…HBM·AI 데이터센터 협력 논의 주목",
+      "url": "https://n.news.naver.com/mnews/article/437/0000518501"
     },
     {
-      "title": "[속보] 9월 생산 3.0%·소비 3.6%·투자 5.3%↑...석 달 만에 '트리플 증가'",
-      "url": "https://n.news.naver.com/mnews/article/052/0002425885"
+      "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+      "url": "https://n.news.naver.com/mnews/article/009/0005756916"
     },
     {
-      "title": "현대제철, 3분기 영업익 871억원…전분기 대비 51% 증가",
-      "url": "https://n.news.naver.com/mnews/article/022/0004171137"
+      "title": "쌀 때 빌리자…환율 내리자 달러대출 ‘쑥‘",
+      "url": "https://n.news.naver.com/mnews/article/374/0000540972"
     },
     {
-      "title": "DL이앤씨, 3Q 누적 영업익 4241억원…지난해 연간 실적 넘어서",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716802"
+      "title": "정부, 2030 퇴직연금 의무화 시동…영세기업 부담·낮은 수익률 등 과제 산적",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717072"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284567"
+      "title": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016413531"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 724.38,
+      "change": -28.85,
+      "change_pct": -3.83
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -2.36,
-      "change_pct": -0.18
+      "value": 1335.1,
+      "change": -2.88,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3884.9,
-    "price_krw": 5197918,
-    "change": -146.5,
-    "change_pct": -3.63
+    "price_usd": 3898.9,
+    "price_krw": 5205421,
+    "change": -132.5,
+    "change_pct": -3.29
   },
-  "updated": "2026-10-31 09:36",
+  "updated": "2026-11-01 08:59",
   "error": null
 }
