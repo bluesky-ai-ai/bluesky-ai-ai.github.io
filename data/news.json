@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "서울 아파트 매물 8만건 턱밑…3개월 새 30%↑ 쏟아져",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836078"
+      "title": "한화, 美 해군 함정 만든다… 마스가 첫 수주 성과",
+      "url": "https://n.news.naver.com/mnews/article/014/0005597617"
     },
     {
-      "title": "주유소 기름값 24주 연속 하락…휘발유·경유 1,800원대",
-      "url": "https://n.news.naver.com/mnews/article/422/0000921412"
+      "title": "집값 뛰더니 월세까지…노원구 12.88% 급등[오늘 부동산]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003149876"
     },
     {
-      "title": "美 선거 앞두고 매크로 변동성 경계…밸류에이션 정상화 기대[주간증시전망]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014292406"
+      "title": "이번엔 日 패키징 연구소… 이재용 찾는 곳에 삼성 미래 전략 있다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001882200"
     },
     {
-      "title": "SK, 아끼던 티맵마저 내놨다… 중복상장 규제에 IPO 대신 M&A",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201714"
+      "title": "거래소, 저PBR기업 151사 첫 공표…유가증권 96사·코스닥 55사",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836264"
     },
     {
-      "title": "\"집값 열차 놓쳤다\"던 김동현…100억 아파트 매입한 방법은",
-      "url": "https://n.news.naver.com/mnews/article/018/0006400912"
+      "title": "신한증권, 현대건설 목표가↓…\"대미투자 원전 수익화 불확실성\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016414723"
     },
     {
-      "title": "최태원·올트먼 서울서 오찬 회동…HBM·AI 데이터센터 협력 논의 주목",
-      "url": "https://n.news.naver.com/mnews/article/437/0000518501"
+      "title": "퇴직연금 사외 적립 2030년 의무화…돈 없는 영세기업은 어떻게 하나",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717352"
     },
     {
-      "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
-      "url": "https://n.news.naver.com/mnews/article/009/0005756916"
+      "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006401153"
     },
     {
-      "title": "쌀 때 빌리자…환율 내리자 달러대출 ‘쑥‘",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540972"
+      "title": "\"11월 중 수출 1조달러 돌파 확실\"…반도체 터지자 '잭팟'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348841"
     },
     {
-      "title": "정부, 2030 퇴직연금 의무화 시동…영세기업 부담·낮은 수익률 등 과제 산적",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717072"
+      "title": "김정관 “체코 원전 내부 갈등 뼈아파”…비상관리체제 가동",
+      "url": "https://n.news.naver.com/mnews/article/018/0006401728"
     },
     {
-      "title": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413531"
+      "title": "9일까지 '블프엔 LF몰' 진행…2000개 브랜드 최대 80% 할인",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836468"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": -206.92,
-      "change_pct": -3.48
+      "value": 5662.37,
+      "change": -68.37,
+      "change_pct": -1.19
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": -28.85,
-      "change_pct": -3.83
+      "value": 718.81,
+      "change": -5.57,
+      "change_pct": -0.77
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1335.1,
-      "change": -2.88,
-      "change_pct": -0.22
+      "value": 1335.68,
+      "change": -2.3,
+      "change_pct": -0.17
     }
   },
   "gold": {
-    "price_usd": 3898.9,
-    "price_krw": 5205421,
-    "change": -132.5,
-    "change_pct": -3.29
+    "price_usd": 3906.5,
+    "price_krw": 5217833,
+    "change": 7.6,
+    "change_pct": 0.19
   },
-  "updated": "2026-11-01 08:59",
+  "updated": "2026-11-02 09:30",
   "error": null
 }
