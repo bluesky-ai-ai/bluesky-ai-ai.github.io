@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화, 美 해군 함정 만든다… 마스가 첫 수주 성과",
-      "url": "https://n.news.naver.com/mnews/article/014/0005597617"
+      "title": "한투증권, 삼성전자 목표가 57→44만원 하향 “메모리 둔화 반영”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056776"
     },
     {
-      "title": "집값 뛰더니 월세까지…노원구 12.88% 급등[오늘 부동산]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149876"
+      "title": "한화금융 4개사, 500조 퇴직연금 시장 공략…'2030 비전' 선포",
+      "url": "https://n.news.naver.com/mnews/article/421/0009264501"
     },
     {
-      "title": "이번엔 日 패키징 연구소… 이재용 찾는 곳에 삼성 미래 전략 있다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001882200"
+      "title": "G80 하이브리드 시험생산 막아선 노조… 제네시스 생산 이틀째 멈춰",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202146"
     },
     {
-      "title": "거래소, 저PBR기업 151사 첫 공표…유가증권 96사·코스닥 55사",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836264"
+      "title": "전남광주 10월 물가 2.8% 올라…농산물 내렸지만 기름값 급등",
+      "url": "https://n.news.naver.com/mnews/article/003/0014296894"
     },
     {
-      "title": "신한증권, 현대건설 목표가↓…\"대미투자 원전 수익화 불확실성\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016414723"
+      "title": "GC녹십자, 콜롬비아에 독감백신 기술 수출…592억원 규모",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201934"
     },
     {
-      "title": "퇴직연금 사외 적립 2030년 의무화…돈 없는 영세기업은 어떻게 하나",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717352"
+      "title": "유가 급락도 소용 없다…뉴욕증시, ‘AI 버블 우려’ 기술주 매도세",
+      "url": "https://n.news.naver.com/mnews/article/005/0001882587"
     },
     {
-      "title": "“한우 반값에 가전 최대 70% 할인”…유통가, 11월 쇼핑대전 막 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401153"
+      "title": "LG엔솔 \"ESS 50GWh 셀라인 가동 안정화⋯수익성 개선 본격화\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001071696"
     },
     {
-      "title": "\"11월 중 수출 1조달러 돌파 확실\"…반도체 터지자 '잭팟'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005348841"
+      "title": "서울시 보강안 결국 제외…GTX-A 삼성역 무정차 통과 내년으로 밀린다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000963279"
     },
     {
-      "title": "김정관 “체코 원전 내부 갈등 뼈아파”…비상관리체제 가동",
-      "url": "https://n.news.naver.com/mnews/article/018/0006401728"
+      "title": "현대백화점 '흰디' 팬덤 커졌다…굿즈 매출 73% 증가",
+      "url": "https://n.news.naver.com/mnews/article/421/0009266023"
     },
     {
-      "title": "9일까지 '블프엔 LF몰' 진행…2000개 브랜드 최대 80% 할인",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836468"
+      "title": "대한항공, 美행 승객 대상 에볼라 관련 서약서 제출 의무화",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717938"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5662.37,
-      "change": -68.37,
-      "change_pct": -1.19
+      "value": 5692.61,
+      "change": -166.47,
+      "change_pct": -2.84
     },
     "kosdaq": {
-      "value": 718.81,
-      "change": -5.57,
-      "change_pct": -0.77
+      "value": 715.36,
+      "change": -19.0,
+      "change_pct": -2.59
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1335.68,
-      "change": -2.3,
-      "change_pct": -0.17
+      "value": 1339.08,
+      "change": 13.56,
+      "change_pct": 1.02
     }
   },
   "gold": {
-    "price_usd": 3906.5,
-    "price_krw": 5217833,
-    "change": 7.6,
-    "change_pct": 0.19
+    "price_usd": 3955.7,
+    "price_krw": 5296998,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 09:30",
+  "updated": "2026-11-03 11:51",
   "error": null
 }
