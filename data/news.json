@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한투증권, 삼성전자 목표가 57→44만원 하향 “메모리 둔화 반영”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003056776"
+      "title": "K-뷰티, 중국 넘어 북미·유럽까지…시장 다변화로 수익성 높여",
+      "url": "https://n.news.naver.com/mnews/article/028/0002830523"
     },
     {
-      "title": "한화금융 4개사, 500조 퇴직연금 시장 공략…'2030 비전' 선포",
-      "url": "https://n.news.naver.com/mnews/article/421/0009264501"
+      "title": "에이피알, 뉴욕·런던 등 4개 도시 팝업에 1만5000명 방문",
+      "url": "https://n.news.naver.com/mnews/article/277/0005837188"
     },
     {
-      "title": "G80 하이브리드 시험생산 막아선 노조… 제네시스 생산 이틀째 멈춰",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202146"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000922457"
     },
     {
-      "title": "전남광주 10월 물가 2.8% 올라…농산물 내렸지만 기름값 급등",
-      "url": "https://n.news.naver.com/mnews/article/003/0014296894"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012286635"
     },
     {
-      "title": "GC녹십자, 콜롬비아에 독감백신 기술 수출…592억원 규모",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201934"
+      "title": "美, SK하닉 中공장 장비 반입 제동...“뉴욕 공장 투자도 차질”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004678444"
     },
     {
-      "title": "유가 급락도 소용 없다…뉴욕증시, ‘AI 버블 우려’ 기술주 매도세",
-      "url": "https://n.news.naver.com/mnews/article/005/0001882587"
+      "title": "제주항공, 3분기 영업익 549억원… 매출 32% 증가",
+      "url": "https://n.news.naver.com/mnews/article/022/0004172220"
     },
     {
-      "title": "LG엔솔 \"ESS 50GWh 셀라인 가동 안정화⋯수익성 개선 본격화\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001071696"
+      "title": "“엔비디아·AMD 강세에 코스피 5800선 탈환”…삼성전자·SK하이닉스 동반 상승",
+      "url": "https://n.news.naver.com/mnews/article/138/0002247168"
     },
     {
-      "title": "서울시 보강안 결국 제외…GTX-A 삼성역 무정차 통과 내년으로 밀린다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000963279"
+      "title": "HLB 간암 신약, FDA 본심사 재진입…내년 4월 허가 여부 판가름",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202420"
     },
     {
-      "title": "현대백화점 '흰디' 팬덤 커졌다…굿즈 매출 73% 증가",
-      "url": "https://n.news.naver.com/mnews/article/421/0009266023"
+      "title": "AMD, 데이터센터 매출 97%↑…리사 수 \"내년 매출 80% 이상 성장\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001071981"
     },
     {
-      "title": "대한항공, 美행 승객 대상 에볼라 관련 서약서 제출 의무화",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717938"
+      "title": "현대제철, 생성형 AI 플랫폼 '스틸엑스' 가동…전사 AX 가속화",
+      "url": "https://n.news.naver.com/mnews/article/138/0002247176"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5692.61,
-      "change": -166.47,
-      "change_pct": -2.84
+      "value": 5728.13,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 715.36,
-      "change": -19.0,
-      "change_pct": -2.59
+      "value": 705.5,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25164.36,
-      "change": -272.64,
-      "change_pct": -1.07
+      "value": 25372.01,
+      "change": 207.7,
+      "change_pct": 0.83
     },
     "usdkrw": {
-      "value": 1339.08,
-      "change": 13.56,
-      "change_pct": 1.02
+      "value": 1344.08,
+      "change": -0.73,
+      "change_pct": -0.05
     }
   },
   "gold": {
-    "price_usd": 3955.7,
-    "price_krw": 5296998,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3941.1,
+    "price_krw": 5297153,
+    "change": -28.5,
+    "change_pct": -0.72
   },
-  "updated": "2026-11-03 11:51",
+  "updated": "2026-11-04 10:10",
   "error": null
 }
