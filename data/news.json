@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "K-뷰티, 중국 넘어 북미·유럽까지…시장 다변화로 수익성 높여",
-      "url": "https://n.news.naver.com/mnews/article/028/0002830523"
+      "title": "162조 미래기금 논란... 전문가들 “국회 통제권 강화해야”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007781"
     },
     {
-      "title": "에이피알, 뉴욕·런던 등 4개 도시 팝업에 1만5000명 방문",
-      "url": "https://n.news.naver.com/mnews/article/277/0005837188"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000922457"
+      "title": "LG, 안전보건환경 콘퍼런스 'LG 쉬크' 개최…AI 활용 사례 계열사 공유",
+      "url": "https://n.news.naver.com/mnews/article/421/0009271671"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012286635"
+      "url": "https://n.news.naver.com/mnews/article/052/0002428539"
     },
     {
-      "title": "美, SK하닉 中공장 장비 반입 제동...“뉴욕 공장 투자도 차질”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678444"
+      "title": "넥센타이어, 3분기 영업익 61% 급감…매출 성장에도 수익성 악화",
+      "url": "https://n.news.naver.com/mnews/article/138/0002247303"
     },
     {
-      "title": "제주항공, 3분기 영업익 549억원… 매출 32% 증가",
-      "url": "https://n.news.naver.com/mnews/article/022/0004172220"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012287349"
     },
     {
-      "title": "“엔비디아·AMD 강세에 코스피 5800선 탈환”…삼성전자·SK하이닉스 동반 상승",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247168"
+      "title": "셀트리온, 브라질서 '코이볼마·스토보클로' 출시",
+      "url": "https://n.news.naver.com/mnews/article/277/0005838351"
     },
     {
-      "title": "HLB 간암 신약, FDA 본심사 재진입…내년 4월 허가 여부 판가름",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202420"
+      "title": "반도체 수출 3.6배 급증에 9월 경상흑자 600억달러 첫 돌파",
+      "url": "https://n.news.naver.com/mnews/article/025/0003563001"
     },
     {
-      "title": "AMD, 데이터센터 매출 97%↑…리사 수 \"내년 매출 80% 이상 성장\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001071981"
+      "title": "납품가 인상·마케팅비 급증에…쿠팡 로켓배송 마진율 '반토막'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016420721"
     },
     {
-      "title": "현대제철, 생성형 AI 플랫폼 '스틸엑스' 가동…전사 AX 가속화",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247176"
+      "title": "호반, 한진칼 최대주주 됐지만…조원태 측 재역전 전망에 분쟁 희박",
+      "url": "https://n.news.naver.com/mnews/article/421/0009270700"
+    },
+    {
+      "title": "삼양그룹, R&D 성과 공유회…김윤 회장 \"차별화된 경쟁력 구축해야\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436931"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5728.13,
+      "value": 5489.59,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.5,
+      "value": 692.73,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25372.01,
-      "change": 207.7,
-      "change_pct": 0.83
+      "value": 25736.51,
+      "change": 364.5,
+      "change_pct": 1.44
     },
     "usdkrw": {
-      "value": 1344.08,
-      "change": -0.73,
-      "change_pct": -0.05
+      "value": 1340.48,
+      "change": -2.42,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 3941.1,
-    "price_krw": 5297153,
-    "change": -28.5,
-    "change_pct": -0.72
+    "price_usd": 4120.4,
+    "price_krw": 5523313,
+    "change": 180.0,
+    "change_pct": 4.57
   },
-  "updated": "2026-11-04 10:10",
+  "updated": "2026-11-05 10:24",
   "error": null
 }
