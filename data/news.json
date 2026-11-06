@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "162조 미래기금 논란... 전문가들 “국회 통제권 강화해야”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004007781"
+      "title": "미 증시, 기술주·반도체 급락에 일제히 폭락 마감…나스닥 5.52%↓[서울데이터랩]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003696397"
     },
     {
-      "title": "LG, 안전보건환경 콘퍼런스 'LG 쉬크' 개최…AI 활용 사례 계열사 공유",
-      "url": "https://n.news.naver.com/mnews/article/421/0009271671"
+      "title": "KT&G, 해외 담배사업도 잘나가네",
+      "url": "https://n.news.naver.com/mnews/article/009/0005759681"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002428539"
+      "title": "서울 아파트값 상승폭 3주 연속 둔화…91주 연속 상승",
+      "url": "https://n.news.naver.com/mnews/article/277/0005838602"
     },
     {
-      "title": "넥센타이어, 3분기 영업익 61% 급감…매출 성장에도 수익성 악화",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247303"
+      "title": "미국 중간선거 '블루 웨이브'에 코스피 5.28% 내린 5383.80 마감",
+      "url": "https://n.news.naver.com/mnews/article/654/0000209617"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012287349"
+      "title": "SK에코, 반도체·AI 인프라 강화…주택은 위축될 듯",
+      "url": "https://n.news.naver.com/mnews/article/015/0005350859"
     },
     {
-      "title": "셀트리온, 브라질서 '코이볼마·스토보클로' 출시",
-      "url": "https://n.news.naver.com/mnews/article/277/0005838351"
+      "title": "SK바이오팜, 3분기 영업익 1,163억…\"분기 최초 1천억 돌파”",
+      "url": "https://n.news.naver.com/mnews/article/215/0001271788"
     },
     {
-      "title": "반도체 수출 3.6배 급증에 9월 경상흑자 600억달러 첫 돌파",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563001"
+      "title": "또 ‘세제 유턴’…가상자산 과세, 또 미룬다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001883362"
     },
     {
-      "title": "납품가 인상·마케팅비 급증에…쿠팡 로켓배송 마진율 '반토막'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016420721"
+      "title": "100쌍 중 9쌍은 다문화 부부… ‘결혼 5년 미만’ 이혼 비중 한국인의 2.3배",
+      "url": "https://n.news.naver.com/mnews/article/022/0004172784"
     },
     {
-      "title": "호반, 한진칼 최대주주 됐지만…조원태 측 재역전 전망에 분쟁 희박",
-      "url": "https://n.news.naver.com/mnews/article/421/0009270700"
+      "title": "美연준 인사 \"금리 더 올려야\"…선거 후 첫 발언",
+      "url": "https://n.news.naver.com/mnews/article/018/0006404727"
     },
     {
-      "title": "삼양그룹, R&D 성과 공유회…김윤 회장 \"차별화된 경쟁력 구축해야\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005436931"
+      "title": "서초구 \"재초환이 재건축 발목\"… 국토부에 폐지 건의",
+      "url": "https://n.news.naver.com/mnews/article/277/0005838354"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5489.59,
+      "value": 4984.1,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 692.73,
+      "value": 635.67,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25736.51,
-      "change": 364.5,
-      "change_pct": 1.44
+      "value": 24315.0,
+      "change": -1421.51,
+      "change_pct": -5.52
     },
     "usdkrw": {
-      "value": 1340.48,
-      "change": -2.42,
-      "change_pct": -0.18
+      "value": 1356.04,
+      "change": 15.97,
+      "change_pct": 1.19
     }
   },
   "gold": {
-    "price_usd": 4120.4,
-    "price_krw": 5523313,
-    "change": 180.0,
-    "change_pct": 4.57
+    "price_usd": 4095.1,
+    "price_krw": 5553119,
+    "change": 22.1,
+    "change_pct": 0.54
   },
-  "updated": "2026-11-05 10:24",
+  "updated": "2026-11-06 10:27",
   "error": null
 }
