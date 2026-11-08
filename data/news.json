@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "title": "국산 단감, 중국 첫 수출…17년 검역협상 끝에 수출길 열려",
-      "url": "https://n.news.naver.com/mnews/article/001/0016426803"
+      "title": "미래에셋증권 해킹 사고…고객·임직원 3만9000여명 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/014/0005600754"
     },
     {
-      "title": "美 기술주 투매에 위험 회피 확산…달러·원 환율 급등 출발",
-      "url": "https://n.news.naver.com/mnews/article/421/0009273759"
+      "title": "11월 지역가입자 건보료 재산정…소득 감소 시 조정 신청 가능",
+      "url": "https://n.news.naver.com/mnews/article/055/0001401379"
     },
     {
-      "title": "독과점기업 ‘가격 꼼수’ 손본다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002719935"
+      "title": "주유소 기름값 25주 연속 하락...1천8백 원대 횡보",
+      "url": "https://n.news.naver.com/mnews/article/052/0002429672"
     },
     {
-      "title": "IBK기업은행, 코스닥시장 활성화 박차… 코스닥협회와 맞손",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247588"
+      "title": "운전대 잡을까, 뒤로 갈까…BMW i7에선 어디 앉아도 '상석' [시승기]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003152394"
     },
     {
-      "title": "안덕수 국세청장 후보자 \"공정세정 구현에 최선 다할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839317"
+      "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760407"
     },
     {
-      "title": "정부 긴급처방…간신히 5000 지켰다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679572"
+      "title": "11월 둘째 주 수요예측·청약 일정[이번주 IPO]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005839460"
     },
     {
-      "title": "기금형 퇴직연금 도입 본격화…정부·금융권 시행 준비 점검",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720090"
+      "title": "서학개미, 국장 나락가자 미국 주식 5일만에 3조 샀다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760327"
     },
     {
-      "title": "롯데케미칼, 3분기 영업손실 2813억원…전년 比 적자 폭↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437741"
+      "title": "세계식량가격지수 하락 전환…곡물·육류 내리고 설탕 대폭 올라",
+      "url": "https://n.news.naver.com/mnews/article/422/0000923808"
     },
     {
-      "title": "충남도, 첨단 디스플레이 국가연구 프로젝트 본격 추진",
-      "url": "https://n.news.naver.com/mnews/article/421/0009273960"
+      "title": "포스코 노조 임금협상 잠정합의안, 투표서 부결…교섭 원점",
+      "url": "https://n.news.naver.com/mnews/article/025/0003563514"
     },
     {
-      "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760186"
+      "title": "아이폰 듀오, 화면은 커졌지만 새로움은 작았다[써보니]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016427706"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 644.27,
+      "change": -34.14,
+      "change_pct": -5.03
     },
     "nasdaq": {
-      "value": 24579.42,
-      "change": 264.42,
+      "value": 24579.43,
+      "change": 264.43,
       "change_pct": 1.09
     },
     "usdkrw": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4079.5,
-    "price_krw": 5533189,
-    "change": -34.0,
-    "change_pct": -0.83
+    "price_usd": 4074.9,
+    "price_krw": 5526949,
+    "change": -38.6,
+    "change_pct": -0.94
   },
-  "updated": "2026-11-07 09:48",
+  "updated": "2026-11-08 09:21",
   "error": null
 }
