@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "미래에셋증권 해킹 사고…고객·임직원 3만9000여명 정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/014/0005600754"
+      "title": "메모리 시장 진출설 불거진 TSMC “파운드리 집중” 부인",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203321"
     },
     {
-      "title": "11월 지역가입자 건보료 재산정…소득 감소 시 조정 신청 가능",
-      "url": "https://n.news.naver.com/mnews/article/055/0001401379"
+      "title": "삼성·현대차 첫 그룹 교류…경영진 부부 동반 170명 참석",
+      "url": "https://n.news.naver.com/mnews/article/079/0004207544"
     },
     {
-      "title": "주유소 기름값 25주 연속 하락...1천8백 원대 횡보",
-      "url": "https://n.news.naver.com/mnews/article/052/0002429672"
+      "title": "\"전 세계인 70%가 신라면 알아\"…바닷가 '라면의 심장'이 뛰기 시작했다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351462"
     },
     {
-      "title": "운전대 잡을까, 뒤로 갈까…BMW i7에선 어디 앉아도 '상석' [시승기]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152394"
+      "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760744"
     },
     {
-      "title": "“앞날이 캄캄”…당첨 기쁨은 잠깐, 대출 금리에 한숨만",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760407"
+      "title": "“두 시간 기다려 득템” 얼마나 맛있길래···‘갓 튀긴 라면’ 사려는 줄로 수백미터 장사진",
+      "url": "https://n.news.naver.com/mnews/article/032/0003481292"
     },
     {
-      "title": "11월 둘째 주 수요예측·청약 일정[이번주 IPO]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839460"
+      "title": "넥센타이어, 신형 투싼에 신차용 타이어 공급…국내 시작으로 북미·유럽 확대",
+      "url": "https://n.news.naver.com/mnews/article/016/0002720540"
     },
     {
-      "title": "서학개미, 국장 나락가자 미국 주식 5일만에 3조 샀다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760327"
+      "title": "'반대매매 급증' 급한불 끄는 당국.. '신용공여 140%룰' 9일부터 면제",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601005"
     },
     {
-      "title": "세계식량가격지수 하락 전환…곡물·육류 내리고 설탕 대폭 올라",
-      "url": "https://n.news.naver.com/mnews/article/422/0000923808"
+      "title": "“삼성전자, 지금은 반등 가능성 주목할 때”…비관론 정점 속 돋보인 리포트",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760729"
     },
     {
-      "title": "포스코 노조 임금협상 잠정합의안, 투표서 부결…교섭 원점",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563514"
+      "title": "셀트리온 ‘스테키마’, 유럽서 소아 장질환 적응증 확대 승인 권고",
+      "url": "https://n.news.naver.com/mnews/article/016/0002720584"
     },
     {
-      "title": "아이폰 듀오, 화면은 커졌지만 새로움은 작았다[써보니]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016427706"
+      "title": "블루 쓰나미에 AI 불안…환율 1360원 재돌파 촉각[주간외환전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405956"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5059.69,
-      "change": -324.11,
-      "change_pct": -6.02
+      "value": 5026.65,
+      "change": -33.04,
+      "change_pct": -0.65
     },
     "kosdaq": {
-      "value": 644.27,
-      "change": -34.14,
-      "change_pct": -5.03
+      "value": 634.48,
+      "change": -9.79,
+      "change_pct": -1.52
     },
     "nasdaq": {
       "value": 24579.43,
@@ -58,17 +58,17 @@
       "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1356.34,
-      "change": 16.27,
-      "change_pct": 1.21
+      "value": 1360.48,
+      "change": 4.14,
+      "change_pct": 0.31
     }
   },
   "gold": {
-    "price_usd": 4074.9,
-    "price_krw": 5526949,
-    "change": -38.6,
-    "change_pct": -0.94
+    "price_usd": 4082.5,
+    "price_krw": 5554159,
+    "change": 7.6,
+    "change_pct": 0.19
   },
-  "updated": "2026-11-08 09:21",
+  "updated": "2026-11-09 09:41",
   "error": null
 }
