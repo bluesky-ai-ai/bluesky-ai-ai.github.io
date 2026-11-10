@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "메모리 시장 진출설 불거진 TSMC “파운드리 집중” 부인",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203321"
+      "title": "매운 라면 국물까지 다 먹었더니…나트륨 최대 하루 기준치 초과",
+      "url": "https://n.news.naver.com/mnews/article/421/0009280909"
     },
     {
-      "title": "삼성·현대차 첫 그룹 교류…경영진 부부 동반 170명 참석",
-      "url": "https://n.news.naver.com/mnews/article/079/0004207544"
+      "title": "CJ대한통운, 3분기 영업익 1105억원·25.3%↓…“투자확대·대외 환경 악화 영향”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002721164"
     },
     {
-      "title": "\"전 세계인 70%가 신라면 알아\"…바닷가 '라면의 심장'이 뛰기 시작했다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351462"
+      "title": "농지법 위반 처분 한시 유예…관행적 임대차·무단 전용시설 정리 길 열린다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002721312"
     },
     {
-      "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760744"
+      "title": "취준생 77% \"취업에 AI 역량 중요\"…공식 평가하는 기업은 20%",
+      "url": "https://n.news.naver.com/mnews/article/001/0016432198"
     },
     {
-      "title": "“두 시간 기다려 득템” 얼마나 맛있길래···‘갓 튀긴 라면’ 사려는 줄로 수백미터 장사진",
-      "url": "https://n.news.naver.com/mnews/article/032/0003481292"
+      "title": "삼성SDI·LG엔솔, 'CES 혁신상' 수상…\"K배터리 차별화 기술력 입증\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014312267"
     },
     {
-      "title": "넥센타이어, 신형 투싼에 신차용 타이어 공급…국내 시작으로 북미·유럽 확대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720540"
+      "title": "두산, 3분기 영업이익 4594억…AI 소재 타고 두 배로 (종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840154"
     },
     {
-      "title": "'반대매매 급증' 급한불 끄는 당국.. '신용공여 140%룰' 9일부터 면제",
-      "url": "https://n.news.naver.com/mnews/article/014/0005601005"
+      "title": "한투운용 \"변동성 장세 버티는 투자 키워드 A.C.E\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005438871"
     },
     {
-      "title": "“삼성전자, 지금은 반등 가능성 주목할 때”…비관론 정점 속 돋보인 리포트",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760729"
+      "title": "KIC \"삼성화재와 英캐노피우스 공동인수…전략적투자 속도\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014312067"
     },
     {
-      "title": "셀트리온 ‘스테키마’, 유럽서 소아 장질환 적응증 확대 승인 권고",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720584"
+      "title": "가덕신공항, 공사비 현실화 앞서 실시설계 우선 착수",
+      "url": "https://n.news.naver.com/mnews/article/081/0003697186"
     },
     {
-      "title": "블루 쓰나미에 AI 불안…환율 1360원 재돌파 촉각[주간외환전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405956"
+      "title": "금융연 \"내년 韓 성장률 3.1%…반도체 쏠림에 회복 불균형 우려\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004208136"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5026.65,
-      "change": -33.04,
-      "change_pct": -0.65
+      "value": 5239.64,
+      "change": 220.79,
+      "change_pct": 4.4
     },
     "kosdaq": {
-      "value": 634.48,
-      "change": -9.79,
-      "change_pct": -1.52
+      "value": 662.99,
+      "change": 24.02,
+      "change_pct": 3.76
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1360.48,
-      "change": 4.14,
-      "change_pct": 0.31
+      "value": 1345.49,
+      "change": -17.21,
+      "change_pct": -1.26
     }
   },
   "gold": {
-    "price_usd": 4082.5,
-    "price_krw": 5554159,
-    "change": 7.6,
-    "change_pct": 0.19
+    "price_usd": 4120.5,
+    "price_krw": 5544091,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:41",
+  "updated": "2026-11-10 12:22",
   "error": null
 }
