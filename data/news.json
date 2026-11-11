@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "매운 라면 국물까지 다 먹었더니…나트륨 최대 하루 기준치 초과",
-      "url": "https://n.news.naver.com/mnews/article/421/0009280909"
+      "title": "겨우 반등했는데…코스피, 美 '빅스텝' 우려에 다시 흔들리나[마켓뷰]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016434628"
     },
     {
-      "title": "CJ대한통운, 3분기 영업익 1105억원·25.3%↓…“투자확대·대외 환경 악화 영향”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002721164"
+      "title": "10월 취업자 13.9만명↑...청년 취업자는 48개월째 감소. 글로벌 금융위기 이후 ‘최장’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004008951"
     },
     {
-      "title": "농지법 위반 처분 한시 유예…관행적 임대차·무단 전용시설 정리 길 열린다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002721312"
+      "title": "주택 청약 '하늘의 별 따기'인데… 위장전입·위장미혼 등 354건 적발",
+      "url": "https://n.news.naver.com/mnews/article/469/0000964679"
     },
     {
-      "title": "취준생 77% \"취업에 AI 역량 중요\"…공식 평가하는 기업은 20%",
-      "url": "https://n.news.naver.com/mnews/article/001/0016432198"
+      "title": "정부 경제전망 32년 만에 연 2회→3회…하반기 성장전략 따로 안 낸다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680905"
     },
     {
-      "title": "삼성SDI·LG엔솔, 'CES 혁신상' 수상…\"K배터리 차별화 기술력 입증\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014312267"
+      "title": "11월 1~10일 수출 111.9% 역대 최대 증가...사상 첫 ‘수출 1조달러’ 달성 초읽기",
+      "url": "https://n.news.naver.com/mnews/article/023/0004008960"
     },
     {
-      "title": "두산, 3분기 영업이익 4594억…AI 소재 타고 두 배로 (종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005840154"
+      "title": "“그냥 철강 회사 아닙니다”… 광양만서 펼쳐진 포스코의 ‘종합자원기업’ 비전",
+      "url": "https://n.news.naver.com/mnews/article/005/0001884228"
     },
     {
-      "title": "한투운용 \"변동성 장세 버티는 투자 키워드 A.C.E\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438871"
+      "title": "3거래일 동안 30% 급락한 두산…\"주가 하락 과도하다\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601773"
     },
     {
-      "title": "KIC \"삼성화재와 英캐노피우스 공동인수…전략적투자 속도\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014312067"
+      "title": "금융권 보안 맡은 금융보안원도 해킹에 뚫렸다",
+      "url": "https://n.news.naver.com/mnews/article/082/0001406583"
     },
     {
-      "title": "가덕신공항, 공사비 현실화 앞서 실시설계 우선 착수",
-      "url": "https://n.news.naver.com/mnews/article/081/0003697186"
+      "title": "신세계, 3분기 영업이익 65%↑…역대 최대 실적",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203772"
     },
     {
-      "title": "금융연 \"내년 韓 성장률 3.1%…반도체 쏠림에 회복 불균형 우려\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004208136"
+      "title": "'반도체 겨울' 모건스탠리, 삼전닉스 목표가 또 낮췄다…골드만은 \"지금이 바닥\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542864"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5239.64,
-      "change": 220.79,
-      "change_pct": 4.4
+      "value": 5241.31,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 662.99,
-      "change": 24.02,
-      "change_pct": 3.76
+      "value": 689.61,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25253.14,
-      "change": 673.71,
-      "change_pct": 2.74
+      "value": 25065.88,
+      "change": -187.27,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1345.49,
-      "change": -17.21,
-      "change_pct": -1.26
+      "value": 1337.98,
+      "change": -5.86,
+      "change_pct": -0.44
     }
   },
   "gold": {
-    "price_usd": 4120.5,
-    "price_krw": 5544091,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4042.1,
+    "price_krw": 5408249,
+    "change": -72.4,
+    "change_pct": -1.76
   },
-  "updated": "2026-11-10 12:22",
+  "updated": "2026-11-11 10:10",
   "error": null
 }
