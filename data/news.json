@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "세라젬, 과천 신사옥 '헬스케어 이노타운' 기공식",
-      "url": "https://n.news.naver.com/mnews/article/277/0005842132"
+      "title": "SC제일은행, 3분기 누적 순익 5062억원…전년 동기 대비 67% 증가",
+      "url": "https://n.news.naver.com/mnews/article/031/0001074979"
     },
     {
-      "title": "인천 강화 산란계 농장서 H5형 조류인플루엔자 항원 확인",
-      "url": "https://n.news.naver.com/mnews/article/001/0016438369"
+      "title": "SK디스커버리, 3분기 매출 3.4조…\"출범 후 최대 실적\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009288417"
     },
     {
-      "title": "한강벨트 아파트 매매가 상승폭 확대…강남3구·용산구 하락",
-      "url": "https://n.news.naver.com/mnews/article/003/0014319689"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001402963"
     },
     {
-      "title": "산업장관, ‘체코 원전 팀코리아 파열’ 수습 위해 직접 점검회의 주재",
-      "url": "https://n.news.naver.com/mnews/article/023/0004009266"
+      "title": "삼성메디슨, 홍천공장 넓힌다…글로벌 초음파 시장 '톱3' 정조준",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052620"
     },
     {
-      "title": "홍지선 국토 “재초환, 집값 안정 효과 분명…재산권 침해 부분도 있어”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003762059"
+      "title": "외국계은행 이자·비이자 실적 엇갈려…씨티는 비이자·SC제일은 이자",
+      "url": "https://n.news.naver.com/mnews/article/031/0001074995"
     },
     {
-      "title": "금호건설, 잇단 대형 수주·실적 개선에 장중 상한가 [종목NOW]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603835"
+      "title": "체코 원전 시공사 교체 논란에 청문회 추진…여당 \"합의한 바 없어\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604008"
     },
     {
-      "title": "롯데건설, 3분기 누적 영업익 2077억…전년比 126% 증가",
-      "url": "https://n.news.naver.com/mnews/article/003/0014320068"
+      "title": "쏘카·에이펙스, 현대차와 자율주행 사업 MOU",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052600"
     },
     {
-      "title": "李대통령 “韓증시 여전히 저평가”…오늘 증시 체질개선 해법 찾는다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004681778"
+      "title": "발사체·AIDC·통신까지…한화그룹, '통합 우주 인프라' 구축 시동",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441036"
     },
     {
-      "title": "젠슨 황 사임 쇼크…엔비디아 시총 일주일새 659조원 증발",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409236"
+      "title": "한 총리 “2.1조원 신용카드 미사용 카드포인트, 지역화폐 전환 지시”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723170"
     },
     {
-      "title": "교보증권, ESG 평가 통합 A등급 첫 획득",
-      "url": "https://n.news.naver.com/mnews/article/018/0006408718"
+      "title": "또 털린 '모두의 창업' 개인정보…\"2차피해 우려\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014321541"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5481.58,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 723.32,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25366.09,
-      "change": -100.1,
-      "change_pct": -0.39
+      "value": 25136.27,
+      "change": -229.82,
+      "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1331.18,
-      "change": -5.08,
-      "change_pct": -0.38
+      "value": 1333.78,
+      "change": -2.48,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 3913.9,
-    "price_krw": 5210105,
-    "change": -86.6,
-    "change_pct": -2.16
+    "price_usd": 3887.6,
+    "price_krw": 5185203,
+    "change": 2.3,
+    "change_pct": 0.06
   },
-  "updated": "2026-11-13 10:44",
+  "updated": "2026-11-14 10:22",
   "error": null
 }
