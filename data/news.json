@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "SC제일은행, 3분기 누적 순익 5062억원…전년 동기 대비 67% 증가",
-      "url": "https://n.news.naver.com/mnews/article/031/0001074979"
+      "title": "중기부 ‘모두의 창업’ 2기 사업도 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/020/0003762440"
     },
     {
-      "title": "SK디스커버리, 3분기 매출 3.4조…\"출범 후 최대 실적\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009288417"
+      "title": "중기중앙회 이어 조폐공사까지…잇단 개인정보 유출 사고",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682200"
+    },
+    {
+      "title": "저축은행 예금금리 4% 눈 앞…두 달 새 0.17%p 상승",
+      "url": "https://n.news.naver.com/mnews/article/029/0003059086"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001402963"
+      "url": "https://n.news.naver.com/mnews/article/052/0002432632"
     },
     {
-      "title": "삼성메디슨, 홍천공장 넓힌다…글로벌 초음파 시장 '톱3' 정조준",
-      "url": "https://n.news.naver.com/mnews/article/648/0000052620"
+      "title": "LG엔솔·삼성SDI, 美 ‘RE+ 2026’ 출격…AI 데이터센터 ESS 공략",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409909"
     },
     {
-      "title": "외국계은행 이자·비이자 실적 엇갈려…씨티는 비이자·SC제일은 이자",
-      "url": "https://n.news.naver.com/mnews/article/031/0001074995"
+      "title": "11번가, 대한민국소통어워즈 2관왕…SNS·디지털 콘텐츠 경쟁력 인정",
+      "url": "https://n.news.naver.com/mnews/article/030/0003485610"
     },
     {
-      "title": "체코 원전 시공사 교체 논란에 청문회 추진…여당 \"합의한 바 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005604008"
+      "title": "엔비디아 폭락하자 ‘줍줍’…美개미들 30분 만에 1500억 매수",
+      "url": "https://n.news.naver.com/mnews/article/025/0003565093"
     },
     {
-      "title": "쏘카·에이펙스, 현대차와 자율주행 사업 MOU",
-      "url": "https://n.news.naver.com/mnews/article/648/0000052600"
+      "title": "\"DC형 전환 후회\" vs \"진작할걸\"…수익률 급감속 퇴직연금 최종승자는?",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442062"
     },
     {
-      "title": "발사체·AIDC·통신까지…한화그룹, '통합 우주 인프라' 구축 시동",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441036"
+      "title": "관세청 \"한·투르크메니스탄 세관상호지원협정 15일 발효\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009289436"
     },
     {
-      "title": "한 총리 “2.1조원 신용카드 미사용 카드포인트, 지역화폐 전환 지시”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723170"
-    },
-    {
-      "title": "또 털린 '모두의 창업' 개인정보…\"2차피해 우려\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014321541"
+      "title": "코인원, 고객 상담 수탁사 해킹으로 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/029/0003059085"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5290.53,
+      "change": -52.2,
+      "change_pct": -0.98
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 699.66,
+      "change": 3.13,
+      "change_pct": 0.45
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -2.48,
-      "change_pct": -0.19
+      "value": 1336.2,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 3887.6,
-    "price_krw": 5185203,
-    "change": 2.3,
-    "change_pct": 0.06
+    "price_usd": 3886.3,
+    "price_krw": 5192874,
+    "change": 1.0,
+    "change_pct": 0.03
   },
-  "updated": "2026-11-14 10:22",
+  "updated": "2026-11-15 09:56",
   "error": null
 }
