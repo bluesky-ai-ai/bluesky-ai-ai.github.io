@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "중기부 ‘모두의 창업’ 2기 사업도 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/020/0003762440"
+      "title": "LG에너지솔루션, 美 RE+서 AI 전력 인프라 공개…배터리부터 전력 관리까지",
+      "url": "https://n.news.naver.com/mnews/article/020/0003762518"
     },
     {
-      "title": "중기중앙회 이어 조폐공사까지…잇단 개인정보 유출 사고",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682200"
+      "title": "황 떠난 엔비디아 첫 성적표, 코스피 반등 이끌까 꺾을까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441324"
     },
     {
-      "title": "저축은행 예금금리 4% 눈 앞…두 달 새 0.17%p 상승",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059086"
+      "title": "BNK금융, ESG 5년 연속 통합 A 등급",
+      "url": "https://n.news.naver.com/mnews/article/082/0001407230"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432632"
+      "title": "코스피, 상승 출발 후 보합권에서 등락",
+      "url": "https://n.news.naver.com/mnews/article/001/0016443098"
     },
     {
-      "title": "LG엔솔·삼성SDI, 美 ‘RE+ 2026’ 출격…AI 데이터센터 ESS 공략",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409909"
+      "title": "“폐타이어·폐비닐로 만들어 찝찝?”…‘친환경 시멘트’ 유해성 따져보니",
+      "url": "https://n.news.naver.com/mnews/article/009/0005763759"
     },
     {
-      "title": "11번가, 대한민국소통어워즈 2관왕…SNS·디지털 콘텐츠 경쟁력 인정",
-      "url": "https://n.news.naver.com/mnews/article/030/0003485610"
+      "title": "기술 검증부터 실패한 R&D 지원도…SK하이닉스, 소부장과 '상생'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410260"
     },
     {
-      "title": "엔비디아 폭락하자 ‘줍줍’…美개미들 30분 만에 1500억 매수",
-      "url": "https://n.news.naver.com/mnews/article/025/0003565093"
+      "title": "엔비디아·앤트로픽, 결자해지 주목 [이정훈의 코인 위클리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409930"
     },
     {
-      "title": "\"DC형 전환 후회\" vs \"진작할걸\"…수익률 급감속 퇴직연금 최종승자는?",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442062"
+      "title": "韓 1000대 기업 여성 CEO 3.3%뿐…3명 중 2명은 오너 일가",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682436"
     },
     {
-      "title": "관세청 \"한·투르크메니스탄 세관상호지원협정 15일 발효\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009289436"
+      "title": "SK오션플랜트, 최대주주 변경 일정 지연 가능성…목표가↓-DS",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441422"
     },
     {
-      "title": "코인원, 고객 상담 수탁사 해킹으로 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/029/0003059085"
+      "title": "현대차, 5일간 전 사업장 안전 점검·교육 진행...\"사업부장 현장 투입\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604572"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.53,
-      "change": -52.2,
-      "change_pct": -0.98
+      "value": 5270.12,
+      "change": -20.41,
+      "change_pct": -0.39
     },
     "kosdaq": {
-      "value": 699.66,
-      "change": 3.13,
-      "change_pct": 0.45
+      "value": 691.14,
+      "change": -8.52,
+      "change_pct": -1.22
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1336.2,
-      "change": 2.42,
-      "change_pct": 0.18
+      "value": 1332.44,
+      "change": -1.34,
+      "change_pct": -0.1
     }
   },
   "gold": {
-    "price_usd": 3886.3,
-    "price_krw": 5192874,
-    "change": 1.0,
-    "change_pct": 0.03
+    "price_usd": 3887.9,
+    "price_krw": 5180393,
+    "change": 1.6,
+    "change_pct": 0.04
   },
-  "updated": "2026-11-15 09:56",
+  "updated": "2026-11-16 09:54",
   "error": null
 }
