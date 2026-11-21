@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "가장 감성적인 럭셔리 하이브리드 SUV의 완성 [더 하이엔드]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003566653"
+      "title": "국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003484040"
     },
     {
-      "title": "IEA, “韓 에너지 수입의존도 세계 최고 수준”…재생에너지 확대 관건",
-      "url": "https://n.news.naver.com/mnews/article/005/0001886439"
+      "title": "컬리 큐레이터 1만699명 개인정보 유출…최대 15만원 보상",
+      "url": "https://n.news.naver.com/mnews/article/277/0005845809"
     },
     {
-      "title": "NS홈쇼핑 조항목 대표 두 번째 연임…2029년까지 이끈다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356197"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012297780"
     },
     {
-      "title": "GS건설, 안산 '아르뮤제자이' 오피스텔 견본주택 개관…24일 청약",
-      "url": "https://n.news.naver.com/mnews/article/008/0005444049"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012298194"
     },
     {
-      "title": "코스피 5000선 붕괴...기술주 자금 블랙홀 '앤트로픽' 영향",
-      "url": "https://n.news.naver.com/mnews/article/008/0005443999"
+      "title": "양종희 KB금융그룹 회장, 3년 임기 마무리 “어디에 있든 늘 ‘KB맨’”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003764027"
     },
     {
-      "title": "3년 전 앤트로픽에 베팅한 SKT…지분 가치 16배로",
-      "url": "https://n.news.naver.com/mnews/article/586/0000142697"
+      "title": "CJ올리브영, 글로벌·AI 경쟁력 강화…애경산업은 아동 문화체험 후원",
+      "url": "https://n.news.naver.com/mnews/article/022/0004176750"
     },
     {
-      "title": "앤트로픽, 상장 첫날 111.5달러에 거래 시작…시총 2조달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206125"
+      "title": "LA서 베일 벗은 G80 하이브리드",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010903"
     },
     {
-      "title": "경제 6단체 \"수출 1조 달러 축하… 투자·일자리로 선순환 이어가야\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000966595"
+      "title": "구찌·버버리도 ‘블프’… 쿠팡 알럭스, 33만개 명품 패션 할인전",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206232"
     },
     {
-      "title": "HD현대중공업, 울산 동구에 '희망 트리 거리' 꾸며",
-      "url": "https://n.news.naver.com/mnews/article/001/0016451282"
+      "title": "강남3구 이어 용산·동작도 하락…서울 아파트값 조정 확산 [집슐랭]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684221"
     },
     {
-      "title": "[단독] 수출 1조 달러 '홈런' 기념, 한정판 '홈런볼' 60만 개 풀린다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000966564"
+      "title": "“이런 블랙프라이데이 최악입니다”…비트코인·금까지 죄다 추락",
+      "url": "https://n.news.naver.com/mnews/article/009/0005766865"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4909.76,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 657.13,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 23879.2,
-      "change": -550.68,
-      "change_pct": -2.25
+      "value": 22617.73,
+      "change": -1261.47,
+      "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1338.18,
-      "change": 7.78,
-      "change_pct": 0.58
+      "value": 1334.79,
+      "change": 4.39,
+      "change_pct": 0.33
     }
   },
   "gold": {
-    "price_usd": 3554.6,
-    "price_krw": 4756694,
-    "change": -187.3,
-    "change_pct": -5.01
+    "price_usd": 3539.0,
+    "price_krw": 4723821,
+    "change": -146.5,
+    "change_pct": -3.98
   },
-  "updated": "2026-11-20 11:12",
+  "updated": "2026-11-21 11:03",
   "error": null
 }
