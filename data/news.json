@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "미혼 42% '결혼 생각 없다'…비혼동거 17만 가구",
+      "url": "https://n.news.naver.com/mnews/article/374/0000545532"
+    },
+    {
+      "title": "내년 경방, 성장보다 양극화에 집중…\"3대 민생 프로젝트 내달 발표\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846974"
+    },
+    {
+      "title": "임금 일자리 40만6천개 늘었는데…20대는 5만6천개 줄어",
+      "url": "https://n.news.naver.com/mnews/article/088/0001041954"
+    },
+    {
+      "title": "3년 반 걸리던 재건축 조합설립 4개월 만에…서울시, 정비사업 속도",
+      "url": "https://n.news.naver.com/mnews/article/015/0005357511"
+    },
+    {
+      "title": "공택지 보상 협조 시 보상금 최대 30% 더 지급",
+      "url": "https://n.news.naver.com/mnews/article/052/0002437235"
+    },
+    {
+      "title": "홈플러스, 모레(26일)부터 온라인 배송 중단…“신선식품 납품 10% 미만”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012299952"
+    },
+    {
+      "title": "전기차 관심 1년 새 두 배…미보유자 절반 \"5년 내 구매\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846785"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001537327"
+      "url": "https://n.news.naver.com/mnews/article/056/0012299927"
     },
     {
-      "title": "셀트리온제약, ENA 2026서 차세대 ADC 연구 성과 2건 공개",
-      "url": "https://n.news.naver.com/mnews/article/030/0003488440"
+      "title": "서울신라호텔, 파리지앵 입맛 홀렸다…5년 연속 ‘라리스트’ 선정",
+      "url": "https://n.news.naver.com/mnews/article/016/0002727534"
     },
     {
-      "title": "삼성물산 건설부문 새 수장에 최영재... 6년 만에 교체",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011150"
-    },
-    {
-      "title": "청산 폭풍 지난 비트코인…6만 달러 복귀[코인뉴스]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003158169"
-    },
-    {
-      "title": "11월20일까지 누적 수출액 1조76억달러…11월 중순 수출도 '역대최대'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005444752"
-    },
-    {
-      "title": "코스피, 3.2% 하락해 4700선…‘블랙먼데이’ 공포에도 낙폭 제한",
-      "url": "https://n.news.naver.com/mnews/article/449/0000368352"
-    },
-    {
-      "title": "평생 낸 국민연금 '0원'?…유족연금 택하면 한 푼도 못 받는다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006413902"
-    },
-    {
-      "title": "이재근 KB금융 회장 취임…“리딩 뱅크에서 리딩 플랫폼으로”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001886794"
-    },
-    {
-      "title": "한전, 고객·조달업체 152만명 개인정보 유출…계좌·카드번호 털려",
-      "url": "https://n.news.naver.com/mnews/article/092/0002446367"
-    },
-    {
-      "title": "\"은행 마음대로 서비스 변경·중단·제한은 부당\"…불공정 약관 시정요청",
-      "url": "https://n.news.naver.com/mnews/article/422/0000928884"
+      "title": "금감원장 \"부산 해양금융 저변 확대, 민간금융 역할 키워야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016459681"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4670.36,
-      "change": -199.6,
-      "change_pct": -4.1
+      "value": 5044.45,
+      "change": 335.91,
+      "change_pct": 7.13
     },
     "kosdaq": {
-      "value": 625.92,
-      "change": -19.76,
-      "change_pct": -3.06
+      "value": 667.57,
+      "change": 32.12,
+      "change_pct": 5.05
     },
     "nasdaq": {
-      "value": 22617.73,
-      "change": -1261.47,
-      "change_pct": -5.28
+      "value": 24089.56,
+      "change": 1471.83,
+      "change_pct": 6.51
     },
     "usdkrw": {
-      "value": 1344.98,
-      "change": 10.19,
-      "change_pct": 0.76
+      "value": 1342.5,
+      "change": -1.81,
+      "change_pct": -0.13
     }
   },
   "gold": {
-    "price_usd": 3621.7,
-    "price_krw": 4871114,
-    "change": 106.3,
-    "change_pct": 3.02
+    "price_usd": 3638.7,
+    "price_krw": 4884954,
+    "change": -12.7,
+    "change_pct": -0.35
   },
-  "updated": "2026-11-23 10:29",
+  "updated": "2026-11-24 14:13",
   "error": null
 }
