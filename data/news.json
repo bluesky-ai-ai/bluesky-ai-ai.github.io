@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "반도체 공장 짓는데 26만명 더 필요…국토부, 건설인력 양성 나선다",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206970"
+      "title": "\"AI 기반 사업 체질 혁신\" 에스원, 김송범 부사장 승진",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610191"
     },
     {
-      "title": "한전 \"'개인정보 유출 판매' 해커와 협상한 사실 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001537698"
+      "title": "한국콜마, 일·생활 균형 우수기업 선정…男 육아휴직 늘고 퇴직률 감소",
+      "url": "https://n.news.naver.com/mnews/article/421/0009311208"
     },
     {
-      "title": "전주·창원에 '대도시 도심융합특구'… 지역 혁신 거점 만든다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000967495"
+      "title": "코스피, 1% 상승 출발하며 4700선 회복…삼성전자·SK하이닉스 동반 반등",
+      "url": "https://n.news.naver.com/mnews/article/022/0004178248"
     },
     {
-      "title": "원전 공론화 첫발부터 삐끗? …확대측 불참에 토론 무산",
-      "url": "https://n.news.naver.com/mnews/article/016/0002728185"
+      "title": "공정위, 중소기업 거래환경 개선 논의…담합 규제 완화 건의",
+      "url": "https://n.news.naver.com/mnews/article/119/0003159760"
     },
     {
-      "title": "주담대 금리 14년7개월 만에 최고…가계대출 금리 5% 돌파",
-      "url": "https://n.news.naver.com/mnews/article/008/0005446146"
+      "title": "물건을 사올 돈이 없다…홈플러스, 오픈 석 달 만에 또 임시 휴업",
+      "url": "https://n.news.naver.com/mnews/article/009/0005769157"
     },
     {
-      "title": "국내 기업 체감경기 11월 들어 한풀 꺾여",
-      "url": "https://n.news.naver.com/mnews/article/028/0002833818"
+      "title": "삼성전자서비스, 기술경진대회 개최…AI 활용·안전 역량 강화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005609983"
     },
     {
-      "title": "가상자산 거래소, 지분 20% 제한 추진…스테이블코인은 은행 컨소시엄부터",
-      "url": "https://n.news.naver.com/mnews/article/029/0003060855"
+      "title": "롯데百 명동 본점, 초대형 미디어파사드 띄운다",
+      "url": "https://n.news.naver.com/mnews/article/023/0004011863"
     },
     {
-      "title": "LG전자, '2026 우수디자인 상품선정'서 9개 제품 수상",
-      "url": "https://n.news.naver.com/mnews/article/092/0002446797"
+      "title": "호세 무뇨스 현대차 대표 유임, 모비스·트랜시스 대표는 교체",
+      "url": "https://n.news.naver.com/mnews/article/417/0001165711"
     },
     {
-      "title": "에쓰오일, 9조2580억 샤힌 프로젝트 준공…내년 상업가동",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609407"
+      "title": "내년 경제성장률 전망치가 무려 4.1%?…반도체 효과 키우는 ‘연쇄가중법’이 뭐길래",
+      "url": "https://n.news.naver.com/mnews/article/023/0004011852"
     },
     {
-      "title": "이억원 \"금융권 AI 제대로 써야 방어…보안강화 위해 AX 가속\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016461963"
+      "title": "보험 판매수수료 사업비 집행·공시 규제강화…2027년 1월부터 지급한도 상한설정",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848241"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4740.92,
-      "change": -265.11,
-      "change_pct": -5.3
+      "value": 4739.73,
+      "change": 42.22,
+      "change_pct": 0.9
     },
     "kosdaq": {
-      "value": 653.01,
-      "change": -12.87,
-      "change_pct": -1.93
+      "value": 660.17,
+      "change": 9.53,
+      "change_pct": 1.46
     },
     "nasdaq": {
-      "value": 23733.54,
-      "change": -356.03,
-      "change_pct": -1.48
+      "value": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.78,
-      "change": 2.76,
-      "change_pct": 0.21
+      "value": 1343.84,
+      "change": 1.19,
+      "change_pct": 0.09
     }
   },
   "gold": {
-    "price_usd": 3547.6,
-    "price_krw": 4767194,
-    "change": -103.8,
-    "change_pct": -2.84
+    "price_usd": 3609.0,
+    "price_krw": 4849918,
+    "change": 47.1,
+    "change_pct": 1.32
   },
-  "updated": "2026-11-25 13:03",
+  "updated": "2026-11-26 12:27",
   "error": null
 }
