@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "\"AI 기반 사업 체질 혁신\" 에스원, 김송범 부사장 승진",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610191"
+      "title": "F4 “공매도 특이 동향 없어…반도체 경기·금융시장 주시”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004686843"
     },
     {
-      "title": "한국콜마, 일·생활 균형 우수기업 선정…男 육아휴직 늘고 퇴직률 감소",
-      "url": "https://n.news.naver.com/mnews/article/421/0009311208"
+      "title": "\"에이피알의 닥터멜란신 인수, 주가 트리거 될 것\"-교보",
+      "url": "https://n.news.naver.com/mnews/article/008/0005447224"
     },
     {
-      "title": "코스피, 1% 상승 출발하며 4700선 회복…삼성전자·SK하이닉스 동반 반등",
-      "url": "https://n.news.naver.com/mnews/article/022/0004178248"
+      "title": "제재 ‘엇박자’ 금융위-금감원, 금융회사 중대제재 전 협의하기로",
+      "url": "https://n.news.naver.com/mnews/article/028/0002834230"
     },
     {
-      "title": "공정위, 중소기업 거래환경 개선 논의…담합 규제 완화 건의",
-      "url": "https://n.news.naver.com/mnews/article/119/0003159760"
+      "title": "코스닥 급등 ‘매수 사이드카’…반도체 ‘주춤’, 로봇·바이오 ‘껑충’",
+      "url": "https://n.news.naver.com/mnews/article/028/0002834253"
     },
     {
-      "title": "물건을 사올 돈이 없다…홈플러스, 오픈 석 달 만에 또 임시 휴업",
-      "url": "https://n.news.naver.com/mnews/article/009/0005769157"
+      "title": "3분기 보험사 대출잔액 2조 줄었지만…연체율·부실채권비율 상승",
+      "url": "https://n.news.naver.com/mnews/article/082/0001409250"
     },
     {
-      "title": "삼성전자서비스, 기술경진대회 개최…AI 활용·안전 역량 강화",
-      "url": "https://n.news.naver.com/mnews/article/014/0005609983"
+      "title": "삼성바이오에피스, 중국 바이오텍과 공동연구 협력",
+      "url": "https://n.news.naver.com/mnews/article/648/0000053040"
     },
     {
-      "title": "롯데百 명동 본점, 초대형 미디어파사드 띄운다",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011863"
+      "title": "'역대 최대' 3차 ESS 입찰… 전국 14곳 우선협상 대상 선정",
+      "url": "https://n.news.naver.com/mnews/article/469/0000968043"
     },
     {
-      "title": "호세 무뇨스 현대차 대표 유임, 모비스·트랜시스 대표는 교체",
-      "url": "https://n.news.naver.com/mnews/article/417/0001165711"
+      "title": "\"거북선 타고 학익진 구현\"… 벤타엑스, 영화 '한산' 기반 실감형 LBVR 공개",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610761"
     },
     {
-      "title": "내년 경제성장률 전망치가 무려 4.1%?…반도체 효과 키우는 ‘연쇄가중법’이 뭐길래",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011852"
+      "title": "민주노총 \"정부·여당, 홈플러스 매각 거래에 책임있게 개입해야\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014347910"
     },
     {
-      "title": "보험 판매수수료 사업비 집행·공시 규제강화…2027년 1월부터 지급한도 상한설정",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848241"
+      "title": "AI 사이버 공격에 금융시장도 위협…한국, 아시아 공동 대응 주도",
+      "url": "https://n.news.naver.com/mnews/article/119/0003160159"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4739.73,
-      "change": 42.22,
-      "change_pct": 0.9
+      "value": 4854.47,
+      "change": 143.26,
+      "change_pct": 3.04
     },
     "kosdaq": {
-      "value": 660.17,
-      "change": 9.53,
-      "change_pct": 1.46
+      "value": 695.06,
+      "change": 39.35,
+      "change_pct": 6.0
     },
     "nasdaq": {
       "value": 23585.8,
@@ -58,17 +58,17 @@
       "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.84,
-      "change": 1.19,
-      "change_pct": 0.09
+      "value": 1340.58,
+      "change": -2.39,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 3609.0,
-    "price_krw": 4849918,
-    "change": 47.1,
-    "change_pct": 1.32
+    "price_usd": 3656.3,
+    "price_krw": 4901562,
+    "change": 120.5,
+    "change_pct": 3.41
   },
-  "updated": "2026-11-26 12:27",
+  "updated": "2026-11-27 12:34",
   "error": null
 }
