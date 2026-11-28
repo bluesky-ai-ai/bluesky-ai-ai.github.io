@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "F4 “공매도 특이 동향 없어…반도체 경기·금융시장 주시”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004686843"
+      "title": "올리브영도 뚫렸다…유통업계 개인정보 유출 잇따라",
+      "url": "https://n.news.naver.com/mnews/article/009/0005769866"
     },
     {
-      "title": "\"에이피알의 닥터멜란신 인수, 주가 트리거 될 것\"-교보",
-      "url": "https://n.news.naver.com/mnews/article/008/0005447224"
+      "title": "증안펀드 가동 결정해도 '속도·규모' 관건…6년 전엔 12영업일 걸렸다",
+      "url": "https://n.news.naver.com/mnews/article/648/0000053050"
     },
     {
-      "title": "제재 ‘엇박자’ 금융위-금감원, 금융회사 중대제재 전 협의하기로",
-      "url": "https://n.news.naver.com/mnews/article/028/0002834230"
+      "title": "스테이블코인 대신 '디지털지급토큰'…정부가 '지급'에 방점 찍은 이유",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313283"
     },
     {
-      "title": "코스닥 급등 ‘매수 사이드카’…반도체 ‘주춤’, 로봇·바이오 ‘껑충’",
-      "url": "https://n.news.naver.com/mnews/article/028/0002834253"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012303076"
     },
     {
-      "title": "3분기 보험사 대출잔액 2조 줄었지만…연체율·부실채권비율 상승",
-      "url": "https://n.news.naver.com/mnews/article/082/0001409250"
+      "title": "\"치킨도 사치다\"…30조 푼다는데 웃지 못하는 삼전 개미들 [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005358878"
     },
     {
-      "title": "삼성바이오에피스, 중국 바이오텍과 공동연구 협력",
-      "url": "https://n.news.naver.com/mnews/article/648/0000053040"
+      "title": "현대차, 소형 전기 SUV '아이오닉 M' 내년 中 출격",
+      "url": "https://n.news.naver.com/mnews/article/015/0005359146"
     },
     {
-      "title": "'역대 최대' 3차 ESS 입찰… 전국 14곳 우선협상 대상 선정",
-      "url": "https://n.news.naver.com/mnews/article/469/0000968043"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001538389"
     },
     {
-      "title": "\"거북선 타고 학익진 구현\"… 벤타엑스, 영화 '한산' 기반 실감형 LBVR 공개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005610761"
+      "title": "국민연금, 9월 말 수익률 13.28%…기금 1664조원",
+      "url": "https://n.news.naver.com/mnews/article/015/0005359182"
     },
     {
-      "title": "민주노총 \"정부·여당, 홈플러스 매각 거래에 책임있게 개입해야\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014347910"
+      "title": "정부 “반도체 경기와 금융시장 연계성 높아져”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207740"
     },
     {
-      "title": "AI 사이버 공격에 금융시장도 위협…한국, 아시아 공동 대응 주도",
-      "url": "https://n.news.naver.com/mnews/article/119/0003160159"
+      "title": "“차트 보니 울음 터져”…생방 중 울컥한 전문가, 직접 밝힌 이유",
+      "url": "https://n.news.naver.com/mnews/article/018/0006416523"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4854.47,
-      "change": 143.26,
-      "change_pct": 3.04
+      "value": 4915.68,
+      "change": 204.47,
+      "change_pct": 4.34
     },
     "kosdaq": {
-      "value": 695.06,
-      "change": 39.35,
-      "change_pct": 6.0
+      "value": 708.99,
+      "change": 53.28,
+      "change_pct": 8.13
     },
     "nasdaq": {
-      "value": 23585.8,
-      "change": -147.74,
-      "change_pct": -0.62
+      "value": 24129.5,
+      "change": 543.7,
+      "change_pct": 2.31
     },
     "usdkrw": {
-      "value": 1340.58,
-      "change": -2.39,
-      "change_pct": -0.18
+      "value": 1343.53,
+      "change": 0.56,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 3656.3,
-    "price_krw": 4901562,
-    "change": 120.5,
-    "change_pct": 3.41
+    "price_usd": 3668.5,
+    "price_krw": 4928739,
+    "change": 132.7,
+    "change_pct": 3.75
   },
-  "updated": "2026-11-27 12:34",
+  "updated": "2026-11-28 12:11",
   "error": null
 }
